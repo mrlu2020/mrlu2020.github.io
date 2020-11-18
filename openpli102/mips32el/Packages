@@ -2989,9 +2989,9 @@ Version: 1.0-r0
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 56df6d6f4884990e939b1076243e5c86
-SHA256sum: 2dd7aadd4360ff7b92beb5c46bfb30d10a458e9572537da3177dbaea573b504d
-Size: 682
+MD5Sum: 7db42eae8a48bd2820b6990cd456f37f
+SHA256sum: 653a70db540ee595236b0000e5fe61a40be4a3b1065a6702390f1f7b7973a532
+Size: 684
 Filename: channelsettings-enigma2-meta-dbg_1.0-r0_mips32el.ipk
 Source: channelsettings-enigma2-meta.bb
 Description: channelsettings-enigma2-meta version 1.0-r0 - Debugging files
@@ -3006,9 +3006,9 @@ Recommends: enigma2-plugin-settings-hans-13e-19e-23e-28e-dev, enigma2-plugin-set
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: bc4a33ad76f8924de8ff55142e515d8a
-SHA256sum: de21c3cc815faf061c02ac54431e819e3186934a99a716ff65774a4c56227ddd
-Size: 874
+MD5Sum: ff36d57bfcb8a7b0943fa4e96c724603
+SHA256sum: 4684f6fe4ae7bd4641772b6fc0cc2f6c8fdd26b8779c77a1fc6f44122fe38576
+Size: 876
 Filename: channelsettings-enigma2-meta-dev_1.0-r0_mips32el.ipk
 Source: channelsettings-enigma2-meta.bb
 Description: channelsettings-enigma2-meta version 1.0-r0 - Development files
@@ -6792,8 +6792,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9af1d7d141bd843be7f1bcb1fb1278b7
-SHA256sum: 4884c6477ace26f8fc41d479c5e891df8739363b36fce329abc795508c43ccd7
+MD5Sum: c5031a706a33f0dfbb89e97acb9e772d
+SHA256sum: 1d99a4a44490d60ffe49e1747e36886d84e0b635ca523f780e6532eed1abc6f7
 Size: 6570
 Filename: enigma2-plugin-extensions-aihdcontroler-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -6807,8 +6807,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 49f5e92f4ae2e4b3be5257b034b49aa0
-SHA256sum: c3082ca1444191c961401b0bbada4d8ec9ec0dfaecf7dc161afa0d9a68f32b97
+MD5Sum: bd56389a8682d97ff20ee1a99f729966
+SHA256sum: ebd5f63c9d531f9f90707563f36c40e6c207a092afd0bd8734adaf52a7c93b7f
 Size: 421076
 Filename: enigma2-plugin-extensions-aihdcontroler_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -6955,8 +6955,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 05d998de91e75af089b8f80d29b99d56
-SHA256sum: a770930d1075ad32b6c1387236f9dd3aab6a825d3351a9bff0fb5bb982aa6ed7
+MD5Sum: 6fb951306ef5f0841146e52cfb989a00
+SHA256sum: 597adee9946bdc11727097f9ac93b66b855727199fb07c53b07ae3c065c5903e
 Size: 3214
 Filename: enigma2-plugin-extensions-antiscrollbar-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -6970,8 +6970,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f7d6baacab7f265a6acdb4360c3babb2
-SHA256sum: 7126ff4e2c3379e430bc7ae153f2c741ca1a731779d28e313f03096c96112823
+MD5Sum: d2346f1d6e995ac7d1d10f768e4f7891
+SHA256sum: dadf2454ceada67e1101c0bf7b4adfecdb72c5e13de560a85a4719689741321d
 Size: 8854
 Filename: enigma2-plugin-extensions-antiscrollbar_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -6986,9 +6986,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: afcaac5b17dd3b725d3f331ed6fdf416
-SHA256sum: f3a5fd05043caf62eed72b4c606ffb05f2f1a67110aa103c1513c0a92dbf491c
-Size: 8670
+MD5Sum: f9ee122dc58315ad4fa5cbef99bb152f
+SHA256sum: dd2d4d47cee3a21c19c333eaaee09b024893904e755b087621b795ceda3bf6d4
+Size: 8672
 Filename: enigma2-plugin-extensions-audiosync-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-audiosync (source files)
@@ -7003,8 +7003,8 @@ Conflicts: enigma2-plugin-extensions-ac3lipsync
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b13e20a8b0d5f6d262f30facaab82047
-SHA256sum: 292eb5e8b14fce601cff0430aea4e44a8e8053cee083fa87f55b575202d2ed1b
+MD5Sum: d7962767434b6a9d69d476e49694647b
+SHA256sum: e163015e3edb55f5696c504cad078c5c75d6a04f0f4f677ea2d4d2be6eedba9a
 Size: 41422
 Filename: enigma2-plugin-extensions-audiosync_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7135,9 +7135,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 55368ffd6532b04cebb247d98e31c42a
-SHA256sum: f4d9c43ee3d2507d190c8a55174c61680d0dc750d2f77cda1f030a4729e31eb5
-Size: 52670
+MD5Sum: 7b37184c41af34aeded86f68c57b4280
+SHA256sum: 8bfbaa2ce33bcefd8d1985df248d4119e622861b69cc9616c0ce99a16608a871
+Size: 52672
 Filename: enigma2-plugin-extensions-autotimer-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-autotimer (source files)
@@ -7151,8 +7151,8 @@ Depends: enigma2-plugin-systemplugins-mphelp, python-codecs, python-difflib, pyt
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 413d09d3c16134e5d5e8b80b22ca74e0
-SHA256sum: 328a8b44e1a3150271ce17bf6cb2bc1ddf19c82bd5fb2ba481ca67f24aad63d9
+MD5Sum: 34f6669a0baeb38e92d443e1976734ac
+SHA256sum: cffa832e3dce166c139a9aff35b5dd60416a71486c5e4eacb6fe67fa136533ef
 Size: 253532
 Filename: enigma2-plugin-extensions-autotimer_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7167,8 +7167,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e8f6d77abb2a6da40ea818abdb64876a
-SHA256sum: 1f60aeebdfab833dcaef433d765dc4011d89fcd9ce83b627cc65a2de2e79cb03
+MD5Sum: dd73e06f178fca345a9e804939555535
+SHA256sum: a2b9f6f66f15ab3df73106f3706652bd29b5818a61188ff12ebc7e3b15ecb3c4
 Size: 4604
 Filename: enigma2-plugin-extensions-babelzapper-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7182,9 +7182,9 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: da6365ac22ac0dbc7b24b0c1d3c3016d
-SHA256sum: 34639c71bc5fc6960f17cb464354532d7ec1b6ae89a270a6e656070c38d60c48
-Size: 16080
+MD5Sum: 65f1de4bc7e7d885209eb5b5c45101c6
+SHA256sum: 742c5d8b52f56a424b6597a3ec68b014191a41482083a3ad23c815be8a2e8810
+Size: 16082
 Filename: enigma2-plugin-extensions-babelzapper_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Control your dreambox with only the MUTE button
@@ -7193,14 +7193,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-backupsuite-dbg
-Version: 26+git518+57f1604-r0
+Version: 26+git520+4e1549b-r0
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision Developers
-MD5Sum: 1cce66943b7633f2213aaa542d7a04cc
-SHA256sum: cffd03148a0332b6981f2e9633c22cf3c2be9e670f4233f6d780f5d2dc24967f
+MD5Sum: 77d7de569971b98fd90d701d86ed8ee1
+SHA256sum: ff0d64703f9193ffd199ce810369f2b5f119447546cfa467e90054245480c6fa
 Size: 678
-Filename: enigma2-plugin-extensions-backupsuite-dbg_26+git518+57f1604-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-backupsuite-dbg_26+git520+4e1549b-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
 Description: Backup and restore your image - Debugging files
 OE: enigma2-plugin-extensions-backupsuite
@@ -7208,16 +7208,16 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-backupsuite-dev
-Version: 26+git518+57f1604-r0
-Depends: enigma2-plugin-extensions-backupsuite (= 26+git518+57f1604-r0)
+Version: 26+git520+4e1549b-r0
+Depends: enigma2-plugin-extensions-backupsuite (= 26+git520+4e1549b-r0)
 Recommends: dreambox-buildimage-dev, mtd-utils-dev, mtd-utils-jffs2-dev, mtd-utils-ubifs-dev, python-dev
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision Developers
-MD5Sum: 04f747de6077d532779dd35bf8321284
-SHA256sum: 15809a65b7eeadfc51a80556edc9a222c2c978f7e72b18338e42d6b14df8038c
-Size: 764
-Filename: enigma2-plugin-extensions-backupsuite-dev_26+git518+57f1604-r0_mips32el.ipk
+MD5Sum: d5f41048863561ae336ca1fc3d902951
+SHA256sum: b92b1539f335867e946b1bca87b96f5462708fa811f8f89519d4ac844b9f2732
+Size: 762
+Filename: enigma2-plugin-extensions-backupsuite-dev_26+git520+4e1549b-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
 Description: Backup and restore your image - Development files
 OE: enigma2-plugin-extensions-backupsuite
@@ -7225,15 +7225,15 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-backupsuite-src
-Version: 26+git518+57f1604-r0
+Version: 26+git520+4e1549b-r0
 Depends: enigma2-plugin-extensions-backupsuite
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision Developers
-MD5Sum: 5924b6b43c0284cbaa66fbbc0d29bc23
-SHA256sum: 68d59851ff14fbf2262ec990eecf7c53a9ff3548a3e00fb6b9b0273f37f9b6a8
-Size: 10094
-Filename: enigma2-plugin-extensions-backupsuite-src_26+git518+57f1604-r0_mips32el.ipk
+MD5Sum: fd4ef30e31bd15506a38b2dfff5b76a7
+SHA256sum: 198fb78caf94f897bad8b084fcd64a964d09aeddf2021503ec3991b46f21aafc
+Size: 10096
+Filename: enigma2-plugin-extensions-backupsuite-src_26+git520+4e1549b-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
 Description: Backup and restore your image - Source files
 OE: enigma2-plugin-extensions-backupsuite
@@ -7241,15 +7241,15 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-backupsuite
-Version: 26+git518+57f1604-r0
+Version: 26+git520+4e1549b-r0
 Depends: dreambox-buildimage, enigma2-plugin-extensions-backupsuite, mtd-utils, mtd-utils-jffs2, mtd-utils-ubifs
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision Developers
-MD5Sum: 2ead56255ff3d1e791af566ac4e13b7f
-SHA256sum: 6ed657225588a45ef6181dc0018c830c9a7ee330c2b570ede14e724b4637c06b
-Size: 84234
-Filename: enigma2-plugin-extensions-backupsuite_26+git518+57f1604-r0_mips32el.ipk
+MD5Sum: 21cc1eaa24b05415191d2045efbb986c
+SHA256sum: 3608a44e7b6db67340cfc46ce96668fcaa6612db3e28d29befe25bb7219e2f10
+Size: 84210
+Filename: enigma2-plugin-extensions-backupsuite_26+git520+4e1549b-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
 Description: Enigma2 Plugin: extensions-backupsuite
 OE: enigma2-plugin-extensions-backupsuite
@@ -7447,9 +7447,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 385f8ba26fb589b010de8ac3ba206f92
-SHA256sum: 7eea05308b74b9f8977272ee48b1cd794a3e73be92dfe9727e74059297260fc6
-Size: 3440
+MD5Sum: 5df6ec3a81ee47716dcc2b6ef28e7b9e
+SHA256sum: dd91a4f1a8938eb1d1bd9964a097fae66ae21aa27a541467ab9393dbc088afe1
+Size: 3442
 Filename: enigma2-plugin-extensions-bonjour-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-bonjour (source files)
@@ -7463,9 +7463,9 @@ Depends: avahi-daemon
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 26cd90c2bc83b9d0532723016b9aeaf9
-SHA256sum: 96ae6eb50b6a40b89ef2ab68f4549d09586ab1ee801e811d3e1812314c5b34ed
-Size: 5008
+MD5Sum: 5f96d283c2aff452522c140167501c81
+SHA256sum: 8ffa80aefebaef3d5f82c8259d42fe7cb594a0537ad48b130f39b66b17ac8b50
+Size: 5006
 Filename: enigma2-plugin-extensions-bonjour_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Bonjour/avahi-daemon management for your Dreambox
@@ -7609,8 +7609,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 144def41169d7c93158be53cbc6a059a
-SHA256sum: db7d4ddcc697ec72e1fca39573a7a6b2fc89ec1926da691a35ec7917190b0306
+MD5Sum: 9766baa280e2a135dcdb30bee9cbf9d4
+SHA256sum: 652a909808072f7abe39c1303fea5738077774045625c005bfa0e5d505cf3f93
 Size: 3708
 Filename: enigma2-plugin-extensions-cdinfo-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7625,9 +7625,9 @@ Depends: libcddb (>= 1.3.0), libcdio19 (>= 0.80)
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f9e8edbee5faf4198c57653aa777feab
-SHA256sum: 5e885745ab553ebab1c439f5c74822d91511a5eebc2f6f8031efd058a789035a
-Size: 8790
+MD5Sum: 5a4f8fc56770b9fba00f85c18ce74809
+SHA256sum: 89f2a0458ede3d6343f4150e06feee1e4795b3b54ec15f7ed17d414e90825504
+Size: 8792
 Filename: enigma2-plugin-extensions-cdinfo_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: read audio CD-Text or query CDDB for album and track info
@@ -7705,8 +7705,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b99627c8d302735feff965539ec24917
-SHA256sum: 6b669316a44fd02e0eec17aec5e582eb41ab87909f1892fce2b077ef3eab1900
+MD5Sum: 8093a33f5898f1bf0871cb03b31e113c
+SHA256sum: 5de80d4dc52893e9366d42a6d294bc798a96c704af30543908b73af8d0fd62b1
 Size: 12802
 Filename: enigma2-plugin-extensions-dreamexplorer-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7722,8 +7722,8 @@ Recommends: gst-plugins-good-flv
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e02c06e413d48f9b923e0a28078f3542
-SHA256sum: 3a4dd26c6ed039ff2e550c77d23e792aa99298a012492189906e38545e9b7bf0
+MD5Sum: 74d68a590f61f740b69d957909398608
+SHA256sum: cfec7ca3b3507a3fb5cc0f02b4f6f04e7f51e1f67c9e09e5b9c96d59bf0f7e6d
 Size: 56404
 Filename: enigma2-plugin-extensions-dreamexplorer_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7738,8 +7738,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 336bbcf51022a77bb3763dce0be241bc
-SHA256sum: 905b48946ebac8c28ccf63905c132d257ddfb027a181bae94510b32bca78a428
+MD5Sum: 024dedeaa7070d2f14d5c191828ec45d
+SHA256sum: 4e2168f72e05ac3f02ac183a2d43ec1c6708ab818829d822bd5dc06c60d24f34
 Size: 31166
 Filename: enigma2-plugin-extensions-dreamirc-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7753,9 +7753,9 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c2bb67e94a32d39414eb34e2b088baf5
-SHA256sum: 7e03381d483658a09f078a5a2f0c22efbc96c7b456ac3b60e03b06bab3f90066
-Size: 33758
+MD5Sum: 88a2fbce797df608ee6ed4400a7c88bf
+SHA256sum: fd1d859f1eb10f036ce9451bb1ba16649e780a587ee421d4cc646773c0300171
+Size: 33756
 Filename: enigma2-plugin-extensions-dreamirc_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: simple IRC GroupChat client for e2
@@ -7769,8 +7769,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 290bb2bff7f33dc44832604628335dfa
-SHA256sum: 08651d4829c7950fefd3938b30084666acf5169fc34f6ed8803b262daeeb7d70
+MD5Sum: 8465c529a798d3897b0b8131077b3cc7
+SHA256sum: b9429c99d00a8ff3a48fe52ba4e07746c30d536c1468457f5cc926887343b055
 Size: 5556
 Filename: enigma2-plugin-extensions-dreammediathek-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7785,8 +7785,8 @@ Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 682ddc719a4f86dc1dd00841ea303171
-SHA256sum: 20838b61d58c6508cc297af6f000eb5fb7e6655fe597d073c129c47aef8ea862
+MD5Sum: 3ecfef171b0fcbd18df770fca18af752
+SHA256sum: ae7152d9aaddd35478427c18a919d76bd5c403ce071dc7c5dfd47de4cebc9c6d
 Size: 8948
 Filename: enigma2-plugin-extensions-dreammediathek_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7801,8 +7801,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 106ed64badeacb9b31b1d79c3599e07b
-SHA256sum: 41f206824a747eeca0dcdd6ab5b9f7f3cb45cf737572017a0841bd071ac7efca
+MD5Sum: 0eacd494d5ea9d63cd2d180f3ca7afd7
+SHA256sum: 8ce04e9d6203fa6c337fa65e59a2f6a243283ada2b9062ac8cc65c5577d506d0
 Size: 6520
 Filename: enigma2-plugin-extensions-dvdbackup-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7817,8 +7817,8 @@ Depends: dvdbackup, libdvdread
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 29d2d9ff3401d94a6e129d76830b4514
-SHA256sum: 2e21692858366749fae12bcd857f73b2ea9dfc42dc30d51c925881a3461a9bef
+MD5Sum: 8af569e94b67b438a4a2542f77de5351
+SHA256sum: 927554faadb7312ab472ebd623901281970690029bac979857cd26ac87aa749e
 Size: 16150
 Filename: enigma2-plugin-extensions-dvdbackup_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7833,8 +7833,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fc150e21819751f12a546e6c929c25e7
-SHA256sum: b95e4700854d1598c9325da78352b1f21aa6d20f441247f3e7f860691c3fab8b
+MD5Sum: da58f1691b268fe978e69846b61ed558
+SHA256sum: 63ed4e3531ac037645d3bc2c815a86f13f559988c947b35e08065a01c268b2cd
 Size: 2612
 Filename: enigma2-plugin-extensions-dyndns-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7848,8 +7848,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 078cfa64dc41b89e52acab82f35db6b5
-SHA256sum: 19973848759741333c4496a7a03bc4e4390a466502ef17a0818925dd5c0aff96
+MD5Sum: acddfa25a6bb1bd866c58ddd82524170
+SHA256sum: 14a66d96b455782cd5a966a566210504c53f097a665138e7bad827b7a82c38a5
 Size: 7464
 Filename: enigma2-plugin-extensions-dyndns_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7864,8 +7864,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 05fb3f0d13d08eff42af00f437729143
-SHA256sum: 9368168c2a4731439eea28d9bd88cd0a088e4bc8a983000df4bbb4defb2730af
+MD5Sum: 83085544343f44538c2f8a31ad95002d
+SHA256sum: ae743b111a1cf83252e5c6bf7c0de2ce7ee00750e71f4ef13fd028d0ad21e768
 Size: 9410
 Filename: enigma2-plugin-extensions-easyinfo-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7879,8 +7879,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 92bb6649150577ddcd22368c47b6181f
-SHA256sum: 72ec8ee25de91ad4090592fafaab2744fc0d0f160ee6f502076907ac48348f90
+MD5Sum: 59f5a303d124eda3413b0d3174fdfe39
+SHA256sum: ed6aa6d14aebc02d6f7e48fa3c4a6c77cf87a74556e77cb6f4d106c0b814cf93
 Size: 32758
 Filename: enigma2-plugin-extensions-easyinfo_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7895,9 +7895,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: be1e58ac82985b5ed13c42fd0aadda8a
-SHA256sum: 256ad483ce38e31e195ad2e84dc5814465fb46d967524a1bb483acad3dbe503d
-Size: 6132
+MD5Sum: 292c698106bae840415b1471608c9c3d
+SHA256sum: 8f43ef2094f432136f3ddafd61aa589938b640124760e56256e8c4dff120fe36
+Size: 6130
 Filename: enigma2-plugin-extensions-easymedia-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-easymedia (source files)
@@ -7910,9 +7910,9 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f24858f55a701e46e6936fa94fbbef88
-SHA256sum: a1d0a802bd313fc958fcda26496b788389971c1e2bb61302ad087915e520842d
-Size: 78862
+MD5Sum: 010d3898f75ece2b77c7fdab563f2d2c
+SHA256sum: bc58988ecd24ec45345deb81949dd3609097bcd78f31007b3cb1aab381d9fafe
+Size: 78864
 Filename: enigma2-plugin-extensions-easymedia_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Start easy your multimedia plugins with the PVR-button.
@@ -7926,9 +7926,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2e198d64161f54be7b322ea3acce03b5
-SHA256sum: 31bf406088ef420f3e0448970d50676ee0ce99d0157df5e6c6f1985be4862cde
-Size: 6980
+MD5Sum: e9236394dda7156bcfd9b7d1df307be3
+SHA256sum: a5fc3272eac8bb851588abad483abac1a7ef65b567fbfd2bc103b882940856a4
+Size: 6978
 Filename: enigma2-plugin-extensions-eibox-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-eibox (source files)
@@ -7941,8 +7941,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 11fff3fede686672ce46933214adab49
-SHA256sum: 783d9337e9fb8608ba3540b25ca00a2e60fc866f9b6cf60bb3143919cb67c275
+MD5Sum: c1ed99e32cf67a238379373aa4a683c5
+SHA256sum: 2e7040cffff77f30eacff84523afde42df8409404aabe6274a9f6d87f81979b2
 Size: 58276
 Filename: enigma2-plugin-extensions-eibox_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7957,8 +7957,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5fcd77228cb3087bcd0dc3c553bc00f8
-SHA256sum: c8b854d97f2cde9a6bd13852b1b3b8f0d7f9ae1a5709687fef10e64fe3e8cb5d
+MD5Sum: 340ee08b4915fb5a6a15b1d8cdcfb2a3
+SHA256sum: 18c9a8573a744b6f0bb71752e16a5dc9089be8c1af9c32a50a3c8100398d3c6c
 Size: 10290
 Filename: enigma2-plugin-extensions-elektro-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7972,8 +7972,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5025afc4430b109e406e191eb4207a4a
-SHA256sum: 2e3eb0d5d9c83f5684a38cefa66e2d351605158235a663b302436e33b705ae4b
+MD5Sum: 42f74e63fe67cf3705e8a3a575f82439
+SHA256sum: 6abd7e774ab75f9aedace5404569f08b386e2a4041d0aba3188ef8ab69d806d9
 Size: 28720
 Filename: enigma2-plugin-extensions-elektro_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -7988,8 +7988,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7bfc24a9f4cbfac0dd930dd8eea152de
-SHA256sum: 0c9464f54bbcf2515abc278432e841479339a975bd53c085d69c7e1c4aa400ff
+MD5Sum: 5771101b10218bebf304592e860a9f04
+SHA256sum: 7295391976d75b277f750cd59f1be5bf3f7f32cc529476f30577e6735d30baf7
 Size: 15768
 Filename: enigma2-plugin-extensions-emailclient-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8004,8 +8004,8 @@ Depends: python-email, python-pyopenssl, python-shell, python-textutils, python-
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 76ac3e81caf8b9b09ec23d17b6fb7972
-SHA256sum: c149802b005351e11cb74ac63ceb84858379d371f47d207c6fb7a4dd5e09840a
+MD5Sum: 5dac24651bc503ae18dfada4b190b35f
+SHA256sum: c07ae684ac8f7b29f71024544e5ab50532f57d3825de4046616372be409f6fba
 Size: 34006
 Filename: enigma2-plugin-extensions-emailclient_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8118,8 +8118,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0be0eb36fea5b6cbabe0b652ee6e9ac2
-SHA256sum: 93baf63a55d068cf02aabe9437fb107dfbdf2715138f3708af49e432e940e42f
+MD5Sum: 11a3536cc4a7038a460407fa9a539d79
+SHA256sum: 1c2a8f3212042a9352f7a319b5857a4289adcd6958dcd6c5179df3b1be42a79e
 Size: 21336
 Filename: enigma2-plugin-extensions-epgrefresh-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8134,8 +8134,8 @@ Depends: enigma2-plugin-systemplugins-mphelp, python-codecs, python-difflib, pyt
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 27d365c1584413270d5598039374a73a
-SHA256sum: 149213603a60c266d03d5178c818f7461e181a217a1c39e80b514353abc0f3b9
+MD5Sum: 1984fbbc60b87f7860b94029a09e3de1
+SHA256sum: 7589a96c25783da21fe875300756169615b9c3ff3455ac6ad612b83cd1dd2b47
 Size: 68598
 Filename: enigma2-plugin-extensions-epgrefresh_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8150,9 +8150,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b712189c4fd60f2372d1c3c607791af2
-SHA256sum: 51a61ceaa440e2e596a900760d3eb05a9d09eaa7afa43650540a8b80912b4713
-Size: 12088
+MD5Sum: 72aecc6c98e12276841b2b89c165ac11
+SHA256sum: ba9374d1ce62e90b71536db71b302494edd0c7027c8494de5d4549aef0ab88a8
+Size: 12086
 Filename: enigma2-plugin-extensions-epgsearch-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-epgsearch (source files)
@@ -8165,8 +8165,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: bca7775ef1567af81ba6a1407bef71ca
-SHA256sum: a94fa998577b099a5f5f9cf96c7bc658d3f3329823d678eaff927486c14ddd58
+MD5Sum: 2b37a87d7bae62f61271433f59a1c45f
+SHA256sum: dd345a905081329f7c050c015be78d5765a931dc9da1fbd2ec10d2f5e1622c22
 Size: 52938
 Filename: enigma2-plugin-extensions-epgsearch_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8181,8 +8181,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3c2b6d534d2797f6c7d40688fb99a2f9
-SHA256sum: d70f998a1c3da50f9d17a1467288d5d4327e40115f3dae072645b035c78ff2c5
+MD5Sum: 29eb28ba17dfda68bd16f09cf30a33d5
+SHA256sum: 048f3d102882ab67bd854aa972e700e3756ae865e24c79637484d74b43d34ff7
 Size: 14922
 Filename: enigma2-plugin-extensions-fancontrol2-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8196,8 +8196,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 47c918538d22e716fa337bc314ac710c
-SHA256sum: d16a18cf2cdd7cdc924e29e7cb1bb1598d5d2155c73ab6652b1a5bcec1dde2c9
+MD5Sum: 73c08bd86cb80147ee484e0ffe94aaca
+SHA256sum: fcc06dfa30ff297b2bba285e253aa6e0a16a765ff6c5ef58ad02a03b7f887de3
 Size: 81426
 Filename: enigma2-plugin-extensions-fancontrol2_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8212,8 +8212,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: db389b6bd16608a16af755b2574ec1d2
-SHA256sum: d6d0128668a1b9d783d447a6cab4b406aa61ea3d1b4d1f55acb71b05dcf2dafd
+MD5Sum: 8f989dbc2917432a82aa544c216076e5
+SHA256sum: ccabf460cfa76d11be353f116df2d53abff73c16c47cbc6df4a50cfe97a748c2
 Size: 5468
 Filename: enigma2-plugin-extensions-filebrowser-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8227,8 +8227,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 657575557d2828607aaa8ff42526b479
-SHA256sum: 9337c9829dd1804809440b2b63b6c4651d7f62f7b70789ad1856bfbe17de52f4
+MD5Sum: 6b3d134d3d811463d117121d11284dac
+SHA256sum: ee44e48af4c0f89d76174eb94d702724c854bdf1646528f76f8a0d1ef2617a24
 Size: 10568
 Filename: enigma2-plugin-extensions-filebrowser_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8421,8 +8421,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 08a236eb40801f84a331fa384102898b
-SHA256sum: 83be179d7a7f48140f76c1cfe9ef53b53738610361f46120bb33469b380a2b86
+MD5Sum: 0b05f100a6219af306cb3c0a5cc1a8bf
+SHA256sum: b8a3b856bb2f5578699cf3d8e4a1293a780f6a670e4ed1c338765839bbbe28d4
 Size: 57984
 Filename: enigma2-plugin-extensions-fritzcall-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8437,8 +8437,8 @@ Depends: python-html, python-json, python-textutils, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d270184136d5dc52a762e58bae5c95f4
-SHA256sum: 0f6ff9a25f1260c7781d2a6f8c383d6a2e0b4dcc0eaca2ec1fc71478aefc5b85
+MD5Sum: eae97294bfdb83644f2518985199744e
+SHA256sum: c041eb91c2ff2b375e11b1df596b5a2549b79cae57a25850136d452fa61cc1df
 Size: 307758
 Filename: enigma2-plugin-extensions-fritzcall_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8453,8 +8453,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9c20f44ce93be38dd67d3a8607683108
-SHA256sum: 7acadd5ac5f8cbce04a02de69b9bdfa9844a05e6441e13a4cc0d83921dd849ab
+MD5Sum: ce8d2e687965d6b67b36148cc90cfa63
+SHA256sum: e8b79841fa5f22c95e8c33b5b6a5b8cf35843b1f37bf5bea2368ae5d0b6bce58
 Size: 5174
 Filename: enigma2-plugin-extensions-fstabeditor-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8468,8 +8468,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8c0fcee336d3f259f37c5cce405dedce
-SHA256sum: 639a738f3790a9b0b49a3f5605a92d6e8b917ff0c56109f9e43c07a524d8b1e7
+MD5Sum: 9d10571d5f1079af4027d24e6813eeaa
+SHA256sum: a8a6218d28f65a07e652a83dfb6c87ab5257d900f2b0ad1d82bd1162735978ae
 Size: 14194
 Filename: enigma2-plugin-extensions-fstabeditor_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8484,9 +8484,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7ff5b85ec88505e45fde94945bce2430
-SHA256sum: cb5cc210520ef32a561270e2658e5bdb7c538a5b30af146242ba385611d610cc
-Size: 10660
+MD5Sum: ebc4b57bcb0182636b8fb82a6cdcfa19
+SHA256sum: c73ee148cc6a0da51485aded968d55cd2bd89a3f67bd98fb4c4226a747b546f0
+Size: 10658
 Filename: enigma2-plugin-extensions-ftpbrowser-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-ftpbrowser (source files)
@@ -8500,8 +8500,8 @@ Depends: python-shell, python-twisted-protocols
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9530dfc5cc9156ff23a9c4537f201e56
-SHA256sum: f4b73dbe534b2c541c37b269991ea73a7d9042a1977807f4978fb9f43bc99deb
+MD5Sum: 24ae90e0beb138c22e08edd908a0dec3
+SHA256sum: b1832e34708fe0d60ef42b95e8caf3fa115a6aef3390ba8b8d681f94660e3b82
 Size: 27866
 Filename: enigma2-plugin-extensions-ftpbrowser_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8516,9 +8516,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0bc4790db3ce64748123e90cd6a5a126
-SHA256sum: e1ef578a1c447de756f257906af292c62f7c4026aad8b6aec18924f336f5786e
-Size: 7426
+MD5Sum: e5d51bce917a4be6b93e8a44ac3fb813
+SHA256sum: 7269055ac1fc4857f1de1a1dccb45a05cfc311269921a44023e53c15b4a01d54
+Size: 7424
 Filename: enigma2-plugin-extensions-growlee-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-growlee (source files)
@@ -8532,9 +8532,9 @@ Depends: python-twisted-protocols
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 062956351ba82a5d9f756a75ed463e26
-SHA256sum: 7b6211b05b54a25037f366c5583660faa77dd6346b6d2d55a12bbb1eb6712d91
-Size: 11186
+MD5Sum: c0d2af8cb136f00322cd0350826f46e7
+SHA256sum: cbe5cf32b13430cbf42b8ff26b73f83b04675b97852287ec6ec15b29e359785e
+Size: 11184
 Filename: enigma2-plugin-extensions-growlee_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: redirect notifications to growl
@@ -8665,9 +8665,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ec6d5cf5941b0e46814b09cbab1222f0
-SHA256sum: 6f30ddd211c7d17e7bfc49de3de3c28968645967c70e4e5c91b447811c4058b4
-Size: 2742
+MD5Sum: 2a13a155d53d16bdb37c34bae16219b9
+SHA256sum: a89660861e66265fecbf150824304df6b0cc36d717bec6febb26004cb87af08b
+Size: 2744
 Filename: enigma2-plugin-extensions-httpproxy-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-httpproxy (source files)
@@ -8681,9 +8681,9 @@ Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5b8d3c2fdb6608958a53e29805b79133
-SHA256sum: bdd5e1c8435f50d620874a38aa54b6480ac4499e707443592be9928db08fed19
-Size: 4038
+MD5Sum: bd25893f3195f5ef50b4a579636c8e06
+SHA256sum: 7e1797ba060d49d6f7783ecb2f2a89b4af8b23cca3ff22ddd638eba9e8594222
+Size: 4040
 Filename: enigma2-plugin-extensions-httpproxy_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: use your Dreambox as Web Proxy
@@ -8697,8 +8697,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fb4cae99f865cb62adfd4e156085c3af
-SHA256sum: e5a1910b79478d926270bcf3766654be1edbd5b34895cf058955c3afdd9ee7f8
+MD5Sum: ff266cead7811b2a232a055f9874b265
+SHA256sum: a9d41529744c8a2b5a524f1fa4203d3966b48dc240667faf66c3437823485c93
 Size: 11198
 Filename: enigma2-plugin-extensions-imdb-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8713,9 +8713,9 @@ Depends: python-html, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 57b0e2266f521ba0c44219f66dcac4b2
-SHA256sum: 02917b390fb59a65e055d407af1061214be25691b8ed25c7c67fc50c77b77fad
-Size: 41036
+MD5Sum: a57160f46d89eb7bcf5fb1287739af68
+SHA256sum: e76bbce36547e662356cf29596d28806573d86b478a0425211ac866ddd438380
+Size: 41038
 Filename: enigma2-plugin-extensions-imdb_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: query movie details from the Internet Movie Database
@@ -8793,9 +8793,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6ed558d4b19a3a692557e3a0c0141e1c
-SHA256sum: 9f700194ca8746a48ddc267a23cf22ca593684107c10e155bad4e8482cbf9be3
-Size: 8636
+MD5Sum: ffd702d9a98d0632ca7582393fc10dbf
+SHA256sum: bc0166e91b54a6f754014dc567abe4b909123e8ade3316745a0593becadc4a9f
+Size: 8638
 Filename: enigma2-plugin-extensions-kiddytimer-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-kiddytimer (source files)
@@ -8808,9 +8808,9 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b2689633f0a21c59b285800f996140e3
-SHA256sum: d4eb8777cccea439b5c42538fd9d490e654917824ee869a9e0ecd521cf4f17e6
-Size: 90944
+MD5Sum: 4a2f07727cde4cea42ba6e24a4ef8af6
+SHA256sum: 59129b11e93a2865c10f073bb6847595cf1887d35231ccfe9a073c3c20f4fa52
+Size: 90946
 Filename: enigma2-plugin-extensions-kiddytimer_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Allows to control the Kids' daily TV usage
@@ -8824,9 +8824,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: cc2b1d599540e4028d47493451c1f7d8
-SHA256sum: 197da412c14064fc617bf45062a964451e81956bd5116cc256409bb933fabcaf
-Size: 1514
+MD5Sum: de3fc2519b7f5f2224cb4465cdffa2e2
+SHA256sum: 584c1b582ca9c5d2163312703d5c6451faa1b4017c60814d7f9b212a45d3e2f9
+Size: 1516
 Filename: enigma2-plugin-extensions-letterbox-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-letterbox (source files)
@@ -8839,9 +8839,9 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2ed804f8b195654d0d80d1d8a8dcfefa
-SHA256sum: 31a2c0ca9236cc694dffb9c6d5d9450ee68dc05cb0c41e3bead3e90734d4add0
-Size: 1984
+MD5Sum: 1c2651cc7af6cd08fb210b50327064d6
+SHA256sum: cd096ad9f0b32a0510e7ab236349119703ef59e24b2387da02032270ac03bb33
+Size: 1986
 Filename: enigma2-plugin-extensions-letterbox_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Zoom into letterboxed/anamorph movies
@@ -8855,8 +8855,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f49e743a0b0ae58d691211228be37e75
-SHA256sum: 293342ccb4151463bb20a17ddb9d8841b547ed777cec8bfb4ae4f52cc835a359
+MD5Sum: 48347eb913b8bfce491b4ea6abdeaa37
+SHA256sum: ca9c67730e61c6a7199fa8cf49ae9c59f11e50d5bb9a3e622a69ad4527528c31
 Size: 4204
 Filename: enigma2-plugin-extensions-logomanager-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8871,8 +8871,8 @@ Depends: enigma2-plugin-extensions-filebrowser, enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 35b7adce9cc3186ba3c76036c7642b39
-SHA256sum: 86445a95c3be989971067a552f222f3dca8463974619966cc3abda255ad58ed2
+MD5Sum: 742fd1c8bff2956f3fec44e69b96ed8c
+SHA256sum: 73435141252f3dca8ec4e29c4f84d9b55d12b1726d05b8cbc39b79568c92310f
 Size: 12222
 Filename: enigma2-plugin-extensions-logomanager_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8935,8 +8935,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 153a3c6b957ea6fb533e903476299503
-SHA256sum: 275ef6e5d7ae1da622a74e059436a77ce5da8443bc8db890b83b0b5614e2575f
+MD5Sum: fa9ebdf2164ee4e8c6a1c3982f0c8073
+SHA256sum: 7c05b5ff27fc0e70f21099f53bc41d3db0c0122bc143bc2df145acc8ba782dd0
 Size: 6020
 Filename: enigma2-plugin-extensions-mediadownloader-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8951,8 +8951,8 @@ Depends: python-netclient, python-shell, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 82c4bdcae5edbfc09276ddf20f9a0d75
-SHA256sum: 1cc0a59d248c76a3b62bf5df40b54716b876e73063679b2979119d4e3622522d
+MD5Sum: 34546e8edfa6aeee6a5184c6ee1b4de7
+SHA256sum: 34d685d92d569a4524847edbec034db8a127a48cb970841b77a4761e0e3ac080
 Size: 11148
 Filename: enigma2-plugin-extensions-mediadownloader_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8967,9 +8967,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a27bf8616a7e30ff36fd7eb36c6b8e10
-SHA256sum: e9830ee8ccd8e8ed58dd7ddf5bfa680e07fd146d96ec5ae6fa86aed5cb2852e6
-Size: 8470
+MD5Sum: 8426d710ce4cd2310b0d9e8ec197c366
+SHA256sum: 2af27296724163ea32edb112dc874fd373a7737ce8f171895d7404221853e4e2
+Size: 8472
 Filename: enigma2-plugin-extensions-merlinepg-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-merlinepg (source files)
@@ -8982,8 +8982,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8143a77fd9ff78c652253a6ee5c44398
-SHA256sum: f5cce970af7bc8087fc506f7efac10599f316edb6448d7197205a361a7a6efab
+MD5Sum: 83f6792fa36124f0e7c8dd8996c37464
+SHA256sum: d6e2d6bbbf95398c245337963e4d8b00e95f3d15333ca36c22e15b24b084109e
 Size: 134650
 Filename: enigma2-plugin-extensions-merlinepg_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -8998,8 +8998,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c01162da2f00efb7d7ae7ef8457bfb5c
-SHA256sum: c82500c2207e9fd47facce4670a321b8c9d5b1a713e61a076b05269f9ba316bd
+MD5Sum: c09fe2466000b265dea13fdc77934e44
+SHA256sum: 4a6c0d7c1594a2787138e3e7975d780561b3af48fa78205fa017218133fe67e9
 Size: 24706
 Filename: enigma2-plugin-extensions-merlinepgcenter-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9014,8 +9014,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 066ea66d4a6c2bf46afc994f5fe0e142
-SHA256sum: e3c33ce49c34078d1e0c0679b5251d8c71708f0b0d78a589f73ad425ad2d5302
+MD5Sum: 6ef1cf5b11e11962242f45dfe3cfa46a
+SHA256sum: 2364e1c313d12d4f38a4a1aa4dfbce812f354c83848082a8981b8ca00e2bbf64
 Size: 59386
 Filename: enigma2-plugin-extensions-merlinepgcenter_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9030,9 +9030,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 976296d435fc16734b01de3a8488755f
-SHA256sum: 0a6fae54d458aa1ac3aa1549570f6aa7988905823f0b42f9faeaa2e84072f984
-Size: 22172
+MD5Sum: 525a077f414c567138530f3ef58aa3a8
+SHA256sum: 4918ef391d302e7c3f1d307cca439e9210c6bfc7b598c269a867fce245b0e338
+Size: 22168
 Filename: enigma2-plugin-extensions-merlinmusicplayer-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-merlinmusicplayer (source files)
@@ -9046,8 +9046,8 @@ Depends: python-mutagen, python-sqlite3, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 449d3cd1cbaa7143eafb813311a4d4bc
-SHA256sum: 62f29866de57148bd4dabf9de03040d3aaa918f23275138b2d5ad6b318161841
+MD5Sum: 54c0464a1b0753be4d801a2329c79f65
+SHA256sum: 9f87e57367fc53dda9a1a943c5bd7066e440c632334088167ba4aebd06beaac9
 Size: 67416
 Filename: enigma2-plugin-extensions-merlinmusicplayer_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9240,8 +9240,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 88fea931a4ec8336ca0445fff94da1f1
-SHA256sum: ff41d1c620948d7d33c92d9d5ae4224bfe249f94cb53b79a6e1821d2a9f12410
+MD5Sum: 67ed8b11d42badd596d98ac2393dae0b
+SHA256sum: 721a956be4263756ba3ed6d03560025bbb59d13c0d1661a62e53090b347e795b
 Size: 4272
 Filename: enigma2-plugin-extensions-mosaic-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9256,9 +9256,9 @@ Depends: aio-grab (>= 0.8cvs20081209)
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: eaa2e901737234bf61f37e5077339116
-SHA256sum: a510bba3587a014d09baa6bf6e73b614e5a3d7de79424bfc6136024e0db0fcb2
-Size: 8810
+MD5Sum: 5296c631ffae2dc8532a08ae0a11a43a
+SHA256sum: be55ec37872420284bf801fadd45a12a6d5df2d90ef89518a3c02e11b5742fcc
+Size: 8812
 Filename: enigma2-plugin-extensions-mosaic_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Shows you screenshots of the services in a selected bouquet
@@ -9272,9 +9272,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e4a9a05f9ca58bde74891f4f889ee648
-SHA256sum: c4bd23caf2ace6841fdcad5bf2fbe8530dea70a5ffb2058a01fd4b3442780599
-Size: 4070
+MD5Sum: 60555aa310345a864fc9299fc9b89825
+SHA256sum: e2b3b1d44866554f002192994fd18e731215c00a9e60b4135e2474949d1a8666
+Size: 4072
 Filename: enigma2-plugin-extensions-moviecut-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-moviecut (source files)
@@ -9288,8 +9288,8 @@ Depends: libc6 (>= 2.32), libgcc1 (>= 10.2.0), libstdc++6 (>= 10.2.0)
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 07aa7028a5ee28b1dea1c58977a8c31b
-SHA256sum: e39b3e35723fbddbfa160fefd40c98a09ed56ef4f5cf80dbfbbbfbacc1851f1a
+MD5Sum: 615cc0fdcfc26399994050fbce1c0fef
+SHA256sum: 88e7e6b885081aaf50883efe18a0e718f74c9ee1378c2ca5e3eb1737d05622e9
 Size: 22708
 Filename: enigma2-plugin-extensions-moviecut_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9352,8 +9352,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fa55deb147ace9c90d4c24e54338c421
-SHA256sum: dd0d3603757ab1f48112bacae3f1c4499dd9247644cb5fef5f4268027da63391
+MD5Sum: 79a7139cd4f81a5500f020a9d8b746ef
+SHA256sum: 291ea1ec64647d7700cb6b431d2e0e93da19c5f8441e0eae6cf99d8c66e669e8
 Size: 3926
 Filename: enigma2-plugin-extensions-movieretitle-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9367,8 +9367,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fb8e0d3883c20e327ebac2efc6d6c6c4
-SHA256sum: 458ba25969f6d07b6a09a50603f6f9d20fa21b9fed2e7188d6cd42b6a4a1e467
+MD5Sum: 7b753fb34b16e6eea3c369facb477732
+SHA256sum: 42ad2fabb933535fd6b97102cb4151ceea9ecf0d9ae97512601b5e16e45331f9
 Size: 10248
 Filename: enigma2-plugin-extensions-movieretitle_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9383,8 +9383,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ef4717dba3dcd48772fc750c8058d53c
-SHA256sum: 957a605d6b05e0aade052bcbb2f3ac30668b83d0ad88e49b5c48625cfc608cd3
+MD5Sum: 82117eb01a40f3811975644b7759a940
+SHA256sum: aa3dbc0bee39bda2efaa706f60374a2e8ec5ca773c84f986bba515de552b365d
 Size: 3924
 Filename: enigma2-plugin-extensions-movietagger-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9398,9 +9398,9 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4d8d85696a32d2ce0c71dc04f1ecf4a5
-SHA256sum: 5fa0e5d75e351695a03c7f5b35e0eb8e7cbcd955609b54b2e126cbad6a61f0f4
-Size: 8408
+MD5Sum: d88626f8b888dafd91d499d542c2d5ac
+SHA256sum: 47721ec310d4958c7c853e2cc98a59f2ec9d343cd1601e3cbf0c3def40dd11b0
+Size: 8406
 Filename: enigma2-plugin-extensions-movietagger_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Add tags to recorded movies, to sort a large list of movies
@@ -9414,8 +9414,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f433bc56fd7439571d134ba111daea2e
-SHA256sum: 7b5ab4fbf84aa8538dc4e6386104cc4dd652e9ae356ff6078a1fbc98174aff08
+MD5Sum: 077f5396164aeb85f34f0fa608ac3c75
+SHA256sum: 3d7e6bdd6c506663f939285f71dacd017d848c32ba8d258804e8e25dc966b7e6
 Size: 2632
 Filename: enigma2-plugin-extensions-multirc-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9429,9 +9429,9 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 070672f63f45a645c9fa7262a012850c
-SHA256sum: a4be428478695dda9a81f97e264eb8c2db4a8c52198d33b8b222244acb8f381f
-Size: 3162
+MD5Sum: e3442667e0b266e9a2b201dfc25638c5
+SHA256sum: 687649dd44cc138149d5111306a6319bc071303a2e9d7cf9f4745a0845c2e02f
+Size: 3160
 Filename: enigma2-plugin-extensions-multirc_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Use multiple Dreamboxes with different RCs
@@ -9445,8 +9445,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 83fe1462e451ad3839b2062cf86ea135
-SHA256sum: 934877f25bd2b34bd3a034c57be05a66367c1117677b836aa159f6d6bc890943
+MD5Sum: 1edf14adbeb673bcc5116e847a8dfb3b
+SHA256sum: a543739904df45c8720a3085b17ca6380faf5ce223126bb8a9d12daf007e4dd4
 Size: 14312
 Filename: enigma2-plugin-extensions-ncidclient-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9461,8 +9461,8 @@ Depends: python-html, python-textutils, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 311cae64b33c2d1ca551d51a207cfdac
-SHA256sum: 86d53174225c5276bd04906ea256907c4eb70aa60ac5598100d596d88082185d
+MD5Sum: 9d37d7d451685e907b3df942577200f0
+SHA256sum: 21e8989b194d30842f85d04c89abf40ed2a6a4041db4e252bbf518324ae79c6e
 Size: 98230
 Filename: enigma2-plugin-extensions-ncidclient_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9609,8 +9609,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7ef1eb46d6209c60aff201ec5e368e25
-SHA256sum: 96c5208a6d2419275bd724f9d7df243fccc9a8cb8de201bc8dca863621716eed
+MD5Sum: 559afb298f13e2c8b40f6106aa11eb4d
+SHA256sum: 6207b2d08e2ca353daf6a437aa04f6ac44567adc0af3839e4a6dfd29d00a5616
 Size: 5654
 Filename: enigma2-plugin-extensions-ofdb-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9625,8 +9625,8 @@ Depends: python-html, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2fd80081a4dde3a4846ff7cf82d895fc
-SHA256sum: 6452b3ea722f84b68e8871762d91314c89bb568577e91e55bf1e0379a676929d
+MD5Sum: 54a1bb5ad4048a8e0604cdccef0a689e
+SHA256sum: 2cd83d1d42fcc6afcdcbe4d33184916b789c205fa8dae987dffa7050026b1893
 Size: 24024
 Filename: enigma2-plugin-extensions-ofdb_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9757,9 +9757,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2876261b30218a21b62ba3297caae705
-SHA256sum: 21c6faa237ed02e592e8cca29c5348cc412d91ecac269b401db0cdece00649e2
-Size: 3806
+MD5Sum: 2924d7e08fdae2adaa26cd4efa536f62
+SHA256sum: a24ed27bcddcbfe44ce98cc8f781ad93f819e74dc421158a2b7c68c373d5c6e7
+Size: 3808
 Filename: enigma2-plugin-extensions-orfat-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-orfat (source files)
@@ -9773,8 +9773,8 @@ Depends: enigma2-plugin-extensions-vlcplayer, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 00ffb45c542556283c192c6741ede152
-SHA256sum: 2d743d8baa319afe6b5bd378e49c15e89e730e7f8681923642ff80951e00042d
+MD5Sum: 3169a4a2498e47dc6c37005fb72b162a
+SHA256sum: cbeb3a653efc43cbd66ba094558a8cf482bf030b170feafc59f96e85b3a61d29
 Size: 16606
 Filename: enigma2-plugin-extensions-orfat_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9789,8 +9789,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 273b49392ef1aee49621ffda3f0bae2c
-SHA256sum: a18ca031230407c9b0933a0d107d9adc012320f37a38790a71a2b5b02c1941bd
+MD5Sum: e13893bb47998fc4881d2567244b7afe
+SHA256sum: e98c6d3caea2ee90f9828dfcdede5c96b6393422fd2fdee8455b279c77864650
 Size: 3116
 Filename: enigma2-plugin-extensions-orfteletext-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9804,8 +9804,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3da24354704a2228e7802429bee5172b
-SHA256sum: a05001de525c6a3c2807e9a8e721462756d4d242637ceec04a40f692f5dc65b4
+MD5Sum: acd4f1a16c878255f2092dc696404ede
+SHA256sum: 703f8eae5b814ca9c0841b37c090364441cd99c7820b70efea54f5692acb2f1c
 Size: 4772
 Filename: enigma2-plugin-extensions-orfteletext_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9948,8 +9948,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 23a4e11a99c9ddcc0e55c963595dbf4f
-SHA256sum: 18c2f834699f3f469772e60cc5fcd2b3d8b5fe768c4e3c4076556a91e8c17f61
+MD5Sum: f721871cf469cdb46b82446ba0b34da2
+SHA256sum: 1ec143a5ef7d19a3be5c6ba89dd5d08b64f3492c9471aae4d92b0c80841a64e5
 Size: 33148
 Filename: enigma2-plugin-extensions-partnerbox-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9964,8 +9964,8 @@ Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7678cef3c096659eb910fa40762069dd
-SHA256sum: fba4a59a77e0eaafc9011a6130fd74ab716c5bfd26c07a84438d3c87ac7cc307
+MD5Sum: 8bb4156d1444628bb23813c0893c3eb3
+SHA256sum: 8b733d535dec8ad51c0d4ba9ba132af963c079c0a85343d93f60990f7393fb83
 Size: 81314
 Filename: enigma2-plugin-extensions-partnerbox_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -9980,9 +9980,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2cfceca9a9c04b1cff49fb71eb033203
-SHA256sum: e0f69603ca3e43ef86c8ab3950b9e4625898b3135dd9a8d3bcfac0a06a5fd3c7
-Size: 5134
+MD5Sum: c4b020f22f719c42ff397c6daa7e262c
+SHA256sum: f594c5e6a03208fa99392e89002c50be22a5d5ff1a0e5c9c6fc0198d5a8bd279
+Size: 5136
 Filename: enigma2-plugin-extensions-permanentclock-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-permanentclock (source files)
@@ -9995,8 +9995,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c3c35924d08ab9c10e5f2947d17c79d6
-SHA256sum: 2224d51c7719cb82c5337ffdc5241136c26ef35461b781567162f22d493776a8
+MD5Sum: 79d6a25f43e6d2b6089b851ef0975be5
+SHA256sum: 94292ef6e32fb9cf92e794b997b9e02faaff444ecf5d75591f368d72372b2bb2
 Size: 30000
 Filename: enigma2-plugin-extensions-permanentclock_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -10141,9 +10141,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7a35a04bd7a1dd7509b02ecd271902c6
-SHA256sum: 7a9b49475707a7b3b59ffaa2f098b161d26f4af11af25e4a0d719c57b9d63551
-Size: 7928
+MD5Sum: 28debcf99a367a1423351828281b870a
+SHA256sum: 06e6b6f0f48ac22c2ae126c84550d44cd1acb4200b4c599b6e46b248737e2a4c
+Size: 7926
 Filename: enigma2-plugin-extensions-porncenter-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-porncenter (source files)
@@ -10157,8 +10157,8 @@ Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6e25bcb4908cafc82214b3b57960353a
-SHA256sum: e804d698f1ecfdf57bab2c2af80846d725ccadf1d1b0c76fca0c3a278f542f88
+MD5Sum: 60d0ad6470a512d589ebb68485a5a1ec
+SHA256sum: a30ea67bb650fa308dce15176e5b35ad7852eb20ab8cd326e6280704172b848a
 Size: 87458
 Filename: enigma2-plugin-extensions-porncenter_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -10254,8 +10254,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 47758248031a72a93cda0bc743cd1a75
-SHA256sum: 158e66a5b872222d9a734c203b58b26feb8718bed2f8f0d1ba1247d9223e0e1d
+MD5Sum: a3a3ebd3047ab8d535551cb476ded597
+SHA256sum: 7b9828d18b9716bac47fc97c33cabeebaa4f8afa4c4617ecbfda050f4aa11c07
 Size: 27250
 Filename: enigma2-plugin-extensions-primetimemanager-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -10270,9 +10270,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6de6840f218e91358ffa3f70d818f237
-SHA256sum: d5987976bbe186ff8ff2314ef27613eeaf8be87844b328dc9959783a3f0dd0cc
-Size: 53908
+MD5Sum: db715a63ea0c202401638198cbea1e9c
+SHA256sum: 83de14c9b3d52a3ea50db0a00c97420a148c49ce4911bb181a4fc3f574bff789
+Size: 53910
 Filename: enigma2-plugin-extensions-primetimemanager_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Prime Time Manager for timers
@@ -10286,8 +10286,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f77760044f1fc706681e8178e4f4db4a
-SHA256sum: 9105b6764882303590c69d0a9ab514bd8f509818d518ecec9a337d675849496a
+MD5Sum: 964f5c55c0de7837869a6b8b544cd29c
+SHA256sum: ae75ab2acd73e11e1f2c3d57b70986f2ea38be954003762335cde45c72cee673
 Size: 2014
 Filename: enigma2-plugin-extensions-reconstructapsc-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -10301,8 +10301,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 27299133d8105f4cb79449c1fd332ff1
-SHA256sum: 1a33358df95c9ad297d732a4a0c322adf3328867d570c9cabc486ae9d77f6716
+MD5Sum: 9b15956f66a08419d28cf8212e888fd2
+SHA256sum: dfabfc2a8b36a0fea174da065e144a286f72ead8afc54afd4baed5dbbfb2f041
 Size: 4434
 Filename: enigma2-plugin-extensions-reconstructapsc_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -10497,9 +10497,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 607f3178fc417b25bb2853719c4bee8c
-SHA256sum: 7235b6353f749cb68457691a3c443ad57c1e500ac09b0d1130684f2dfd75d473
-Size: 4232
+MD5Sum: 454dd91d2b4ce16a484011dfeefd521c
+SHA256sum: 2887d72dd63b2d699e0d0bfd93a3d4b81a1459f9bbf2139afa44672deacf148e
+Size: 4234
 Filename: enigma2-plugin-extensions-seekbar-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-seekbar (source files)
@@ -10512,8 +10512,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 23b80ce6d2434933c679bd1ffc94d397
-SHA256sum: 81f2c9d505ab9efc82f176cc80e388c2c6595f2720c1aa3b0530c9be2f659446
+MD5Sum: 238de6b073a38fcca793a9e0a2255ae4
+SHA256sum: fa2981a2def3f39d93bc06b9152ae9028874d50df1e22b70c3b8acecabd5295e
 Size: 7008
 Filename: enigma2-plugin-extensions-seekbar_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -10594,9 +10594,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8acff40175b0d1729e1c0bb25441049a
-SHA256sum: 1b56d704ff4450e9443e85541d9efeded183f016d3e485c733f807f9a6e3bc5c
-Size: 12506
+MD5Sum: 65b5b920b503dbdb43fad98a72b0b88f
+SHA256sum: f4978cc2c53afd88ef17551f1f2a5c64b035f3c2bbbe605cab4b26b0aae3e5b2
+Size: 12508
 Filename: enigma2-plugin-extensions-shoutcast-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-shoutcast (source files)
@@ -10610,9 +10610,9 @@ Depends: python-twisted-web, streamripper
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8d1c21dc2c6d00a70c66af58f1ac970e
-SHA256sum: 23c3f346a6bba612001e325a69ec36d01c29e594060d059d389397f6c980455c
-Size: 32782
+MD5Sum: ee51a9f2fc04dab08806411017a6cef6
+SHA256sum: c9899639b805bad4425f27bf01c45894b217e5a7281e0a75c9c928420e25ccb3
+Size: 32784
 Filename: enigma2-plugin-extensions-shoutcast_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: A client to listen and record SHOUTcast internet radio
@@ -10626,8 +10626,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c3a256d0e1027c02fdf16f7ad8d46cae
-SHA256sum: 8f8cc52b058dd58ae7df489509965282da54eaf434400f59f48a2ee04f08c615
+MD5Sum: 44745035cc4b361e742e310e3df2d463
+SHA256sum: 1375ec2eedae7147f5dc81689974653e25d6fb6c38b221b27c536b016593ab64
 Size: 5268
 Filename: enigma2-plugin-extensions-showclock-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -10641,9 +10641,9 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6df23c02f65b4053d03ca63cefee58a9
-SHA256sum: 4f16664588f62eb67e651d5e89579b765f280fe5837a04b5efac5da9875dfc12
-Size: 11524
+MD5Sum: c30e9625eeb5f2d3af92fbd38fd0af48
+SHA256sum: b3ca4cca554ce81120794ba7ded94854b301634cc0e574db83698de3e68a43ad
+Size: 11526
 Filename: enigma2-plugin-extensions-showclock_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Push key 'Exit long' to show the clock while watching TV
@@ -10657,8 +10657,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d2a3f340890b8612e8ef85170ad9b24a
-SHA256sum: fb275e261b2093bd2fe70a30dd0258d092bf5237b4fbbfde4a71430f31c23e98
+MD5Sum: 7fe82a8b472879e0d00b94c0cc7214d1
+SHA256sum: 970d65dffa515a7cf59408e1ba0229585529a4147425624b7d2f471b22078a99
 Size: 14330
 Filename: enigma2-plugin-extensions-simplerss-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -10673,8 +10673,8 @@ Depends: enigma2-plugin-extensions-mediadownloader, python-codecs, python-html, 
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 85b29fbe6ce95d055f93a1f12c8aa4fc
-SHA256sum: 724e8de65062ae792b7d7a25aab5a81ba2cfa8cf0f9228357ae1c1130c22ec86
+MD5Sum: fd302bd22deb219cc4036ff1b7670cf3
+SHA256sum: 9a4ede48a73a48ade89a75116759330459320b1a8e66809e48229508c49ab14b
 Size: 29618
 Filename: enigma2-plugin-extensions-simplerss_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -10953,8 +10953,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 501707d6d531f3c4a7d9e0b246d42cfe
-SHA256sum: 0798fe1eebb9a532dff1d759091fd986f855211a3f06689d79c2f5991db63bb5
+MD5Sum: 341f5728f3dac27170ea944d419bc8f0
+SHA256sum: ee0ed9ed732b531f82bfa306a45b72bfe943bed60526f791a4c58d32eed8134b
 Size: 6040
 Filename: enigma2-plugin-extensions-svdrp-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -10969,8 +10969,8 @@ Depends: python-twisted-protocols
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 447b97074b7d290365b77bb0fed1c7df
-SHA256sum: d667ab75a616d4571c5032165d4e773748e31ea9bd548c5bf8a031ae1f1ddf69
+MD5Sum: 325ea284214acac15f07b220d2e1ae38
+SHA256sum: d5dc219f2bc3c91ac97294f6840d1d82a6fd11fbf4b715a4a224046dba1ede30
 Size: 8662
 Filename: enigma2-plugin-extensions-svdrp_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11051,8 +11051,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 65884cf2aa8031c2cefc5b98285829d8
-SHA256sum: e5057c6ccffeb0fc8267d4232f392fa971911fde897029407e488d353ab0a350
+MD5Sum: 5f185cf21d143331c1799cf24cff2a49
+SHA256sum: eaae244b04375f7b23d220c0bde67eb845bc5874cece444a8309241df7fa8a24
 Size: 3962
 Filename: enigma2-plugin-extensions-tageditor-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11066,9 +11066,9 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 14cd284b3d22a6527420e724187ec00d
-SHA256sum: 9944d1c153b167c826cd9731d4b4adeb792073fccb2157b6a079b6825088f6bf
-Size: 9894
+MD5Sum: 75ee3fdbfd72a3133d17bb7b6bfc8f6b
+SHA256sum: 45ad37be3f2f629d444f1687ffffbc30298b3d1e04aa796f357406cb4351bf43
+Size: 9896
 Filename: enigma2-plugin-extensions-tageditor_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Edit tags of movies, and in timers
@@ -11199,8 +11199,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 79ead694fae45a112ad4fa34d9c983cc
-SHA256sum: 5fb6f384cd030d38de7b8dadcd277436d7d9653ea5e15c548ddb49f71287764c
+MD5Sum: 2f91f278bba698dde25070c4326298a0
+SHA256sum: be90da2e7af25ce22a639155d88b036774c7218188e86ec4d50d32f23b863f45
 Size: 3216
 Filename: enigma2-plugin-extensions-trafficinfo-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11215,8 +11215,8 @@ Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2b46dc513f10739bc477046a2f0d6a3f
-SHA256sum: df0ef518a31272bb538b6e7c30f6c8a7ff4133c5ba14631a592e873c2a8093de
+MD5Sum: 2c215731dc11b9b29b9cf57640775344
+SHA256sum: bb99a48c5076690f599a9172549d8838d7f9336c9c4c2be8066471e9d3945249
 Size: 7982
 Filename: enigma2-plugin-extensions-trafficinfo_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11231,9 +11231,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3bc93b1c73d91a53f17c36011d839598
-SHA256sum: a41fd0cb6925808ad72adb172b719fb21d00bf03cd4050c33000e1d7fa8d25b9
-Size: 2422
+MD5Sum: c993730aeb0c284c8de9b6f46b0d9843
+SHA256sum: d24841e38e05495c88ef8b2c229ba25eee49dc4421d44834629792d268e63176
+Size: 2420
 Filename: enigma2-plugin-extensions-transmission-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-transmission (source files)
@@ -11248,9 +11248,9 @@ Recommends: transmission, transmission-client
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 47b8c73bbe772ec0afea3b6c7d589229
-SHA256sum: f9cba1ccd9ac464878fdc0530305e1051ff0db8b1504db805f6e35388e0a5001
-Size: 8908
+MD5Sum: 2cc70f8208acd23f3534ebad73c0d498
+SHA256sum: 5678e419f48dde0946dd0d0384c411875be6c7bfd32ee2ba9c90b635c0a06dc4
+Size: 8906
 Filename: enigma2-plugin-extensions-transmission_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Bittorrent client for enigma2
@@ -11264,9 +11264,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1a65855aaeb5411fdaa2fe8ef136bef1
-SHA256sum: 17c96fefbfbef36467db075659f6148d764057bd9258f5b39ea4aac3e7c086e7
-Size: 6636
+MD5Sum: 314358cfe9dae4d907875fe053ae61cd
+SHA256sum: dc87de107176989488ed4fb64de63fcd9c48fe215e94836d0da108b328fb09d0
+Size: 6634
 Filename: enigma2-plugin-extensions-tvcharts-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-tvcharts (source files)
@@ -11280,8 +11280,8 @@ Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 574cc1a0de392a9749bb6f08c0e7ef82
-SHA256sum: fc4af0897c0a105c7e869444830d040056cc165ab99761f4fbf33b047f8bf85b
+MD5Sum: ff647bfc908b38bf33856008cd2b5ae5
+SHA256sum: 298c52e60a03b4034e26b6f480282f536e93fb29afd4e918a7cd911ec670692d
 Size: 9802
 Filename: enigma2-plugin-extensions-tvcharts_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11296,8 +11296,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b5ffaa857502d9b21b1fab060300696b
-SHA256sum: 654fc6bfa26e3e49f3b11c7cc7502ee63f59b3c785bdf367944a33a5b9adb34a
+MD5Sum: c94969baad0d87d5a0fc11a55e5aafbe
+SHA256sum: c36f3bf5c04133b4827dccb67fe6e47c3d68efc485a90f7b4a015403b5b0aa83
 Size: 3978
 Filename: enigma2-plugin-extensions-unwetterinfo-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11312,8 +11312,8 @@ Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 46670cf0d0d12083b5ac0b22fabc8bbc
-SHA256sum: f2bef59e192abcc3ea61111b1ade7b7dbd61eb8c9e288bda1aa935f12661b04a
+MD5Sum: 82a636a1e70234a1e809ef11d037f421
+SHA256sum: bea0e23ad99334b19dc0e5770742332c0fde4f295816cf1cb065871354a47ca2
 Size: 50848
 Filename: enigma2-plugin-extensions-unwetterinfo_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11328,8 +11328,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e6b0716bd92cf2c8a84eba8a6ddfd134
-SHA256sum: 9c22f70bede3a218bb0905ac0868a245433455559ef2a75954805b36b88ed6b0
+MD5Sum: 6cb61ee803de0599ef801cf65cc9e99b
+SHA256sum: bb06161ccab2bfb0cb63d85ddd8a2a816ade8b00dcd17e96bd146758f8da625a
 Size: 7734
 Filename: enigma2-plugin-extensions-valixdcontrol-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11343,8 +11343,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2e20ab515c52253764f21ccdcf7ce3de
-SHA256sum: bb1e0b9d655e320936a07b0f4a20ff40d06ff001a56997ccbecba1b5d7610535
+MD5Sum: af0b1760644222ac6e4bad8ba44b87e3
+SHA256sum: ed9e6b2e9e47fe19aceeded78d875f4b39fbfe38feb1f577b6e4f54eacda0289
 Size: 60078
 Filename: enigma2-plugin-extensions-valixdcontrol_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11410,8 +11410,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 825a3a0c43c8b38205ce4fdfb67b5f04
-SHA256sum: b4eff06368aa279360e87881386419e8d621af6845711eb80f6c0484b8bcf7d9
+MD5Sum: 22b0482d4226210dd13dfe88d31cee26
+SHA256sum: 0acf87488148109d6a5b01cb951aeb64e2cf6abf732378b0fb13e90875b9f37a
 Size: 13552
 Filename: enigma2-plugin-extensions-virtualzap-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11426,9 +11426,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: dd67b8f4e2dda59f03858c5976f88350
-SHA256sum: 53f4b42a996e62d268579182bb6c76a27cb780d374aa13b1bf8bc87082c87002
-Size: 34030
+MD5Sum: fa6273b7d5f11d8682644ad705cd0d0c
+SHA256sum: bf0570276c021a943c9c984ec8f35f88e63d015ca667756c645d4bf5db17f1c9
+Size: 34032
 Filename: enigma2-plugin-extensions-virtualzap_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: See service-epg (and PiP) from other channels in an infobar.
@@ -11442,8 +11442,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2ed0635971593c9295f15e37b875327f
-SHA256sum: 6b6f48f2385d08b81e9cdaa5ce077b433aa8bd9f45246a7ba96a50c6f7e6bb50
+MD5Sum: 22d5f8f763dcbb854ab00afe09f9d76c
+SHA256sum: 1f7f7651e549722581cd62fc8de212d9fe51b345e6394646289a6d8ff56fef95
 Size: 15748
 Filename: enigma2-plugin-extensions-vlcplayer-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11457,8 +11457,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d05f4df8db8c282227b62e14f62c9d3e
-SHA256sum: 76ef5123e73f6c0a2f4ebf5bb67d21b44785561f37a15bd283bfe940e10ebe70
+MD5Sum: d8629879e585bca62f861f9b3c31464a
+SHA256sum: 983cc59c3cd5352038bc1575c55c06f48063a8a0434cdf3e8f0562538efa17e2
 Size: 37950
 Filename: enigma2-plugin-extensions-vlcplayer_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11585,9 +11585,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d669540f3284f59c8317635a680da56e
-SHA256sum: a4477ea0f3e1a847b57c1d56b8822ff5723b9d991ac1e4fd366f90d8db3f1bfb
-Size: 12162
+MD5Sum: 99c66a5c5541a931696cdea4903b11e5
+SHA256sum: 885292fabc9a5a5b562ac70c96077020ce4b9bbe806dfefe4380b1aac9352710
+Size: 12164
 Filename: enigma2-plugin-extensions-webcamviewer-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-webcamviewer (source files)
@@ -11601,8 +11601,8 @@ Depends: python-shell, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f3a208cb7a66eac47af19c989a8ef0d8
-SHA256sum: 364bb62e0ab5e85bedec919b708b41fbac36976eef03e3ce7f357286d13820df
+MD5Sum: 113ca785bec5e8f4f19c132d151fafdc
+SHA256sum: d1c284ef25ea1b531d97b7dc7b0daf43bcde1b470810917c2bc9f3bf65a99161
 Size: 29166
 Filename: enigma2-plugin-extensions-webcamviewer_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11617,8 +11617,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 178e20d97806de2fa6a8a5d12bdf985e
-SHA256sum: 19836dd95906b53955613233bdc6084a2bcdb36c3e8946aaedea8a02bc1b0dcd
+MD5Sum: 2e6f3c03a8bb16266ffdab9dbb4d4971
+SHA256sum: 1e0e9d0f7692e5b4459ff38b7a956e3c9a07d7c6b280cafc0afb652ee8826772
 Size: 8058
 Filename: enigma2-plugin-extensions-werbezapper-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11632,9 +11632,9 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 635f5cabd06324b29b7aec5e8801cda9
-SHA256sum: 8ce4aa66c4626787930c1f43d5acbf5ba2dae8785766bbb3727ca1ee77d0894d
-Size: 20742
+MD5Sum: c88a73e198a1a34945b76cebdbd5149f
+SHA256sum: 555d9cb7162914190b94bb35cf21f5d2d5cd53ce2a5ec958b3924e80f9318153
+Size: 20744
 Filename: enigma2-plugin-extensions-werbezapper_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: With Werbezapper you can bridge commercials by creating short timers.
@@ -11760,14 +11760,14 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-youtube-dbg
-Version: git595+c66faa1-r0
+Version: git597+1b0d71e-r0
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 115f76c7e3a12ee0e78e14e1a405a7a9
-SHA256sum: ab739adc7fdff791c89d263aa3ede414709c17f63ce30000a321ef23efc16a92
-Size: 760
-Filename: enigma2-plugin-extensions-youtube-dbg_git595+c66faa1-r0_mips32el.ipk
+MD5Sum: 30c13225ac0584dd60507c7f204d1ba1
+SHA256sum: 0ba3b01b8457bbffec0586139d0cfebd05bd3374b2bd781d971f693400573dac
+Size: 762
+Filename: enigma2-plugin-extensions-youtube-dbg_git597+1b0d71e-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-youtube.bb
 Description: Enigma2 plugin to manage your youtube account and watch videos - Debugging files
 OE: enigma2-plugin-extensions-youtube
@@ -11776,16 +11776,16 @@ License: PD
 Priority: optional
 
 Package: enigma2-plugin-extensions-youtube-dev
-Version: git595+c66faa1-r0
-Depends: enigma2-plugin-extensions-youtube (= git595+c66faa1-r0)
+Version: git597+1b0d71e-r0
+Depends: enigma2-plugin-extensions-youtube (= git597+1b0d71e-r0)
 Recommends: python-codecs-dev, python-core-dev, python-dev, python-json-dev, python-netclient-dev, python-pyopenssl-dev, python-twisted-web-dev, python-zlib-dev
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 323cb588f677eb3599901eaeead9bf45
-SHA256sum: 59bf5b6dc5d1315641d343e57c6c54137f07805c1ed0cd7c8cd1682f1e53410b
-Size: 852
-Filename: enigma2-plugin-extensions-youtube-dev_git595+c66faa1-r0_mips32el.ipk
+MD5Sum: 001f18892ac854de8f7b6e518bee7d76
+SHA256sum: 5aee01f6aad1d6b91a871e1c4504f81f50692a62909bb7279dbfba7c8201db7d
+Size: 850
+Filename: enigma2-plugin-extensions-youtube-dev_git597+1b0d71e-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-youtube.bb
 Description: Enigma2 plugin to manage your youtube account and watch videos - Development files
 OE: enigma2-plugin-extensions-youtube
@@ -11877,14 +11877,14 @@ License: LGPLv2.1
 Priority: optional
 
 Package: enigma2-plugin-extensions-youtube-src
-Version: git595+c66faa1-r0
+Version: git597+1b0d71e-r0
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1a7a99cf87f4ac218728d5f24f485902
-SHA256sum: ef2fb2eb444a3e01913787d10c16d9eda4d35e3acab360644a0ea64e5c28921a
-Size: 26238
-Filename: enigma2-plugin-extensions-youtube-src_git595+c66faa1-r0_mips32el.ipk
+MD5Sum: cefb3c658b3d88444bd291d465afcb69
+SHA256sum: 078e6fe1fe5841dadd8a6f8be6958e790d51cb505772cd2987d5ee8b43316503
+Size: 26390
+Filename: enigma2-plugin-extensions-youtube-src_git597+1b0d71e-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-youtube.bb
 Description: Enigma2 plugin to manage your youtube account and watch videos - Source files
 OE: enigma2-plugin-extensions-youtube
@@ -11893,15 +11893,15 @@ License: PD
 Priority: optional
 
 Package: enigma2-plugin-extensions-youtube
-Version: git595+c66faa1-r0
+Version: git597+1b0d71e-r0
 Depends: python-codecs, python-core, python-json, python-netclient, python-pyopenssl, python-twisted-web, python-zlib
 Section: multimedia
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1d356fbb6eb5f5b23dd076a81acd6b6a
-SHA256sum: e5ec27ab0b107128505d1439874eade8e1822d5f75153ccd14d745f109a4dd36
-Size: 90428
-Filename: enigma2-plugin-extensions-youtube_git595+c66faa1-r0_mips32el.ipk
+MD5Sum: 65b15434d7263aca3a90d3f95b461805
+SHA256sum: 83a349c2a30f9894ff794de2003fbcfad77ddf0cd6391d9fcf53ec337f21f5f0
+Size: 90574
+Filename: enigma2-plugin-extensions-youtube_git597+1b0d71e-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-youtube.bb
 Description: Enigma2 plugin to manage your youtube account and watch videos
 OE: enigma2-plugin-extensions-youtube
@@ -11915,8 +11915,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: cc9580cbd50538dc4e7acc761cbe6cf7
-SHA256sum: 743e80374565ddb93aadb20fb4427724d2d208ae047dd75ece0908614ff96f9b
+MD5Sum: 26f9697550d4bc85b445a7862425d870
+SHA256sum: b60075c34929630a615d8aa3a05058d36b7c37d376126d2668ca102b246a864d
 Size: 4366
 Filename: enigma2-plugin-extensions-zapstatistic-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11930,8 +11930,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: aefd1f0afa15763a829f1b9ae08db1df
-SHA256sum: 376ff13da9dd3267eabebfe3f6239f0b987ba35ba0717975b7349cec92c3b78a
+MD5Sum: bddf603bf3c1351069b4a1e24a1a925c
+SHA256sum: eafab589ba67a2152576ca8f1a509e7250e8cb4590299a249ff9275ee870aa4f
 Size: 9338
 Filename: enigma2-plugin-extensions-zapstatistic_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11946,8 +11946,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9876b5978273422d9049abe02c8ee593
-SHA256sum: c4d887051f7e89b0b06a8f4471b963e82d5021dff1679e92b730351ea0875985
+MD5Sum: 07e8875cc4913ecbf37a0a705c167802
+SHA256sum: c9d33a46e6a9f5aaa2aa5dfa194ba28c7cb3ab6d373bf047b19ec6e2c6b84c11
 Size: 7264
 Filename: enigma2-plugin-extensions-zdfmediathek-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -11962,8 +11962,8 @@ Depends: python-html, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ccf3e3a87192b36b1b854ad81e4f8e68
-SHA256sum: ffff58169b142ccec46fa2c063f48be8495ac8b379b5fb1948147a14d5a5af8f
+MD5Sum: 52eabca2a38eac3145d185bf00cea786
+SHA256sum: c47b6c05c5126e2efbee521feb8f9b5376c8eabc5eea355c6ce34d2c16a2cf1f
 Size: 22268
 Filename: enigma2-plugin-extensions-zdfmediathek_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12022,16 +12022,16 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autobouquetsmaker-dbg
-Version: 3.1+git814+0902013-r0
+Version: 3.1+git815+55be812-r0
 Depends: enigma2-plugin-systemplugins-autobouquetsmaker
 Recommends: glibc-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: 12479d34d3fe4582bef23fdee754229b
-SHA256sum: fd8921176cf6cfa863b1e1cd24e52e11e6aba84ea122df059edf932d68492aae
-Size: 20368
-Filename: enigma2-plugin-systemplugins-autobouquetsmaker-dbg_3.1+git814+0902013-r0_mips32el.ipk
+MD5Sum: 34cf4e9e35b1e3caf40a477d76877dfa
+SHA256sum: 3f1be50f4709e5e8b4b7b75132ee0b60db9d2387c4bd80db0ff6a319d16d7ceb
+Size: 20338
+Filename: enigma2-plugin-systemplugins-autobouquetsmaker-dbg_3.1+git815+55be812-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: Automatically build and update bouquets from the DVB stream. - Debugging files
 OE: enigma2-plugin-systemplugins-autobouquetsmaker
@@ -12039,16 +12039,16 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autobouquetsmaker-dev
-Version: 3.1+git814+0902013-r0
-Depends: enigma2-plugin-systemplugins-autobouquetsmaker (= 3.1+git814+0902013-r0)
+Version: 3.1+git815+55be812-r0
+Depends: enigma2-plugin-systemplugins-autobouquetsmaker (= 3.1+git815+55be812-r0)
 Recommends: enigma2-dev, glibc-dev
 Section: devel
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: 4bb734f44aa4abecd7027798a3bbac71
-SHA256sum: 5b2542dc486f268859c6da207bf9d5b294a63e26285d3d5906f7e98ea77ae779
+MD5Sum: 5f78e9d6a44ac46976e01977f9eaa3d4
+SHA256sum: 74bea70f8d01e9d66e8a89dc0e5d0658d4e8b49f2f8bf3618e5be8de7535eada
 Size: 754
-Filename: enigma2-plugin-systemplugins-autobouquetsmaker-dev_3.1+git814+0902013-r0_mips32el.ipk
+Filename: enigma2-plugin-systemplugins-autobouquetsmaker-dev_3.1+git815+55be812-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: Automatically build and update bouquets from the DVB stream. - Development files
 OE: enigma2-plugin-systemplugins-autobouquetsmaker
@@ -12056,15 +12056,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autobouquetsmaker-po
-Version: 3.1+git814+0902013-r0
+Version: 3.1+git815+55be812-r0
 Depends: enigma2-plugin-systemplugins-autobouquetsmaker
 Section: base
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: abc55977d2da3f249301ef343c62dd84
-SHA256sum: aa4ac69f635d5af3d79f30e528eb4c6fc3175d271d77e9148424f010f50c5d1b
-Size: 38298
-Filename: enigma2-plugin-systemplugins-autobouquetsmaker-po_3.1+git814+0902013-r0_mips32el.ipk
+MD5Sum: 5ef22d930e99b8d9233ce96af2feef94
+SHA256sum: 71a48906cfdcad0788c614ebcea059267261d8381f9b0e676874d6efd275d4ec
+Size: 38278
+Filename: enigma2-plugin-systemplugins-autobouquetsmaker-po_3.1+git815+55be812-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: systemplugins-autobouquetsmaker (translations)
 OE: enigma2-plugin-systemplugins-autobouquetsmaker
@@ -12072,15 +12072,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autobouquetsmaker-src
-Version: 3.1+git814+0902013-r0
+Version: 3.1+git815+55be812-r0
 Depends: enigma2
 Section: devel
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: b58682d4b6cd14c84830c7607bf40f67
-SHA256sum: 35b48deb0e58db3b487fef2a12ee9b9964a2a181ef450c320bc1b24dd1480da1
-Size: 48012
-Filename: enigma2-plugin-systemplugins-autobouquetsmaker-src_3.1+git814+0902013-r0_mips32el.ipk
+MD5Sum: 18f78aff09fea90a266ee0df8cf77162
+SHA256sum: b38c0e71603652049e3a98cc88e9e5c8a97501cfd5b37699dc80450c9f4ded93
+Size: 48006
+Filename: enigma2-plugin-systemplugins-autobouquetsmaker-src_3.1+git815+55be812-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: Automatically build and update bouquets from the DVB stream. - Source files
 OE: enigma2-plugin-systemplugins-autobouquetsmaker
@@ -12088,15 +12088,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autobouquetsmaker
-Version: 3.1+git814+0902013-r0
+Version: 3.1+git815+55be812-r0
 Depends: enigma2, libc6 (>= 2.32)
 Section: base
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: 4434a4d27269622dd968c4cb9270338a
-SHA256sum: f08f52d3aa4b4d7aca592a49259625aaf8ff2328f08643e14e916e146c598056
-Size: 220540
-Filename: enigma2-plugin-systemplugins-autobouquetsmaker_3.1+git814+0902013-r0_mips32el.ipk
+MD5Sum: a6bbb8cc52f33d81ca049d3ebdac241e
+SHA256sum: 6668b978525030458df6c0651b7dc6b7d0d3993befb47ba6a0a4d57b53ab675c
+Size: 220524
+Filename: enigma2-plugin-systemplugins-autobouquetsmaker_3.1+git815+55be812-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: systemplugins-autobouquetsmaker
 OE: enigma2-plugin-systemplugins-autobouquetsmaker
@@ -12109,8 +12109,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4ccebc36253049630d0bd65a7828ec23
-SHA256sum: 175d0c2c2b9b30a83a695ff7da33d6bd35c9d92e147a67c0a9ad2d6567f0c085
+MD5Sum: d7b8e57bf70b7c76b5d2abda2703e255
+SHA256sum: b43beeb46268299fdab92c296282e1ee287298052013e3a53ce3fa17ebc70ff5
 Size: 6564
 Filename: enigma2-plugin-systemplugins-automaticcleanup-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12125,9 +12125,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3e87bcde60ce67e22188417897609c9d
-SHA256sum: 4b67b18a544efc5a8df04b06946ff7d947c9a5a7f68b6aa0db2b35358a252abe
-Size: 10864
+MD5Sum: 14d15004236f3ae3a28ba2ab422d5a59
+SHA256sum: b30b7502c37a9b8af61bc59d83233673952e23522e9a701939ae158f194880d3
+Size: 10866
 Filename: enigma2-plugin-systemplugins-automaticcleanup_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-automaticcleanup
@@ -12141,8 +12141,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: eb211cefb8d241c432c66eb0b67e0e5c
-SHA256sum: a06a7b8c85ad4015943b3dda448d636c5771cafbae93900f8fcfcdf75a619a41
+MD5Sum: 2eabd9ad9f26bd6149aa152f364a9a6c
+SHA256sum: 4270a82f5e04551da6f9673a0562131737e2b96724217490b6ed8ec61565b676
 Size: 7602
 Filename: enigma2-plugin-systemplugins-automaticvolumeadjustment-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12157,8 +12157,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4ff7d7291c58865dd00f0afece3f1e94
-SHA256sum: 840e6d82abd0b83ab63aaeb8b6e2e153a76c6b93d47b951d105e09086653bd79
+MD5Sum: 63fbe5421a213ada316c1ea22b3743e1
+SHA256sum: 56402e57b928c032d3f9e9bfb4be35e3b32dcc164f2c638a62720a9cc8e8bae6
 Size: 13906
 Filename: enigma2-plugin-systemplugins-automaticvolumeadjustment_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12173,8 +12173,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fcfc5d255b15bab06d3ea6d70508ba81
-SHA256sum: 3cc841d8d19fa360708923666546d822832ccaa9017cba1c57cd98494b844ca8
+MD5Sum: 79fddd124ca4b6e332095937ff4ea357
+SHA256sum: 6a05c9eb3776d74ec6475f1929ad52c2fd944552eea8af42a9dc410f866ad2bf
 Size: 7862
 Filename: enigma2-plugin-systemplugins-autoresolution-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12189,8 +12189,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3e4264e6c05fa3805cf6f010ea538022
-SHA256sum: 6f648e6d953875d3bf3d8965973cc101df6448541dd8659784267bd46703d58e
+MD5Sum: 4575613acf3344188ba7cc182b1caccb
+SHA256sum: 2ac64dc1eb573aa4badf1103e1b293feaec3b656480d6a21f54db00c71ccfdc3
 Size: 17858
 Filename: enigma2-plugin-systemplugins-autoresolution_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12205,8 +12205,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ec51d7111b08028c69ccff661ba45f78
-SHA256sum: 42c87c3ce49b6d5dd93fb644d6686cebb5cf56bbf6ee5f60a3f999c183f37c7a
+MD5Sum: ed8b22fa9c12519f869a76027a4dfc36
+SHA256sum: 0f6145eb574205982790fc0e58e9b9c6eed668a48c85b942dd6a8ff3912560ba
 Size: 22286
 Filename: enigma2-plugin-systemplugins-blindscan-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12222,8 +12222,8 @@ Recommends: virtual/blindscan-dvbs
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3325d7a36cd8cc7c4261a406430c20ea
-SHA256sum: 83c0208fb7dc3b28a7531f820047e390a28e67a48ee4246e634a25c2fc80ce04
+MD5Sum: a9bb2af498c42d225529902c66c01f62
+SHA256sum: d963bb445a2e578a7059e403e0f38040764faa8a10ad84ccef2f2dbe6ca9e230
 Size: 59510
 Filename: enigma2-plugin-systemplugins-blindscan_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12238,8 +12238,8 @@ Recommends: glibc-dbg, libcurl-dbg, libxml2-dbg, zlib-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ba59a06656e0ca710acb54b6378d7d97
-SHA256sum: 8305ccaa1ad4ac168493c5ec0d44b0b405bad4707855d24d9a311f8c319edd9e
+MD5Sum: aa753dee3465cff567287e6f47b584e8
+SHA256sum: 75d9247cb5ab4159b811aefec220993271d4256a972ebaf69854145057395ce8
 Size: 812
 Filename: enigma2-plugin-systemplugins-crossepg-dbg_0.8.6+gitr497+14d2184-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
@@ -12256,9 +12256,9 @@ Recommends: curl-dev, enigma2-dev, glibc-dev, libcurl-dev, libxml2-dev, python-c
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 394606b7abff796650d92484a595da72
-SHA256sum: fe489bc0a3b2dca1b652b34a49c3119e4193fe77194cec5ba328062b979012ff
-Size: 878
+MD5Sum: fca428de3f6d4be0952d0ead2c2428b7
+SHA256sum: 355f17cd90754d8e0a2b9564e176f3e4f3b1f30838b2ba23eba788bc581f6900
+Size: 880
 Filename: enigma2-plugin-systemplugins-crossepg-dev_0.8.6+gitr497+14d2184-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
 Description: Handle your EPG on enigma2 from various sources (opentv, xmltv, custom sources) - Development files
@@ -12273,8 +12273,8 @@ Depends: enigma2-plugin-systemplugins-crossepg
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 72519241252fe0f1293b69bc3fe96fb8
-SHA256sum: 0145e01b70c8484f3633904814b038dbc838ca92845f9f6286685b5974cb0601
+MD5Sum: 708ed9e7978fc4d6f8a97f48f7368dfe
+SHA256sum: 12296ac776fd53c620b16197a73096aa5daf67b1c62d7d1b21c68761a655dec3
 Size: 22886
 Filename: enigma2-plugin-systemplugins-crossepg-src_0.8.6+gitr497+14d2184-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
@@ -12290,9 +12290,9 @@ Depends: enigma2, libc6 (>= 2.32), libcurl4 (>= 7.73.0), libxml2 (>= 2.9.10), li
 Section: base
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ac39587e192eb7c5f905b86085528e17
-SHA256sum: 3b915e75fdc7c14ecd1ac5d40285b12f39b3af031b492653b274da4cf579715f
-Size: 301096
+MD5Sum: 734feebd7c0ebb1f03bf57c8dba5c99a
+SHA256sum: 937d16318eeece9caf51d3a4c0ba75d3b6eefc0af1472012867f51d4b4ae25c0
+Size: 301094
 Filename: enigma2-plugin-systemplugins-crossepg_0.8.6+gitr497+14d2184-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
 Description: systemplugins-crossepg
@@ -12491,8 +12491,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c2b827cd0d1fb8d8387b9b7bcbdd8771
-SHA256sum: a534e86beb92467e3242a5e2c0684424fc13aa0a29bbc3795c3947fbe7b95c6d
+MD5Sum: a4d68abe828c004a88f69095d478ff22
+SHA256sum: 371999c430aa83eccf9086dfab5bb9ac1d07b237659ae986f1b1fa036c10b9eb
 Size: 2906
 Filename: enigma2-plugin-systemplugins-mphelp-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12507,9 +12507,9 @@ Depends: enigma2-plugins, python-xml
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 801f70a42e619496d4facb8309d0d42a
-SHA256sum: 0be51a5ee869f6ad26bc19dbe5b7c2764e4a13daaf17891991d9625366a64f30
-Size: 4604
+MD5Sum: a57edae92b2ab140f32d2d8fbc6cf614
+SHA256sum: 9b548bd77a24e53f7359373be43071f991e0b68b3890a826a9757e39e5d89759
+Size: 4606
 Filename: enigma2-plugin-systemplugins-mphelp_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-mphelp
@@ -12523,8 +12523,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 37420c9a7a263459d1f2ae0aa9373a9f
-SHA256sum: 436adfccdb502a41811ca602409ea833fd317b2863e50b79daa99d1ffd4b3a73
+MD5Sum: c1ed5d4c11d676a6f9b44d262fd2ae34
+SHA256sum: 69b2b6e3289931bb7a96cbf7393dfc17bac6cee5966b02782f40bfa48ca3b97a
 Size: 13804
 Filename: enigma2-plugin-systemplugins-networkbrowser-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12539,8 +12539,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5701e03a6867428a3593f045b743ceac
-SHA256sum: 0eadf9d9c46615070599b45c90514c82f2429bd0c775970563e3fcba13d9d9a1
+MD5Sum: 8cae4dbb84f0952f0012e4ac35c8a07b
+SHA256sum: 824fac7107be009edca0d5ad2d982e8d26fbfca5b2c38d9692d79425e865801d
 Size: 63612
 Filename: enigma2-plugin-systemplugins-networkbrowser-staticdev_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12555,8 +12555,8 @@ Depends: enigma2-plugins, libc6 (>= 2.32)
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 97faa0efda5043ae0c0ce67869a5bdd7
-SHA256sum: 25fcd16b2e2319d548e31922a3b84db7e9cc464fa078de7342f4ae1a6a943f1e
+MD5Sum: b1294df858655a304942e4c705ce1901
+SHA256sum: d2dcfb4544ce03455da301471ef2d61e5c75127c235da3c031e8586ee65e8875
 Size: 73204
 Filename: enigma2-plugin-systemplugins-networkbrowser_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12635,9 +12635,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d1f6782f4c5e06eae86aae522053b172
-SHA256sum: 55527e601c62669d0c8d26d4950bde05f055bf80f978fdcb9cb661c99a034ebe
-Size: 9564
+MD5Sum: 658d3f94036ee69f1b91136fb8c2a181
+SHA256sum: 3ac8b1edb0518bc4aa20afcbe985b22c764abc8602b7e782d68e65ee61fe4e78
+Size: 9566
 Filename: enigma2-plugin-systemplugins-recinfobar-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-recinfobar (source files)
@@ -12651,9 +12651,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5e18d5594cc454c8a6eed4f8c91ead9d
-SHA256sum: 45664044731f5417bbe83935e65b7bda1abc232f01f938e0dc9ef5e16c0ce1a4
-Size: 20204
+MD5Sum: 1c8d609ad1ac001c2a6c07c22d6e6042
+SHA256sum: 94acf6fed2f62abd232f19dc76e3874bdcf09cde46693b1e171536acbfe19568
+Size: 20206
 Filename: enigma2-plugin-systemplugins-recinfobar_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-recinfobar
@@ -12667,9 +12667,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e3ff37f54fd5ca21561da85e29004440
-SHA256sum: 5e15d36496bd3d9731a1069ff1922a931234788ae97a7c6dfbec46397b154c4d
-Size: 7088
+MD5Sum: d1762d806dd44b19e373ac313a5fd0df
+SHA256sum: 694ddf2421813d9ddc3241c18fde88b837c6451417f85641aec8d5b3d02acd24
+Size: 7090
 Filename: enigma2-plugin-systemplugins-satipclient-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-satipclient (source files)
@@ -12683,8 +12683,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2294be570553f9eb2e23e7ef127b0c92
-SHA256sum: 701746a9167040715bf66290c798ad0992ee4876f839e5d3591aa5ce6eeb7635
+MD5Sum: cac9abbc42d1c7bf9fee07870db69501
+SHA256sum: c51ab24c0cfde1928acf7b08904274d32e27a2491759dd091c188d3b10354ba7
 Size: 13562
 Filename: enigma2-plugin-systemplugins-satipclient_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12699,9 +12699,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 38f6bb6d3e13837e2da310ca6d5a3816
-SHA256sum: 3bf59f1319bac1735598b4d04f430d157aecb04aba9388cd701c8eef55d24202
-Size: 2654
+MD5Sum: b19e9c3fa24ffca78516473e7bc15482
+SHA256sum: 7f7c4add5bce511d7fd35938fc9951637837e0adedcc7193c6c5a4ee7a62a6b9
+Size: 2652
 Filename: enigma2-plugin-systemplugins-setpasswd-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-setpasswd (source files)
@@ -12715,8 +12715,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 10b7b9031d342e7099a6d3d1a9696c34
-SHA256sum: 4f448a29169cf05b08341d0d7011f660ea74a0b570930fe698acf2046ba5976c
+MD5Sum: 73a8781cfc203431e359dd4b5e24865c
+SHA256sum: 43063736f8c5daf543effd99a95fe9fa7202189f67d4e3f94a81e1bbb095ae22
 Size: 7158
 Filename: enigma2-plugin-systemplugins-setpasswd_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12782,9 +12782,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 13e6c4d5d4d41f80f90d1adc4f686258
-SHA256sum: 1db4419eb90c19e2c7c88de76dfde3c7c2878ebc9b4009d40490dfbbf4e7e853
-Size: 5974
+MD5Sum: 405376b6fee22c7c17d2d6195d7f0352
+SHA256sum: c86294bf36af9c1f6fba32f70052f70cd449be43100ed7aa6ca37ec3a6c1b62e
+Size: 5976
 Filename: enigma2-plugin-systemplugins-systemtime-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-systemtime (source files)
@@ -12799,9 +12799,9 @@ Recommends: ntpdate
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 208f1fb7561413e03932139ce3468055
-SHA256sum: ec6b31611391aaaff9c0c2f747438d23886fb7fc3b45354a14e4b5b4d1e7e0e3
-Size: 15728
+MD5Sum: c0688b20120989a5bc6fd7088cc26491
+SHA256sum: 088106ed05350f02603bf43d109afc4025540237a3af395bc8e0740e6e8c3dd2
+Size: 15726
 Filename: enigma2-plugin-systemplugins-systemtime_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-systemtime
@@ -12815,8 +12815,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 634396209a58be2aee9617b565d5a32d
-SHA256sum: 29beb8b8f97b4df415a4a11b2cb7f9dbe4680b4da52f019798d262c30ff8c382
+MD5Sum: 526e7c74120439aea839b5b313f012db
+SHA256sum: e20e79959085b769903e5a19b9b275eace1a9dcb9be1265d6dee65cac96917a7
 Size: 6254
 Filename: enigma2-plugin-systemplugins-terrestrialscan-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12831,8 +12831,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 21f60738b0c930ec55a67d02939a3311
-SHA256sum: 851d24cfc705cf7828a8d6f3e3d01bb4cc3a9bd0aa8ccdfd32946f2398f8c06e
+MD5Sum: 2fea8546b8392c6052eee8f431124b77
+SHA256sum: bc8f26ca514e3e17e12fb15cdd564229df3f7d1a9f9dc591ed6123798466fd16
 Size: 30354
 Filename: enigma2-plugin-systemplugins-terrestrialscan_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12847,8 +12847,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2899726195012e5fb0ad1cb76cdf928d
-SHA256sum: d6ec5e5c832db178afd5d3f7fff4a62342539bb305224c312477a68eb15bbf8f
+MD5Sum: 5fc308ae5adcd51d9b622f1cece47f7e
+SHA256sum: e64a1b446dfa3cd8c05769aefc625c1b0d85712b5d6b01390e6126b5a9c7169a
 Size: 3156
 Filename: enigma2-plugin-systemplugins-transcodingsetup-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12863,8 +12863,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 00121d313e9536a1701d4a6e8b727561
-SHA256sum: c395dfc809616f1e916c6122fff6bd5f916478b1f3b7d159db30f17a877ab069
+MD5Sum: 298f93d55d5713e16b3571e52761b92f
+SHA256sum: 2ef4860ce4ccbd2af2a68345ee8ae61487374f7ce82dbfdceaa0348fa90dc419
 Size: 13902
 Filename: enigma2-plugin-systemplugins-transcodingsetup_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12879,8 +12879,8 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 40ebee51c6a15b311b1ea958aa082a4e
-SHA256sum: c15a49c0fdb1f4ad360e9e72ced5c622ae4f292aaf15b1eadf6ba9f0c017fc6c
+MD5Sum: 4f04676bfb8039dc9061a20222fa40c9
+SHA256sum: 96723c6631d999a093c19d8a3f301ae233432e5e8f218ad8f0b52563d6687aa4
 Size: 4180
 Filename: enigma2-plugin-systemplugins-vfdcontrol-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12895,9 +12895,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f11d1424d7f2a8099ae6c92b37b48454
-SHA256sum: 5bca7c511ff2b39f4950a455ce775f398a0434703f5c4c6ed5b6ee3339591c1f
-Size: 9068
+MD5Sum: 5dba45f79a2a2cda8d135f9c34c00070
+SHA256sum: efabcc6ce704c3e78aae40548b62bcaa924dec39eab25d3bd3b84b1bb8817677
+Size: 9070
 Filename: enigma2-plugin-systemplugins-vfdcontrol_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-vfdcontrol
@@ -12912,8 +12912,8 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9c7d10e4b08ede0f96ddd7f73e3665f4
-SHA256sum: cc64856029154249aa395d338bf23ccb4f1f8713a48a435026b5b427ff36481a
+MD5Sum: 150a01be6e91104fbef23d1287d8fa08
+SHA256sum: 3aac17a667be79586825b3fdde520cf68d1b7d0106395bd53d5ccf4eec1d2a0d
 Size: 103616
 Filename: enigma2-plugin-systemplugins-vps-dbg_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12928,9 +12928,9 @@ Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 983094c921d8697c921bc32823e022ec
-SHA256sum: 05a17b590227ccd96e8e58ceb369afcd8c4f7f8e3e70e90eaffd49840c7dd3f7
-Size: 12382
+MD5Sum: ae16088ea1d7aed473acd09a1ecdcdb7
+SHA256sum: 75c83e463ca1816dcffe943c39c4433c16690709723e1952cd31db79f002c9de
+Size: 12384
 Filename: enigma2-plugin-systemplugins-vps-src_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-vps (source files)
@@ -12944,8 +12944,8 @@ Depends: enigma2-plugins, libc6 (>= 2.32), libgcc1 (>= 10.2.0), libstdc++6 (>= 1
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ff9c59430a204c0f6b0fb627508ee995
-SHA256sum: 9844f9a9a40ece41d7eb1b14ef00f367c128edf825c7498ee547f6aca1b46927
+MD5Sum: 61c7cb699c35a12c61aca5572de5bac7
+SHA256sum: 61ccacf9a5488b3d87a66cbfcd7a76831a9f8335ae659a2966b61d74ae0f0881
 Size: 33016
 Filename: enigma2-plugin-systemplugins-vps_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12960,9 +12960,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 121b1ba5b77196b922adfab17da1b5b2
-SHA256sum: bbbfcd3861053fe6cb02dd3837247ae89d80a54896fd3d794110341f5940920e
-Size: 724
+MD5Sum: c879a59433f9fe6a321305b28b8052dd
+SHA256sum: 9b91700c0a45cf0199e1a8734bbf58a1ae5c8f358af51bf91f54ee8e35736c25
+Size: 726
 Filename: enigma2-plugins-dbg_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: enigma2-plugins version 10.2.0-gitAUTOINC+a6473e2fd9-r0 - Debugging files
@@ -12977,8 +12977,8 @@ Recommends: aio-grab-dev, avahi-daemon-dev, dvdbackup-dev, enigma2-plugin-extens
 Section: devel
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4f07bb2de0a0f53edf86cbffb612fb43
-SHA256sum: b81eab10eeb8c0bb06c8e137805bb8b80729f9c9f047fdc3ce741bad30ccf0fd
+MD5Sum: 6775ac2836e39c52271c59d1000aeb35
+SHA256sum: be013679c14655d9869cc855430710b9c9abdaf97719003996fb3ba9ffb4b341
 Size: 984
 Filename: enigma2-plugins-dev_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -12992,8 +12992,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a7f967a1251bdea643ca712b9761dce4
-SHA256sum: 0b258ecc667f3c4961178030129bba85162e3b931c68c71b48f92f1f64f2502e
+MD5Sum: 0ede83b499acac3c23600bd6c97fbc3b
+SHA256sum: 8c956d0d3dcc1758481bb40c0b37b6bc01fcd5743d781407558a928ef25e0b48
 Size: 10942
 Filename: enigma2-plugins-meta_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -13007,8 +13007,8 @@ Version: 10.2.0-git5048+a6473e2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 56bf2261c2b3d1513ac6fa1b7c76aaa4
-SHA256sum: 1bd43c614ced72bcae3a670463be087eafdb5774c5e08d4c0923ef2059d8fed9
+MD5Sum: 419021622c6514d08c8bd3aa8de6ed36
+SHA256sum: cc109e34716bfcd7f8e0b68b599a10cb635ba2acb76239c555740a3bfd476207
 Size: 632
 Filename: enigma2-plugins_10.2.0-git5048+a6473e2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
@@ -50066,6 +50066,265 @@ HomePage: http://kernel.org/pub/linux/utils/kernel/kmod/
 License: GPL-2.0+ & LGPL-2.1+
 Priority: optional
 
+Package: krb5-admin-server
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libgssapi-krb5-2 (>= 1.17.1), libgssrpc4 (>= 1.17.1), libk5crypto3 (>= 1.17.1), libkadm5srv-mit11 (>= 1.17.1), libkdb5-9 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1), libverto0 (>= 1.17.1)
+Recommends: update-rc.d
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6155985c712df207ad555b6e17a630c8
+SHA256sum: 15dbee640e7e0e6f026b2d618f960cb287980bec58217d4bbb21c0f07fc38865
+Size: 61762
+Filename: krb5-admin-server_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-dbg
+Version: 1.17.1-r0
+Recommends: glibc-dbg, libcomerr-dbg, libcrypto-dbg, libgssapi-krb5-dbg, libgssrpc-dbg, libk5crypto-dbg, libkadm5clnt-mit-dbg, libkadm5srv-mit-dbg, libkdb5-dbg, libkrad-dbg, libkrb5-dbg, libkrb5support-dbg, libssl-dbg, libverto-dbg
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b00e6bfcb6ff40085771616e8aa0406e
+SHA256sum: f6d21df929a56bf51dbef523864ad0583e2025eb0cba53053ee4fb86e012e8a8
+Size: 2411542
+Filename: krb5-dbg_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol - Debugging files
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-dev
+Version: 1.17.1-r0
+Depends: krb5 (= 1.17.1-r0), libgssapi-krb5, libgssrpc, libk5crypto, libkadm5clnt-mit, libkadm5srv-mit, libkdb5, libkrad, libkrb5, libkrb5support, libverto
+Recommends: e2fsprogs-dev, glibc-dev, initscripts-dev, krb5-kdc-dev, libcomerr-dev, libcrypto-dev, libgssapi-krb5-dev, libgssrpc-dev, libk5crypto-dev, libkadm5clnt-mit-dev, libkadm5srv-mit-dev, libkdb5-dev, libkrad-dev, libkrb5-dev, libkrb5support-dev, libssl-dev, libverto-dev, ncurses-dev, openssl-dev, update-rc.d-dev, util-linux-dev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: efc9e9cf99734b212c1147b780f1cc49
+SHA256sum: 3f7bad78e6ee6bfe596ba3298d60d82a326e0b91c8e39e8e1b870a7bebf9c154
+Size: 114824
+Filename: krb5-dev_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol - Development files
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-doc
+Version: 1.17.1-r0
+Section: doc
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 669aae7be53433222a23ced1374727fe
+SHA256sum: 94ac63093be109938c4b93bb660bab9addcc15a60d311a13c9b234593ecdd33d
+Size: 54534
+Filename: krb5-doc_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol - Documentation files
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-gss-samples
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libgssapi-krb5-2 (>= 1.17.1)
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4f21e0379ef556c975d85ac9e6bd21d1
+SHA256sum: 400675b76e61b864fed722c43d07b7f5777659a5dc77fa27b48d6e37bc514aed
+Size: 12018
+Filename: krb5-gss-samples_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-k5tls
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1), libssl1.1 (>= 1.1.1h)
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7ea80187ab711974fba916614d774d79
+SHA256sum: fc2fd6fc2ef5c83d02cad629ecc0079a7ae2b12b0ea1e0f5f0918eeaa9ce0ece
+Size: 6480
+Filename: krb5-k5tls_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-kdc
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libgssapi-krb5-2 (>= 1.17.1), libgssrpc4 (>= 1.17.1), libk5crypto3 (>= 1.17.1), libkadm5srv-mit11 (>= 1.17.1), libkdb5-9 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1), libverto0 (>= 1.17.1)
+Recommends: update-rc.d
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9784fef155dff5f24d7f85a3f08b4150
+SHA256sum: b01dcdcfeb1cad1c7aba3c2b0e578fa0f23eb8b8f9a975908e0ba7d5585326eb
+Size: 116084
+Filename: krb5-kdc_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-kpropd
+Version: 1.17.1-r0
+Depends: krb5-kdc, libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libgssrpc4 (>= 1.17.1), libk5crypto3 (>= 1.17.1), libkadm5clnt-mit11 (>= 1.17.1), libkdb5-9 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1)
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 95d2f4303035479d6c2b1bec784c48a3
+SHA256sum: 58c565a2e7e52595f410ae4c273524e3f89e48b6a26e1f50bb29374ae131d2be
+Size: 13496
+Filename: krb5-kpropd_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-locale-de
+Version: 1.17.1-r0
+Provides: de-translation, krb5-locale
+Recommends: virtual-locale-de
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 805ef21dcde20108f307b6c6bfac5cb5
+SHA256sum: 8a78f01b73774ee0087d5dd3f46ddca2740d04768c3e3e6f70a2c83bdbf392cf
+Size: 50988
+Filename: krb5-locale-de_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol - de translations
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-locale-en-us
+Version: 1.17.1-r0
+Provides: en-us-translation, krb5-locale
+Recommends: virtual-locale-en-us
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2f104e167b98ceb5b60126bfd27b5daf
+SHA256sum: 190ac0f72042e83f51231090d3803fd156b572a243df6eca9172f887368306b6
+Size: 1426
+Filename: krb5-locale-en-us_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol - en_US translations
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-otp
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libk5crypto3 (>= 1.17.1), libkrad0 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1), libverto0 (>= 1.17.1)
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4bc6d596a00977f8b513062163fc9975
+SHA256sum: 000acc3ff9190ef88562dead45608bb0feed11373f76c157ad9caa47e23e132d
+Size: 7868
+Filename: krb5-otp_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-pkinit
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libcrypto1.1 (>= 1.1.1h), libk5crypto3 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1)
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 924895a8a7c9de9d0ae6c2daac49148b
+SHA256sum: df96255f0199d0ab2bd3f0da8ce55a78d77667637b85c693065eee274bcd80d3
+Size: 38874
+Filename: krb5-pkinit_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-spake
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libcrypto1.1 (>= 1.1.1h), libk5crypto3 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1)
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 982fad3039adf7fd59633fe885fadd7a
+SHA256sum: 54aff760721f16fa1ee01caf609380651f098854fd52f9fb105f28fb250c9cd1
+Size: 52730
+Filename: krb5-spake_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5-user
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libk5crypto3 (>= 1.17.1), libkadm5clnt-mit11 (>= 1.17.1), libkadm5srv-mit11 (>= 1.17.1), libkdb5-9 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1)
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b6d40424f57531a63a6ca58970f2d24f
+SHA256sum: 809bfc5006fcd0cd46b4cd36b54d3760b40d543f3b53ff6105752e7e09ca29dc
+Size: 68560
+Filename: krb5-user_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: krb5
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libk5crypto3 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1)
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5c899e093b810134c37d7372ac46394d
+SHA256sum: ef93bad35b4c396c8821bacd228e05786800106fa42425cb316ef682b7af45aa
+Size: 5042
+Filename: krb5_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
 Package: lame-dbg
 Version: 3.100-r0
 Recommends: glibc-dbg, ncurses-libtinfo-dbg
@@ -59175,6 +59434,42 @@ HomePage: http://www.gnupg.org/related_software/libgpg-error/
 License: GPLv2+ & LGPLv2.1+
 Priority: optional
 
+Package: libgssapi-krb5-2
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libk5crypto3 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1)
+Provides: libgssapi-krb5
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6cc84045a95cbb6b71d20479fd6c8cf2
+SHA256sum: 24dea439ef5d3a226eca67e2b66612b5b48077713968c0f42a6c1aa26ed80567
+Size: 86494
+Filename: libgssapi-krb5-2_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: libgssrpc4
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libgssapi-krb5-2 (>= 1.17.1), libk5crypto3 (>= 1.17.1), libkrb5-3 (>= 1.17.1)
+Provides: libgssrpc
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 0eac64a0b696cbcc4ecd81ecc42dc2de
+SHA256sum: d8ee01047f14cf68e5d44d8ef8c79a91c2d6aec3d3f1184572f0506d3c765655
+Size: 36692
+Filename: libgssrpc4_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
 Package: libgstadaptivedemux-1.0-0
 Version: 1.19.0.1+git26541+7cec644-r0
 Depends: gstreamer1.0 (>= 1.19.0.1+git19069+17feeb1), libc6 (>= 2.32), libglib-2.0-0 (>= 2.66.2), libgsturidownloader-1.0-0 (>= 1.19.0.1+git26541+7cec644)
@@ -60643,6 +60938,79 @@ HomePage: https://hewlettpackard.github.io/wireless-tools/Tools.html
 License: GPLv2 & (LGPLv2.1 | MPL-1.1 | BSD)
 Priority: optional
 
+Package: libjansson-dbg
+Version: 2.13.1-r0
+Provides: jansson-dbg
+Recommends: glibc-dbg
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2197141ed880de015cd2cb01de633f4f
+SHA256sum: ad1270cbccf01996418d235cdce673d7da6bbb064d1d92c827ae02a9d4382cb6
+Size: 53134
+Filename: libjansson-dbg_2.13.1-r0_mips32el.ipk
+Source: jansson_2.13.1.bb
+Description: Jansson is a C library for encoding, decoding and manipulating JSON data - Debugging files
+OE: jansson
+HomePage: http://www.digip.org/jansson/
+License: MIT
+Priority: optional
+
+Package: libjansson-dev
+Version: 2.13.1-r0
+Depends: libjansson4 (= 2.13.1-r0)
+Provides: jansson-dev
+Recommends: glibc-dev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 754fab478aee63c8dc279d865c628561
+SHA256sum: de44da755573824c97f77c01528b352186aeb22176debbc46977f00a9f9b8883
+Size: 4714
+Filename: libjansson-dev_2.13.1-r0_mips32el.ipk
+Source: jansson_2.13.1.bb
+Description: Jansson is a C library for encoding, decoding and manipulating JSON data - Development files
+OE: jansson
+HomePage: http://www.digip.org/jansson/
+License: MIT
+Priority: optional
+
+Package: libjansson-staticdev
+Version: 2.13.1-r0
+Depends: libjansson-dev (= 2.13.1-r0)
+Provides: jansson-staticdev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4687123b58e56bb60cb7a8b0b1149440
+SHA256sum: 325adc123642ed2b585747d4731995657fd8865c7b5efffd118d7c978235f398
+Size: 83832
+Filename: libjansson-staticdev_2.13.1-r0_mips32el.ipk
+Source: jansson_2.13.1.bb
+Description: Jansson is a C library for encoding, decoding and manipulating JSON data - Development files (Static Libraries)
+OE: jansson
+HomePage: http://www.digip.org/jansson/
+License: MIT
+Priority: optional
+
+Package: libjansson4
+Version: 2.13.1-r0
+Depends: libc6 (>= 2.32)
+Provides: jansson
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1ccdcb947a40f01d096bcd3fe72cf385
+SHA256sum: 30f93bed393517b6ed4f9a5895edd3a64021b4135e17db1ce9af00abbd641daf
+Size: 20530
+Filename: libjansson4_2.13.1-r0_mips32el.ipk
+Source: jansson_2.13.1.bb
+Description: Jansson is a C library for encoding, decoding and manipulating JSON data
+OE: jansson
+HomePage: http://www.digip.org/jansson/
+License: MIT
+Priority: optional
+
 Package: libjitterentropy-dbg
 Version: 2.2.0-r0
 Recommends: glibc-dbg
@@ -61885,6 +62253,78 @@ HomePage: https://wiki.gnome.org/Projects/JsonGlib
 License: LGPLv2.1
 Priority: optional
 
+Package: libk5crypto3
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libkrb5support0 (>= 1.17.1)
+Provides: libk5crypto
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2dcf95d153c4fb441016c0112fd55fd7
+SHA256sum: 2c3730accc10b1f280c1c51f443baaaebdf6041cc41dae72a6555e4de2cbb77b
+Size: 69316
+Filename: libk5crypto3_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: libkadm5clnt-mit11
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libgssapi-krb5-2 (>= 1.17.1), libgssrpc4 (>= 1.17.1), libk5crypto3 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1)
+Provides: libkadm5clnt-mit
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 27251b3608e62975bb97136244377cc7
+SHA256sum: 8fab1cd7c352f435a049659408355b98fcc6e7694cb550d58ce9f3d78d8279d0
+Size: 23728
+Filename: libkadm5clnt-mit11_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: libkadm5srv-mit11
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libgssapi-krb5-2 (>= 1.17.1), libgssrpc4 (>= 1.17.1), libk5crypto3 (>= 1.17.1), libkdb5-9 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1)
+Provides: libkadm5srv-mit
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 97747317aeabf78668b7e816443b1900
+SHA256sum: a05c170244b6e3c580a98fff770e39d806ea4fae43a99dc209309fcd9038473b
+Size: 33640
+Filename: libkadm5srv-mit11_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: libkdb5-9
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libgssrpc4 (>= 1.17.1), libk5crypto3 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1)
+Provides: libkdb5
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4f4bd4240f91da8b5f4e8a98845a7a48
+SHA256sum: efc488695415dc106d25ed5e7a116fffb2a0e8bf5d552a533be1e850cd555c70
+Size: 24080
+Filename: libkdb5-9_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
 Package: libkmod2
 Version: 27-r0
 Depends: libc6 (>= 2.32), libz1 (>= 1.2.11)
@@ -61901,6 +62341,399 @@ Description: Tools for managing Linux kernel modules
 OE: kmod
 HomePage: http://kernel.org/pub/linux/utils/kernel/kmod/
 License: LGPL-2.1+
+Priority: optional
+
+Package: libkrad0
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libk5crypto3 (>= 1.17.1), libkrb5-3 (>= 1.17.1), libkrb5support0 (>= 1.17.1), libverto0 (>= 1.17.1)
+Provides: libkrad
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b3707664680e074dc925622bef947778
+SHA256sum: 29166fcae89a78c23f9ccf208b9f58140d0497568c7064935e250dd7e293b214
+Size: 10484
+Filename: libkrad0_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: libkrb5-3
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32), libcom-err2 (>= 1.45.6), libk5crypto3 (>= 1.17.1), libkrb5support0 (>= 1.17.1)
+Provides: libkrb5
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 49be7e506fa07e23dc9240c307f809a3
+SHA256sum: 0d42b9c67fea0cdf5b8ec6b59f4a1c8eb524540262c65cb7065f4c8509cce716
+Size: 205296
+Filename: libkrb5-3_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: libkrb5support0
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32)
+Provides: libkrb5support
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5849496fd0f1e0d8cdfa1a63bb7f9606
+SHA256sum: f17c3e1fa1121f3f70da6d97990038ac6148d1eb4860f90755c5f8eb781f85ce
+Size: 17578
+Filename: libkrb5support0_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
+Priority: optional
+
+Package: libldap-2.4-2
+Version: 2.4.51-r0
+Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h), libssl1.1 (>= 1.1.1h)
+Provides: openldap
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: aaf49fa391343743c7c60d2c2986168b
+SHA256sum: a8b2beb38d3dd1b2250ef762b2b4a7bdc912e6fb7ee5b9d2e17772770aaf79c3
+Size: 126998
+Filename: libldap-2.4-2_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP Directory Service
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-backend-dnssrv
+Version: 2.4.51-r0
+Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h), libldap-2.4-2 (>= 2.4.51), libssl1.1 (>= 1.1.1h)
+Provides: openldap-backend-dnssrv
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4afd864f1c94c4fd33692892774deb31
+SHA256sum: ac7abebde4ee9a7aec6430f1235432d289582e46024a0c60e4a0149ed6fa2b07
+Size: 4954
+Filename: libldap-2.4-backend-dnssrv_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP dnssrv backend
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-backend-ldap
+Version: 2.4.51-r0
+Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h), libldap-2.4-2 (>= 2.4.51), libssl1.1 (>= 1.1.1h)
+Provides: openldap-backend-ldap
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 496d154d69d52f69529705435e61041f
+SHA256sum: 55d42a6fbd6edd7d35458fd87df43fab9ec4a8bef7f55b70462f10dba0c9fef8
+Size: 44046
+Filename: libldap-2.4-backend-ldap_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP ldap backend
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-backend-meta
+Version: 2.4.51-r0
+Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h), libldap-2.4-2 (>= 2.4.51), libssl1.1 (>= 1.1.1h)
+Provides: openldap-backend-meta
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 477b4788aea369bea9259db7cd899e8e
+SHA256sum: 5c5185a84820cde5e2bd54febe2e1fdddfdd40bc1245af903e74925414138e48
+Size: 43894
+Filename: libldap-2.4-backend-meta_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP meta backend
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-backend-monitor
+Version: 2.4.51-r0
+Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h), libldap-2.4-2 (>= 2.4.51), libssl1.1 (>= 1.1.1h)
+Provides: openldap-backend-monitor
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 65542c2f5a409d566e92b853d8c26096
+SHA256sum: dc4bde143b05c2e0f9c1bbec7e3bf16bc825b69b707c1f2d2148a04760c5a96b
+Size: 26454
+Filename: libldap-2.4-backend-monitor_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP monitor backend
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-backend-null
+Version: 2.4.51-r0
+Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h), libldap-2.4-2 (>= 2.4.51), libssl1.1 (>= 1.1.1h)
+Provides: openldap-backend-null
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1efc4efe18d522ae8f71cb0f6937f12f
+SHA256sum: bb8afc02ad7ad343b46a1648d97757a5bacf89cab0588b8ce43cfab6e9ba87e7
+Size: 4602
+Filename: libldap-2.4-backend-null_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP null backend
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-backend-passwd
+Version: 2.4.51-r0
+Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h), libldap-2.4-2 (>= 2.4.51), libssl1.1 (>= 1.1.1h)
+Provides: openldap-backend-passwd
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5f27e0f38619a5aace742d97303d0f8b
+SHA256sum: 5b75afd65bddb5d4dcf25674478e1ee61a5237126fde0885a84d87e8f923abad
+Size: 4926
+Filename: libldap-2.4-backend-passwd_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP passwd backend
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-backend-shell
+Version: 2.4.51-r0
+Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h), libldap-2.4-2 (>= 2.4.51), libssl1.1 (>= 1.1.1h)
+Provides: openldap-backend-shell
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5444c4d7574438b8471c468ed447a05f
+SHA256sum: a8bfdc065173c721c31d9e45ac15a09b30cac775445544fb5ce1eb5300d6494a
+Size: 6432
+Filename: libldap-2.4-backend-shell_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP shell backend
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-bin
+Version: 2.4.51-r0
+Depends: libc6 (>= 2.32), libldap-2.4-2 (>= 2.4.51)
+Provides: openldap-bin
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 37b54a9bb19834bbb87033456803a40b
+SHA256sum: 6150886f8fc80484b3f4d31ee662ed242d6c09273aeb29993539212b22455252
+Size: 69856
+Filename: libldap-2.4-bin_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP Directory Service
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-dbg
+Version: 2.4.51-r0
+Provides: openldap-dbg
+Recommends: glibc-dbg, libcrypto-dbg, libltdl-dbg, libssl-dbg, libxcrypt-dbg, util-linux-libuuid-dbg
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e91350d5762016c3b9a896a0a8334b75
+SHA256sum: 77611ccd1d6ae88639d9dd1e2e8485082063b4166d9af1daa78c98047eb2841c
+Size: 1842710
+Filename: libldap-2.4-dbg_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP Directory Service - Debugging files
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-dev
+Version: 2.4.51-r0
+Depends: libldap-2.4-2 (= 2.4.51-r0), openldap-overlay-proxycache
+Provides: openldap-dev
+Recommends: glibc-dev, initscripts-dev, libcrypto-dev, libltdl-dev, libssl-dev, libtool-dev, libxcrypt-dev, openldap-overlay-proxycache-dev, openssl-dev, update-rc.d-dev, util-linux-dev, util-linux-libuuid-dev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: fa2540f9b803e4b565b70b2635fb0a25
+SHA256sum: e01a466b2b9186ea21d9b33cdcbcb415c09a145c8861ff6bc4621fcf0909a0fd
+Size: 30512
+Filename: libldap-2.4-dev_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP Directory Service - Development files
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-doc
+Version: 2.4.51-r0
+Provides: openldap-doc
+Section: doc
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4fb88345ab2fc369247d56e13e0c4fac
+SHA256sum: ccf0fc1251fe4f889fa8592502ccb300d65a8167280b39c7a19474c31820fb5e
+Size: 154634
+Filename: libldap-2.4-doc_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP Directory Service - Documentation files
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-overlay-proxycache
+Version: 2.4.51-r0
+Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h), libldap-2.4-2 (>= 2.4.51), libssl1.1 (>= 1.1.1h)
+Provides: openldap-overlay-proxycache
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: bdbe98ab75c17c9e8cca2e3eff23c0da
+SHA256sum: 30bfc0f946d538a33d2856205800ebbc06146e5401037ddf44dda5a70ca3067b
+Size: 24086
+Filename: libldap-2.4-overlay-proxycache_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP Directory Service
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-slapd
+Version: 2.4.51-r0
+Depends: libc6 (>= 2.32), libcrypt2 (>= 4.4.17), libldap-2.4-2 (>= 2.4.51), libltdl7 (>= 2.4.6), libuuid1 (>= 2.36)
+Provides: openldap-slapd
+Recommends: update-rc.d
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6ad4a9d4fbeb64df27bf4092f41bb279
+SHA256sum: ec5de41f6c7af9e298150f0c2fd6e35a22c68b32702575ff42e1c21e050833a9
+Size: 442298
+Filename: libldap-2.4-slapd_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP Directory Service
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldap-2.4-staticdev
+Version: 2.4.51-r0
+Depends: libldap-2.4-dev (= 2.4.51-r0)
+Provides: openldap-staticdev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4119d5b730ef4c209ab9fc37ac671cd8
+SHA256sum: 9da7eab60ab7f0a7af05c1ab3112a8d558ee495f227a2052179f1774cf50cb4c
+Size: 622576
+Filename: libldap-2.4-staticdev_2.4.51-r0_mips32el.ipk
+Source: openldap_2.4.51.bb
+Description: OpenLDAP Directory Service - Development files (Static Libraries)
+OE: openldap
+HomePage: http://www.OpenLDAP.org/license.html
+License: OpenLDAP
+Priority: optional
+
+Package: libldb-dbg
+Version: 1.5.8-r0
+Recommends: glibc-dbg, libpython3-dbg, libtalloc-dbg, libtdb-dbg, libtevent-dbg, libxcrypt-dbg, popt-dbg
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d5024abcdeeea2c9771292fdaa34391f
+SHA256sum: 8688bb21016d675b0a319b9fe9ccab0292caeee0d8c0702d7bdb49fe7f89389e
+Size: 311596
+Filename: libldb-dbg_1.5.8-r0_mips32el.ipk
+Source: libldb_1.5.8.bb
+Description: Hierarchical, reference counted memory pool system with destructors - Debugging files
+OE: libldb
+HomePage: http://ldb.samba.org
+License: LGPL-3.0+ & LGPL-2.1+ & GPL-3.0+
+Priority: optional
+
+Package: libldb-dev
+Version: 1.5.8-r0
+Depends: libldb (= 1.5.8-r0)
+Recommends: glibc-dev, libtalloc-dev, libtdb-dev, libtevent-dev, libxcrypt-dev, popt-dev, python3-dev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8fb1e2dfbe3e6392ac2ea370f2871998
+SHA256sum: 09a846b81b1520545bab7ca3a9d31ecafa8119b5ebeb6c68dc7a7dfc6a45ad6c
+Size: 22672
+Filename: libldb-dev_1.5.8-r0_mips32el.ipk
+Source: libldb_1.5.8.bb
+Description: Hierarchical, reference counted memory pool system with destructors - Development files
+OE: libldb
+HomePage: http://ldb.samba.org
+License: LGPL-3.0+ & LGPL-2.1+ & GPL-3.0+
+Priority: optional
+
+Package: libldb-doc
+Version: 1.5.8-r0
+Section: doc
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 176be902fc0a931918012580265010b5
+SHA256sum: 75f0f5200cccd8d9f01770e5d3ce53a2c8356b71b84bc453933d0dc58be3a908
+Size: 4966
+Filename: libldb-doc_1.5.8-r0_mips32el.ipk
+Source: libldb_1.5.8.bb
+Description: Hierarchical, reference counted memory pool system with destructors - Documentation files
+OE: libldb
+HomePage: http://ldb.samba.org
+License: LGPL-3.0+ & LGPL-2.1+ & GPL-3.0+
+Priority: optional
+
+Package: libldb
+Version: 1.5.8-r0
+Depends: libc6 (>= 2.32), libcrypt2 (>= 4.4.17), libpopt0 (>= 1.18), libtalloc (>= 2.3.0), libtdb1 (>= 1.4.3), libtevent0 (>= 0.10.1)
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5257c3f50e63dd823d31fb6e1922930a
+SHA256sum: f19adca8a2836b129f20e2b516e23310c037f45fc3271b7a9d45980cbd64dba7
+Size: 125598
+Filename: libldb_1.5.8-r0_mips32el.ipk
+Source: libldb_1.5.8.bb
+Description: Hierarchical, reference counted memory pool system with destructors
+OE: libldb
+HomePage: http://ldb.samba.org
+License: LGPL-3.0+ & LGPL-2.1+ & GPL-3.0+
 Priority: optional
 
 Package: libltdl7
@@ -65417,6 +66250,672 @@ HomePage: http://www.libpng.org/
 License: Libpng
 Priority: optional
 
+Package: libpopt-dbg
+Version: 1.18-r0
+Provides: popt-dbg
+Recommends: glibc-dbg
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 89b1bedbbe66f8547a690c5f558ed3fd
+SHA256sum: 84c6619449a0d41fabaf137e438a47df3c3a14cba558a79dda77ebac3159bb4a
+Size: 46510
+Filename: libpopt-dbg_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - Debugging files
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-dev
+Version: 1.18-r0
+Depends: libpopt0 (= 1.18-r0)
+Provides: popt-dev
+Recommends: glibc-dev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3990c39432a71a2696d75a4ac36c708a
+SHA256sum: 56bd1682b3e2313689390cb4f8c1faa3d587b85d4e4eb4d07367e40f5fdec561
+Size: 5840
+Filename: libpopt-dev_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - Development files
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-doc
+Version: 1.18-r0
+Provides: popt-doc
+Section: doc
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f1599fc6e4a371eb1d978fc14aee8e33
+SHA256sum: eb5b430063e22084a82e2871a097963cf6a2a5acac3f29231a58ad1fef5b8488
+Size: 10766
+Filename: libpopt-doc_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - Documentation files
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-cs
+Version: 1.18-r0
+Provides: cs-translation, popt-locale, popt-locale-cs
+Recommends: virtual-locale-cs
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ca4a2a49efe5f3da8d8f6aa1f2113c44
+SHA256sum: 4e9e60c7270149b793b6d9d706a046b02d81c22707f965ff2a0dc3275773c8dc
+Size: 2010
+Filename: libpopt-locale-cs_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - cs translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-da
+Version: 1.18-r0
+Provides: da-translation, popt-locale, popt-locale-da
+Recommends: virtual-locale-da
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b7e83b317cd6abe6b4d75c29d0adb136
+SHA256sum: b984def42041b0fca250cbe2e54983a65983288686640c5152d9dc72c258d821
+Size: 1946
+Filename: libpopt-locale-da_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - da translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-de
+Version: 1.18-r0
+Provides: de-translation, popt-locale, popt-locale-de
+Recommends: virtual-locale-de
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 349b7916a42c7b368579790f491a0910
+SHA256sum: 17c35227becc3d7a1c8ab1c7a294eb951d9469ebef3b83430d58078e77851464
+Size: 1998
+Filename: libpopt-locale-de_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - de translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-eo
+Version: 1.18-r0
+Provides: eo-translation, popt-locale, popt-locale-eo
+Recommends: virtual-locale-eo
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 39a71f380f396cc4198164c60c68f772
+SHA256sum: 08193d1655661b362673fd25e604f0a32474487c147ac154977c2edddc882a91
+Size: 1950
+Filename: libpopt-locale-eo_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - eo translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-es
+Version: 1.18-r0
+Provides: es-translation, popt-locale, popt-locale-es
+Recommends: virtual-locale-es
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 46bb7bdb5be7b0b11e3bbe6d7f671e32
+SHA256sum: 5382aa6db6bf64ce55badb2e3e6cbd71331e4bb477600e4ba79c9752cf8b9052
+Size: 1698
+Filename: libpopt-locale-es_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - es translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-fi
+Version: 1.18-r0
+Provides: fi-translation, popt-locale, popt-locale-fi
+Recommends: virtual-locale-fi
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5ed938011820c2ed4ada3fae761ac719
+SHA256sum: f273ac9b839a00afeb465ea519a14f31ea5e84304be12a64f7423290a661e168
+Size: 2122
+Filename: libpopt-locale-fi_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - fi translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-fr
+Version: 1.18-r0
+Provides: fr-translation, popt-locale, popt-locale-fr
+Recommends: virtual-locale-fr
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d4021a4efc4d1b30ff4a9791f8b3eeca
+SHA256sum: 6512a55ef08991f10d93a8333253ca3200493696b27355ea4f1ebb94817368c0
+Size: 1834
+Filename: libpopt-locale-fr_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - fr translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-ga
+Version: 1.18-r0
+Provides: ga-translation, popt-locale, popt-locale-ga
+Recommends: virtual-locale-ga
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b77c8a993577e294d2ca357a243fec07
+SHA256sum: 21712249f12706e8b76dbb17617df3663e5c3233ef2ff8fd77fb54fd99285264
+Size: 2062
+Filename: libpopt-locale-ga_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - ga translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-gl
+Version: 1.18-r0
+Provides: gl-translation, popt-locale, popt-locale-gl
+Recommends: virtual-locale-gl
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5d4f553d5936243b895ee996978be3c8
+SHA256sum: 93c0becca410d72b882a78d2e8ae55d89b0c5f101290ee2580ba688734559f86
+Size: 1750
+Filename: libpopt-locale-gl_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - gl translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-hu
+Version: 1.18-r0
+Provides: hu-translation, popt-locale, popt-locale-hu
+Recommends: virtual-locale-hu
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 054e3e6542620b99bc0ccf0aaa371e7a
+SHA256sum: 0592f4bf9ca8210beb8ffb5bf46ebab27d2693090e6ac460688b486fb49a2518
+Size: 2068
+Filename: libpopt-locale-hu_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - hu translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-id
+Version: 1.18-r0
+Provides: id-translation, popt-locale, popt-locale-id
+Recommends: virtual-locale-id
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 77f1c0b6d18fbe578454a78e5d5e6bfc
+SHA256sum: ca0fae8b5dde645974ee3626a00558b35c6c0e4b3984ca08d898bb7c3deca00a
+Size: 1922
+Filename: libpopt-locale-id_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - id translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-is
+Version: 1.18-r0
+Provides: is-translation, popt-locale, popt-locale-is
+Recommends: virtual-locale-is
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6ca3fe1728d217c1688b4d5932c33bb8
+SHA256sum: 7bb07f7340513d2349a053ee13a7c461aac05492b8ed751539dcd44cfd99ff67
+Size: 1850
+Filename: libpopt-locale-is_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - is translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-it
+Version: 1.18-r0
+Provides: it-translation, popt-locale, popt-locale-it
+Recommends: virtual-locale-it
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ece49bfe4d0fb0928d93f9b566bcd406
+SHA256sum: 0042c39bf2f4fa276818b8ca5b09b0d7681d05a47a2816b9c4e6e85f524019ac
+Size: 1990
+Filename: libpopt-locale-it_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - it translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-ja
+Version: 1.18-r0
+Provides: ja-translation, popt-locale, popt-locale-ja
+Recommends: virtual-locale-ja
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 299239e3d8363a5b66c962ac8c43ce1f
+SHA256sum: a974e7327357c294cf022be55a5771cf4744faa710137352c496c52a4b3dac07
+Size: 1984
+Filename: libpopt-locale-ja_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - ja translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-ko
+Version: 1.18-r0
+Provides: ko-translation, popt-locale, popt-locale-ko
+Recommends: virtual-locale-ko
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5b36e68264f9a3f4c26b10c1f513f9be
+SHA256sum: 6f687ec3e21e27af0285785dffd0e2bc3a3df23d21d43ea13e682fd384f2185d
+Size: 1978
+Filename: libpopt-locale-ko_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - ko translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-lv
+Version: 1.18-r0
+Provides: lv-translation, popt-locale, popt-locale-lv
+Recommends: virtual-locale-lv
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 007a0f1895dd5ee90c6d21dc66b98e9d
+SHA256sum: fb35c6eb52ac91b5404c2e67c321ca5423d3bf45173ca6ef60a5eba40af7f972
+Size: 2138
+Filename: libpopt-locale-lv_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - lv translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-nb
+Version: 1.18-r0
+Provides: nb-translation, popt-locale, popt-locale-nb
+Recommends: virtual-locale-nb
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: c9ab6fb8f34c7b10766f4491153c70ca
+SHA256sum: 82085aa6739815a7f613a02a3d1da439d895d4c8c8ea52cfec17645c0e826a02
+Size: 1798
+Filename: libpopt-locale-nb_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - nb translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-nl
+Version: 1.18-r0
+Provides: nl-translation, popt-locale, popt-locale-nl
+Recommends: virtual-locale-nl
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b54203f5cb6c146ca72930165f32acae
+SHA256sum: 808894064cbda45733bb352cce4726a3392d5f16c0862e3caf6605f2c3231f87
+Size: 1998
+Filename: libpopt-locale-nl_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - nl translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-pl
+Version: 1.18-r0
+Provides: pl-translation, popt-locale, popt-locale-pl
+Recommends: virtual-locale-pl
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1c90d2cb154ba741046dfd1b624b5bd4
+SHA256sum: 09e11224c404629afae66a1f7a30adf89949ae700afac4d67d0958db10dd6c9c
+Size: 1990
+Filename: libpopt-locale-pl_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - pl translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-pt
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-pt, pt-translation
+Recommends: virtual-locale-pt
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5434eb36151d09c6bc6c485846da285f
+SHA256sum: d1c7b698dc51ba14060a5281cf96615a0b8f6a5b95fb7b49fc8daeeb68300543
+Size: 1806
+Filename: libpopt-locale-pt_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - pt translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-ro
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-ro, ro-translation
+Recommends: virtual-locale-ro
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2b8f582c8ab4fba87584cb8d83e7cc15
+SHA256sum: 0088638739465b3794da40f9920e2ef4c7366d4aed88e9ea88b59567947d0bbc
+Size: 1480
+Filename: libpopt-locale-ro_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - ro translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-ru
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-ru, ru-translation
+Recommends: virtual-locale-ru
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8082fdb2009a25a395c9ff0c986c4ed2
+SHA256sum: 8a477be623b5d5892aca5e19fb113dc2ec6ed7918f8b5078d3a0473ede3bba2a
+Size: 2224
+Filename: libpopt-locale-ru_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - ru translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-sk
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-sk, sk-translation
+Recommends: virtual-locale-sk
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3ee62f808dab490ad92f0fda0ae15f00
+SHA256sum: 7905ce6b0ea3c3b28e365b0849be2b02f9d3478ddd870de0bc416e783ab4b744
+Size: 1262
+Filename: libpopt-locale-sk_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - sk translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-sl
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-sl, sl-translation
+Recommends: virtual-locale-sl
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 45d0ee693412cb4023346d3a24a81bed
+SHA256sum: 3cea2bfd5b03871ce36e1663cc72eb077560be6db5738147edcba5349092aa90
+Size: 1244
+Filename: libpopt-locale-sl_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - sl translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-sv
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-sv, sv-translation
+Recommends: virtual-locale-sv
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: dfb76b26efbd6a3f692fc433393bab25
+SHA256sum: 8cd54662206965c3ce3ae56b8dc8fe556d9626a3e9427c0aa5a35d8780ad536a
+Size: 1994
+Filename: libpopt-locale-sv_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - sv translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-th
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-th, th-translation
+Recommends: virtual-locale-th
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1c43e2b68c73d40b267ea7287fa2b25c
+SHA256sum: 15efa25c08d76970593063672780e9a2487a342678f210fa0433453862b6b65b
+Size: 2158
+Filename: libpopt-locale-th_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - th translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-tr
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-tr, tr-translation
+Recommends: virtual-locale-tr
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 26ac9be3700e1131faad314e7d5f1dd5
+SHA256sum: 92f9cb63be3801e5e35724ca66728a8df95c21854ed326c6218a41c46788aed8
+Size: 1758
+Filename: libpopt-locale-tr_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - tr translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-uk
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-uk, uk-translation
+Recommends: virtual-locale-uk
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d57029fbf78dd33eeebf8cc52748fec6
+SHA256sum: a592eb1611e20af2410f37fa1a918d06fadf5e83c43ef6dff969a194774a42a1
+Size: 1270
+Filename: libpopt-locale-uk_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - uk translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-vi
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-vi, vi-translation
+Recommends: virtual-locale-vi
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ac250f9734e04b3c871fc905934fc65f
+SHA256sum: 634af35f00c339fdd6d03be6825ba35b23879a385cbb2f1ba88913d7ff7f2854
+Size: 2196
+Filename: libpopt-locale-vi_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - vi translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-wa
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-wa, wa-translation
+Recommends: virtual-locale-wa
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6e401e7b220489d1fb34d5c7b76fda10
+SHA256sum: 5835b148628a06a14e8fbd18ce7aef04fd320283295bb41fabb567031097395a
+Size: 1246
+Filename: libpopt-locale-wa_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - wa translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-zh-cn
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-zh-cn, zh-cn-translation
+Recommends: virtual-locale-zh-cn
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 0bb05b67f1af0dcb961eaa3119efda03
+SHA256sum: 7285863f76dc34495a69089f2976d555b467af273c5ee45265c514bc4920f918
+Size: 1980
+Filename: libpopt-locale-zh-cn_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - zh_CN translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-locale-zh-tw
+Version: 1.18-r0
+Provides: popt-locale, popt-locale-zh-tw, zh-tw-translation
+Recommends: virtual-locale-zh-tw
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 64aaaa54a6e7ddccab977d85d21ca0d4
+SHA256sum: e5a60a977f594a47d0bf090f16ced5ab051fc22bdf374185d5f7175078b2cb92
+Size: 1824
+Filename: libpopt-locale-zh-tw_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - zh_TW translations
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt-staticdev
+Version: 1.18-r0
+Depends: libpopt-dev (= 1.18-r0)
+Provides: popt-staticdev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8f7ec72f7cd2492cc4561c14576bafee
+SHA256sum: 0ca52c4ccacc035c6d0fe7aef812e4bca68aa7a658776aecc7394acac3ca0a8f
+Size: 68202
+Filename: libpopt-staticdev_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options - Development files (Static Libraries)
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
+Package: libpopt0
+Version: 1.18-r0
+Depends: libc6 (>= 2.32)
+Provides: popt
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 387a000df22fff439690ac979f1a2b60
+SHA256sum: c05e7827c70bbf0933160e27d841b7ef902807c44855134c77bf40f17c9a66c6
+Size: 18928
+Filename: libpopt0_1.18-r0_mips32el.ipk
+Source: popt_1.18.bb
+Description: Library for parsing command line options
+OE: popt
+HomePage: https://www.rpm.org/
+License: MIT
+Priority: optional
+
 Package: libpostproc55
 Version: 4.3.1+git98215+1936413-r0
 Depends: libavutil56 (>= 4.3.1+git98215+1936413), libc6 (>= 2.32)
@@ -65530,6 +67029,61 @@ Source: libpsl_0.21.1.bb
 Description: Public Suffix List library
 OE: libpsl
 License: MIT
+Priority: optional
+
+Package: libpyldb-util.cpython-39-mipsel-linux-gnu-dbg
+Version: 1.5.8-r0
+Provides: pyldb-dbg
+Recommends: glibc-dbg, libldb-dbg, libpython3-dbg, libtalloc-dbg, libtdb-dbg, libtevent-dbg, libxcrypt-dbg, popt-dbg
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9735a668adbd80d6e29242e035536f60
+SHA256sum: 8c82a8932265db869c432745e70ed238413fadf3c24855f46c910cf4ea28d04d
+Size: 63578
+Filename: libpyldb-util.cpython-39-mipsel-linux-gnu-dbg_1.5.8-r0_mips32el.ipk
+Source: libldb_1.5.8.bb
+Description: Hierarchical, reference counted memory pool system with destructors
+OE: libldb
+HomePage: http://ldb.samba.org
+License: LGPL-3.0+ & LGPL-2.1+ & GPL-3.0+
+Priority: optional
+
+Package: libpyldb-util.cpython-39-mipsel-linux-gnu-dev
+Version: 1.5.8-r0
+Depends: pyldb
+Provides: pyldb-dev
+Recommends: glibc-dev, libldb-dev, libpython3-dev, libtalloc-dev, libtdb-dev, libtevent-dev, libxcrypt-dev, popt-dev, python3-dev
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: dc7580c2a6be11a40d60d2a6f4b47589
+SHA256sum: 70d0f660e322579f98e0ad612235517f60e9c10ef9d46001b8559a268362fa5e
+Size: 906
+Filename: libpyldb-util.cpython-39-mipsel-linux-gnu-dev_1.5.8-r0_mips32el.ipk
+Source: libldb_1.5.8.bb
+Description: Hierarchical, reference counted memory pool system with destructors
+OE: libldb
+HomePage: http://ldb.samba.org
+License: LGPL-3.0+ & LGPL-2.1+ & GPL-3.0+
+Priority: optional
+
+Package: libpyldb-util.cpython-39-mipsel-linux-gnu1
+Version: 1.5.8-r0
+Depends: libc6 (>= 2.32), libcrypt2 (>= 4.4.17), libldb (>= 1.5.8), libpython3.9-1.0 (>= 3.9.0), libtalloc (>= 2.3.0), libtdb1 (>= 1.4.3), libtevent0 (>= 0.10.1), python3
+Provides: pyldb
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 97dfcd84b06f50dca03f857498c0e9bf
+SHA256sum: 7329761e57f3e3a4059976b44fdea654bc3170ff6867d436a24c9d9eedf0244c
+Size: 26862
+Filename: libpyldb-util.cpython-39-mipsel-linux-gnu1_1.5.8-r0_mips32el.ipk
+Source: libldb_1.5.8.bb
+Description: Hierarchical, reference counted memory pool system with destructors
+OE: libldb
+HomePage: http://ldb.samba.org
+License: LGPL-3.0+ & LGPL-2.1+ & GPL-3.0+
 Priority: optional
 
 Package: libpython2.7-1.0
@@ -68176,6 +69730,178 @@ HomePage: http://taglib.github.io/
 License: LGPLv2.1 | MPL-1.1
 Priority: optional
 
+Package: libtalloc-dbg
+Version: 2.3.0-r0
+Provides: pytalloc-dbg
+Recommends: glibc-dbg, libpython3-dbg, libxcrypt-dbg
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: cb035ff2c717d687ac819d114a664636
+SHA256sum: 1f321e96084eaa69444df008f71caff9b2cc9bee3c677dc255d291fec22db487
+Size: 48652
+Filename: libtalloc-dbg_2.3.0-r0_mips32el.ipk
+Source: libtalloc_2.3.0.bb
+Description: Hierarchical, reference counted memory pool system with destructors - Debugging files
+OE: libtalloc
+HomePage: http://talloc.samba.org
+License: LGPL-3.0+ & GPL-3.0+
+Priority: optional
+
+Package: libtalloc-dev
+Version: 2.3.0-r0
+Depends: libtalloc (= 2.3.0-r0)
+Recommends: glibc-dev, libpython3-dev, libxcrypt-dev, python3-dev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a005586c8e59e37d07b0c16960443dae
+SHA256sum: 65c65a28d5e9a5dd12f1293614e639fcfea4ec98f26631eee5e004c668321514
+Size: 14832
+Filename: libtalloc-dev_2.3.0-r0_mips32el.ipk
+Source: libtalloc_2.3.0.bb
+Description: Hierarchical, reference counted memory pool system with destructors - Development files
+OE: libtalloc
+HomePage: http://talloc.samba.org
+License: LGPL-3.0+ & GPL-3.0+
+Priority: optional
+
+Package: libtalloc-doc
+Version: 2.3.0-r0
+Section: doc
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: c361253c6d927c2e5b0955cb86052e66
+SHA256sum: b20ebcd6f0b36000e225fd9bfcaff338c45c1d981f2169d820b9b35ad4060ebf
+Size: 7974
+Filename: libtalloc-doc_2.3.0-r0_mips32el.ipk
+Source: libtalloc_2.3.0.bb
+Description: Hierarchical, reference counted memory pool system with destructors - Documentation files
+OE: libtalloc
+HomePage: http://talloc.samba.org
+License: LGPL-3.0+ & GPL-3.0+
+Priority: optional
+
+Package: libtalloc
+Version: 2.3.0-r0
+Depends: libc6 (>= 2.32), libcrypt2 (>= 4.4.17), libpython3.9-1.0 (>= 3.9.0)
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: cc0ec679ef37291da554b24bc49f2ea0
+SHA256sum: c32a0eac25cd8210cdee64915adc07da87d43d50ca386b22c8760f7c4ebf8a59
+Size: 14994
+Filename: libtalloc_2.3.0-r0_mips32el.ipk
+Source: libtalloc_2.3.0.bb
+Description: Hierarchical, reference counted memory pool system with destructors
+OE: libtalloc
+HomePage: http://talloc.samba.org
+License: LGPL-3.0+ & GPL-3.0+
+Priority: optional
+
+Package: libtasn1-6
+Version: 4.16.0-r0
+Depends: libc6 (>= 2.32)
+Provides: libtasn1
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 003e3ca604c05d16ebf11b70c1d89cdb
+SHA256sum: 40dfe9af22b21e866f4c757639c847ccab14084840170bbdf054982e9a4a0323
+Size: 28048
+Filename: libtasn1-6_4.16.0-r0_mips32el.ipk
+Source: libtasn1_4.16.0.bb
+Description: Library for ASN.1 and DER manipulation
+OE: libtasn1
+HomePage: http://www.gnu.org/software/libtasn1/
+License: LGPLv2.1+
+Priority: optional
+
+Package: libtasn1-bin
+Version: 4.16.0-r0
+Depends: libc6 (>= 2.32), libtasn1-6 (>= 4.16.0)
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a5cff92b164ddd85e123c8a903f7da3a
+SHA256sum: 6c2654fa24f73506d4c5a75f412a873f9a32cf5fab5a336c4c8751cb13474a87
+Size: 8776
+Filename: libtasn1-bin_4.16.0-r0_mips32el.ipk
+Source: libtasn1_4.16.0.bb
+Description: Library for ASN.1 and DER manipulation
+OE: libtasn1
+HomePage: http://www.gnu.org/software/libtasn1/
+License: GPLv3+
+Priority: optional
+
+Package: libtasn1-dbg
+Version: 4.16.0-r0
+Recommends: glibc-dbg
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1db037797a38b6ccd52c766686cd3208
+SHA256sum: 782175b16519ff4a7a1370fc20b372bb0a9c4c97d8a90593a47862d764729563
+Size: 76540
+Filename: libtasn1-dbg_4.16.0-r0_mips32el.ipk
+Source: libtasn1_4.16.0.bb
+Description: Library for ASN.1 and DER manipulation - Debugging files
+OE: libtasn1
+HomePage: http://www.gnu.org/software/libtasn1/
+License: GPLv3+ & LGPLv2.1+
+Priority: optional
+
+Package: libtasn1-dev
+Version: 4.16.0-r0
+Depends: libtasn1-6 (= 4.16.0-r0)
+Recommends: glibc-dev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1d9133a17d9948ac0775902b2055cefe
+SHA256sum: ee725af222182fe6b3b677e9ce5bb048ef3c24311f1b3706d758f182379d3cec
+Size: 4910
+Filename: libtasn1-dev_4.16.0-r0_mips32el.ipk
+Source: libtasn1_4.16.0.bb
+Description: Library for ASN.1 and DER manipulation - Development files
+OE: libtasn1
+HomePage: http://www.gnu.org/software/libtasn1/
+License: GPLv3+ & LGPLv2.1+
+Priority: optional
+
+Package: libtasn1-doc
+Version: 4.16.0-r0
+Section: doc
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3ce0509dacd6cbba0c7593c9c87ee9aa
+SHA256sum: 60d6dfd783eb2d3c543f809cd1a143ac6f46f92ecacf8c13baff45f190de1017
+Size: 25694
+Filename: libtasn1-doc_4.16.0-r0_mips32el.ipk
+Source: libtasn1_4.16.0.bb
+Description: Library for ASN.1 and DER manipulation - Documentation files
+OE: libtasn1
+HomePage: http://www.gnu.org/software/libtasn1/
+License: GPLv3+ & LGPLv2.1+
+Priority: optional
+
+Package: libtasn1-staticdev
+Version: 4.16.0-r0
+Depends: libtasn1-dev (= 4.16.0-r0)
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: c2af0cc9b7b0a37de574cf4503042695
+SHA256sum: 7d691372e1fdb6981e2ee06111cf83f525676aaddf219e601fd54cb2c154ae37
+Size: 96532
+Filename: libtasn1-staticdev_4.16.0-r0_mips32el.ipk
+Source: libtasn1_4.16.0.bb
+Description: Library for ASN.1 and DER manipulation - Development files (Static Libraries)
+OE: libtasn1
+HomePage: http://www.gnu.org/software/libtasn1/
+License: GPLv3+ & LGPLv2.1+
+Priority: optional
+
 Package: libtcl8.6-0
 Version: 8.6.10-r0
 Depends: libc6 (>= 2.32), libz1 (>= 1.2.11)
@@ -68192,6 +69918,130 @@ Description: Tool Command Language
 OE: tcl
 HomePage: http://tcl.sourceforge.net
 License: tcl & BSD-3-Clause
+Priority: optional
+
+Package: libtdb-dbg
+Version: 1.4.3-r0
+Provides: python3-tdb-dbg
+Recommends: glibc-dbg, libxcrypt-dbg
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8349e2effb2f26de380d59592c47eb14
+SHA256sum: 4ca55335ec11d6478002eb01c6eea3381d7cd59389d53d58bb39a45eb46e86b5
+Size: 121626
+Filename: libtdb-dbg_1.4.3-r0_mips32el.ipk
+Source: libtdb_1.4.3.bb
+Description: The tdb library - Debugging files
+OE: libtdb
+HomePage: http://tdb.samba.org/
+License: LGPL-3.0+ & GPL-3.0+
+Priority: optional
+
+Package: libtdb-dev
+Version: 1.4.3-r0
+Depends: libtdb1 (= 1.4.3-r0)
+Recommends: glibc-dev, libxcrypt-dev, python3-dev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: c398fd8502721f0419b7382e6c25134d
+SHA256sum: 3620162d3810f38a9f3dcc2de75c1c051aa096699e5408fc705c0a42e662a904
+Size: 8394
+Filename: libtdb-dev_1.4.3-r0_mips32el.ipk
+Source: libtdb_1.4.3.bb
+Description: The tdb library - Development files
+OE: libtdb
+HomePage: http://tdb.samba.org/
+License: LGPL-3.0+ & GPL-3.0+
+Priority: optional
+
+Package: libtdb-doc
+Version: 1.4.3-r0
+Section: doc
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4d7ff9129c499e409dc3b5f669490683
+SHA256sum: f36d11f2bb1f1fdca4abc6b52ef1bf56fbca4110c8417d794b633c38ce83587e
+Size: 3618
+Filename: libtdb-doc_1.4.3-r0_mips32el.ipk
+Source: libtdb_1.4.3.bb
+Description: The tdb library - Documentation files
+OE: libtdb
+HomePage: http://tdb.samba.org/
+License: LGPL-3.0+ & GPL-3.0+
+Priority: optional
+
+Package: libtdb1
+Version: 1.4.3-r0
+Depends: libc6 (>= 2.32)
+Provides: libtdb
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 76f8c5e42a6773722b0d63857dbaa6b5
+SHA256sum: 03844f1ad9d809a8ed77d011caa5a800bbe9ef0a150c3c51939570d424fc164b
+Size: 33974
+Filename: libtdb1_1.4.3-r0_mips32el.ipk
+Source: libtdb_1.4.3.bb
+Description: The tdb library
+OE: libtdb
+HomePage: http://tdb.samba.org/
+License: LGPL-3.0+ & GPL-3.0+
+Priority: optional
+
+Package: libtevent-dbg
+Version: 0.10.1-r0
+Provides: python3-tevent-dbg
+Recommends: glibc-dbg, libtalloc-dbg, libxcrypt-dbg
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 78c329fb571805b9f1729c342d89c846
+SHA256sum: 881ef6696560111f7325a35a0e8d416faa5d89c0f8d0b853854de1a4c31816cc
+Size: 82324
+Filename: libtevent-dbg_0.10.1-r0_mips32el.ipk
+Source: libtevent_0.10.1.bb
+Description: Hierarchical, reference counted memory pool system with destructors - Debugging files
+OE: libtevent
+HomePage: http://tevent.samba.org
+License: LGPLv3+
+Priority: optional
+
+Package: libtevent-dev
+Version: 0.10.1-r0
+Depends: libtevent0 (= 0.10.1-r0)
+Recommends: glibc-dev, libtalloc-dev, libtirpc-dev, libxcrypt-dev, python3-dev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e68dd07205b984f9ef5c4a57196f0264
+SHA256sum: 188004409a1f5c69cd7c40b2b0e6dace91b10d49e57efe13606c359245574e3f
+Size: 16644
+Filename: libtevent-dev_0.10.1-r0_mips32el.ipk
+Source: libtevent_0.10.1.bb
+Description: Hierarchical, reference counted memory pool system with destructors - Development files
+OE: libtevent
+HomePage: http://tevent.samba.org
+License: LGPLv3+
+Priority: optional
+
+Package: libtevent0
+Version: 0.10.1-r0
+Depends: libc6 (>= 2.32), libcrypt2 (>= 4.4.17), libtalloc (>= 2.3.0)
+Provides: libtevent
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9e1118fc468ecfb0e4feb7f5ad4f8abe
+SHA256sum: 876b94f3cc9309b999f036c3ca3b02aa193520932ebd52ee1ccda6747939c75a
+Size: 24234
+Filename: libtevent0_0.10.1-r0_mips32el.ipk
+Source: libtevent_0.10.1.bb
+Description: Hierarchical, reference counted memory pool system with destructors
+OE: libtevent
+HomePage: http://tevent.samba.org
+License: LGPLv3+
 Priority: optional
 
 Package: libtheora-dbg
@@ -69118,6 +70968,24 @@ Description: util-linux libuuid
 OE: util-linux
 HomePage: https://en.wikipedia.org/wiki/Util-linux
 License: BSD-3-Clause
+Priority: optional
+
+Package: libverto0
+Version: 1.17.1-r0
+Depends: libc6 (>= 2.32)
+Provides: libverto
+Section: console/network
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2732fcfe1cd5ee486804f5ebfc9dac52
+SHA256sum: 6484cfc5bc507b8f73268cd9a16e95af35a87f5f957ffc7096d461ed98bf07f2
+Size: 13062
+Filename: libverto0_1.17.1-r0_mips32el.ipk
+Source: krb5_1.17.1.bb
+Description: A network authentication protocol
+OE: krb5
+HomePage: http://web.mit.edu/Kerberos/
+License: MIT
 Priority: optional
 
 Package: libvorbis-dbg
@@ -81015,12 +82883,12 @@ Recommends: glibc-dbg, libcap-dbg, libcrypto-dbg, libevent-core-dbg, libevent-pt
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 48fd31e225034b9c0ccdc74a908b2507
-SHA256sum: a4167768ffc3067780f4761b3ed46d4f57622472248d7f589dc67b3eb650436c
-Size: 1312574
+MD5Sum: 19c223ff91a78b1ff36a702391817b83
+SHA256sum: 203d830f9780791b21283ed6fd1a13d11d54b28e5cd3af8909bcd65775a3399e
+Size: 1312632
 Filename: ntp-dbg_4.2.8p15-r0_mips32el.ipk
 Source: ntp_4.2.8p15.bb
-Description: Network Time Protocol daemon and utilities - Debugging files
+Description: OpenPLi Network Time Protocol daemon and utilities - Debugging files
 OE: ntp
 HomePage: http://support.ntp.org
 License: NTP
@@ -81033,12 +82901,12 @@ Recommends: base-files-dev, base-passwd-dev, glibc-dev, initd-functions-dev, ini
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 87a131feac84d6abb9e7e89b60603208
-SHA256sum: 4f535db3343bd847738531d9d34c71a50649ff29ac057efec98501c9f9546912
-Size: 972
+MD5Sum: c521541e39c2239c02c52c777bc0b671
+SHA256sum: 258fb989d6238eb56a000f5420a7c900a29c63e7348c6a9d773d6766e4afbb91
+Size: 978
 Filename: ntp-dev_4.2.8p15-r0_mips32el.ipk
 Source: ntp_4.2.8p15.bb
-Description: Network Time Protocol daemon and utilities - Development files
+Description: OpenPLi Network Time Protocol daemon and utilities - Development files
 OE: ntp
 HomePage: http://support.ntp.org
 License: NTP
@@ -81049,12 +82917,12 @@ Version: 4.2.8p15-r0
 Section: doc
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 03cc628afa270b2dd432e94358144425
-SHA256sum: 1f7556ac3ccb90ec5e6d6effb9379366b4f0ed6d9bd0018ae7903c243ce4dc7f
-Size: 1245666
+MD5Sum: 61e4302dd5def41bbe81c5ee4359a388
+SHA256sum: 7c3d9408986b0da52786cf0077e5da32384842d4102be12ff42642e107cbbe17
+Size: 1245732
 Filename: ntp-doc_4.2.8p15-r0_mips32el.ipk
 Source: ntp_4.2.8p15.bb
-Description: Network Time Protocol daemon and utilities - Documentation files
+Description: OpenPLi Network Time Protocol daemon and utilities - Documentation files
 OE: ntp
 HomePage: http://support.ntp.org
 License: NTP
@@ -81066,12 +82934,12 @@ Depends: libc6 (>= 2.32)
 Section: net
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ce093000f36d582064b8bcd3e4e8a48f
-SHA256sum: 31df3baaba8b81080a55df1e5ce8de514afe82f9835859340403c49590d22538
-Size: 2790
+MD5Sum: 575192cc0c38b450cb1c0300cc52b7b1
+SHA256sum: c442001a513b874c8efc3b031d13fbb09536823de93273f09fd23f437d54eb68
+Size: 2812
 Filename: ntp-tickadj_4.2.8p15-r0_mips32el.ipk
 Source: ntp_4.2.8p15.bb
-Description: Network Time Protocol daemon and utilities
+Description: OpenPLi Network Time Protocol daemon and utilities
 OE: ntp
 HomePage: http://support.ntp.org
 License: NTP
@@ -81086,12 +82954,12 @@ Conflicts: ntp-bin
 Section: net
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 90bef8319f2e38fd6149423a3a0615a1
-SHA256sum: 343d479e2902eed6ed0a99d781b0fd8a82644bc65e677de09213dd5587cdb8b8
-Size: 95602
+MD5Sum: d608f7e42160d1d8f2b7423fc329fabb
+SHA256sum: 4afdf77845cac567f56f42a2297f6723de6f4acc6a9587133fc417f384cdfcd7
+Size: 95640
 Filename: ntp-utils_4.2.8p15-r0_mips32el.ipk
 Source: ntp_4.2.8p15.bb
-Description: Network Time Protocol daemon and utilities
+Description: OpenPLi Network Time Protocol daemon and utilities
 OE: ntp
 HomePage: http://support.ntp.org
 License: NTP
@@ -81108,12 +82976,12 @@ Recommends: update-rc.d
 Section: net
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9405fc2e8946555650343f68b8bf3a61
-SHA256sum: 0fadd2761cd0585a7a6f0bef31fc50d58ea2c51637a31e8cae5646a7fe09f3d9
-Size: 321262
+MD5Sum: 47f9965fd883902b3a49281f06594007
+SHA256sum: 2bd14dee82c3afe6e2700a75ed35ad8dcc490c10f9be31b224fed58178426ee7
+Size: 321250
 Filename: ntp_4.2.8p15-r0_mips32el.ipk
 Source: ntp_4.2.8p15.bb
-Description: Network Time Protocol daemon and utilities
+Description: OpenPLi Network Time Protocol daemon and utilities
 OE: ntp
 HomePage: http://support.ntp.org
 License: NTP
@@ -81128,12 +82996,12 @@ Conflicts: ntpdate-systemd
 Section: net
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 436d55afbe9862f68cf816498c1d61be
-SHA256sum: 651fa0e67e0f0e612d0bdcb357a5d59cfbeff61f0616467b58fc182d802ad16f
-Size: 54998
+MD5Sum: 2bc6fadee1e9ef64a09c8b90d2da2155
+SHA256sum: 736a161ccbe69876c1ba6a1d693fd5c32806ac54e725706478688feccd6d865e
+Size: 54926
 Filename: ntpdate_4.2.8p15-r0_mips32el.ipk
 Source: ntp_4.2.8p15.bb
-Description: Network Time Protocol daemon and utilities
+Description: OpenPLi Network Time Protocol daemon and utilities
 OE: ntp
 HomePage: http://support.ntp.org
 License: NTP
@@ -81145,12 +83013,12 @@ Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h)
 Section: net
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9cd50fdef5200dee4755eada0a3dffae
-SHA256sum: b76df633f5368aa5fdda2df01196523decf9b339efd0181237c3cf7a8abbf091
-Size: 100258
+MD5Sum: 9def38e65c799473f0c893ef65077052
+SHA256sum: f1f9d667a7e393b820f7db1bcdb5dae8249bd416608b167b9954b0b7233be5b4
+Size: 100290
 Filename: ntpdc_4.2.8p15-r0_mips32el.ipk
 Source: ntp_4.2.8p15.bb
-Description: Network Time Protocol daemon and utilities
+Description: OpenPLi Network Time Protocol daemon and utilities
 OE: ntp
 HomePage: http://support.ntp.org
 License: NTP
@@ -81162,12 +83030,12 @@ Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h)
 Section: net
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 46d97a41920e9aa9597770521e5cf85e
-SHA256sum: 4ab78b963a51bd071bd7080e459c79dd937e92398508fbf4f7b09c2ca07c031b
-Size: 113978
+MD5Sum: 8655542dac93247ca21641a73483c501
+SHA256sum: 18b5ccb41241b433c993a70c7a2f26412ab7767380a29d06c196db105fe0de45
+Size: 114064
 Filename: ntpq_4.2.8p15-r0_mips32el.ipk
 Source: ntp_4.2.8p15.bb
-Description: Network Time Protocol daemon and utilities
+Description: OpenPLi Network Time Protocol daemon and utilities
 OE: ntp
 HomePage: http://support.ntp.org
 License: NTP
@@ -81243,14 +83111,14 @@ License: Apache-2.0
 Priority: optional
 
 Package: openpli-bootlogo-dbg
-Version: 20201115-r0
+Version: 20201118-r0
 Section: devel
 Architecture: mips32el
 Maintainer: PLi team
-MD5Sum: ff7178b67556726d905e54da5f56e25e
-SHA256sum: a7cff5adb4bd7f9de95a1f171e685e297a3900e0b60d8433417ee228daf5db75
-Size: 656
-Filename: openpli-bootlogo-dbg_20201115-r0_mips32el.ipk
+MD5Sum: 382490fb4951adefab5372113a7b0a9c
+SHA256sum: 75b70b91d0500b7a1922b4aa06e421747cae34f51678e260f9c2b299a8809404
+Size: 658
+Filename: openpli-bootlogo-dbg_20201118-r0_mips32el.ipk
 Source: openpli-bootlogo.bb
 Description: openpli-bootlogo version 1.0-r0 - Debugging files
 OE: openpli-bootlogo
@@ -81258,16 +83126,16 @@ License: CC-BY-NC-ND-4.0
 Priority: required
 
 Package: openpli-bootlogo-dev
-Version: 20201115-r0
-Depends: openpli-bootlogo (= 20201115-r0)
+Version: 20201118-r0
+Depends: openpli-bootlogo (= 20201118-r0)
 Recommends: initscripts-dev, showiframe-dev, update-rc.d-dev
 Section: devel
 Architecture: mips32el
 Maintainer: PLi team
-MD5Sum: 51adbe9739bbfa7629669ab48458d099
-SHA256sum: c86d1e707dc5b913f99f96b048c9a58aeecbbb1a3f5ff674235f4a15e1856b69
+MD5Sum: 39ece51b8f0dc04a5b278c87cf320692
+SHA256sum: dcab66dc09c66cb7454d41a881fe89bc558e6671e944d1be758856fdf33afab4
 Size: 726
-Filename: openpli-bootlogo-dev_20201115-r0_mips32el.ipk
+Filename: openpli-bootlogo-dev_20201118-r0_mips32el.ipk
 Source: openpli-bootlogo.bb
 Description: openpli-bootlogo version 1.0-r0 - Development files
 OE: openpli-bootlogo
@@ -81275,16 +83143,16 @@ License: CC-BY-NC-ND-4.0
 Priority: required
 
 Package: openpli-bootlogo
-Version: 20201115-r0
+Version: 20201118-r0
 Depends: showiframe
 Recommends: update-rc.d
 Section: base
 Architecture: mips32el
 Maintainer: PLi team
-MD5Sum: 6ddf1752fed6712f14b7659ef8b86e61
-SHA256sum: 1f71fb848cb82a3fa442c982116ee67904baf5fe938bb791b74fc12434fdb6f0
-Size: 262394
-Filename: openpli-bootlogo_20201115-r0_mips32el.ipk
+MD5Sum: ca8977c1f061a56852f74fe4d6338bde
+SHA256sum: 8af870f1883588a46ca51d61fef22954436d003493812eccc13b31c922226613
+Size: 262390
+Filename: openpli-bootlogo_20201118-r0_mips32el.ipk
 Source: openpli-bootlogo.bb
 Description: openpli-bootlogo version 1.0-r0
 OE: openpli-bootlogo
@@ -95209,6 +97077,23 @@ HomePage: http://linuxpps.org
 License: GPLv2
 Priority: optional
 
+Package: pytalloc
+Version: 2.3.0-r0
+Depends: libc6 (>= 2.32), libcrypt2 (>= 4.4.17), libpython3.9-1.0 (>= 3.9.0), libtalloc (>= 2.3.0), python3
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: c1c3fc1d834d45e0b596e4859ba2fb2f
+SHA256sum: 47ffe54e9313b56ec2c22813981ea4195217b3dcae3c27488482e198e9b6718d
+Size: 3718
+Filename: pytalloc_2.3.0-r0_mips32el.ipk
+Source: libtalloc_2.3.0.bb
+Description: Hierarchical, reference counted memory pool system with destructors
+OE: libtalloc
+HomePage: http://talloc.samba.org
+License: LGPL-3.0+ & GPL-3.0+
+Priority: optional
+
 Package: python-2to3-src
 Version: 2.7.18-r0
 Depends: python-2to3
@@ -102714,6 +104599,23 @@ HomePage: http://www.python.org
 License: PSFv2
 Priority: optional
 
+Package: python3-tdb
+Version: 1.4.3-r0
+Depends: libc6 (>= 2.32), libcrypt2 (>= 4.4.17), libtdb1 (>= 1.4.3), python3
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 685b744b4f7dd4236e1a3c1c7f4382d6
+SHA256sum: 716cce37e30d998c7def8ccf887f1da76e8e8e85e7c9e3a21c2f36953dcb7e10
+Size: 7770
+Filename: python3-tdb_1.4.3-r0_mips32el.ipk
+Source: libtdb_1.4.3.bb
+Description: The tdb library
+OE: libtdb
+HomePage: http://tdb.samba.org/
+License: LGPL-3.0+ & GPL-3.0+
+Priority: optional
+
 Package: python3-terminal
 Version: 3.9.0-r0
 Depends: python3-core, python3-io
@@ -102746,6 +104648,23 @@ Description: Python test suite
 OE: python3
 HomePage: http://www.python.org
 License: PSFv2
+Priority: optional
+
+Package: python3-tevent
+Version: 0.10.1-r0
+Depends: libc6 (>= 2.32), libcrypt2 (>= 4.4.17), libtalloc (>= 2.3.0), libtevent0 (>= 0.10.1), python3
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d7666ecae53e1cc5605631329b260292
+SHA256sum: f1963e95a910ab0086d7a8f6ca5681f72349603ff7c15195a45fdbbf2fcf9c14
+Size: 6798
+Filename: python3-tevent_0.10.1-r0_mips32el.ipk
+Source: libtevent_0.10.1.bb
+Description: Hierarchical, reference counted memory pool system with destructors
+OE: libtevent
+HomePage: http://tevent.samba.org
+License: LGPLv3+
 Priority: optional
 
 Package: python3-threading
@@ -105686,12 +107605,12 @@ Depends: libc6 (>= 2.32), libcrypto1.1 (>= 1.1.1h), libevent-core-2.1-7 (>= 2.1.
 Section: net
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4c36b6604ee9e94c20a711a36a2a67bc
-SHA256sum: 4eb72f034cde09c79599926b50e5729fbf80f8931256154286c03e9916461c82
-Size: 96018
+MD5Sum: 106aaddd7f39d817a4f9a4ec2636ee26
+SHA256sum: cdc87b4289ae2fcf9230429f08c828f91c65e7588c872e6578e09ae22e338ff3
+Size: 96068
 Filename: sntp_4.2.8p15-r0_mips32el.ipk
 Source: ntp_4.2.8p15.bb
-Description: Network Time Protocol daemon and utilities
+Description: OpenPLi Network Time Protocol daemon and utilities
 OE: ntp
 HomePage: http://support.ntp.org
 License: NTP
@@ -106163,6 +108082,23 @@ Description: Security tool that is a wrapper for TCP daemons
 OE: tcp-wrappers
 HomePage: http://www.softpanorama.org/Net/Network_security/TCP_wrappers/
 License: BSD-1-Clause
+Priority: optional
+
+Package: tdb-tools
+Version: 1.4.3-r0
+Depends: libc6 (>= 2.32), libtdb1 (>= 1.4.3)
+Section: libs
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e0679eeaccdcb7b8d5820094971590ed
+SHA256sum: 8a580f3553b003b75b9cd4d6a292f6ee8b9020edd33a37a5ef28b43c2171d663
+Size: 13512
+Filename: tdb-tools_1.4.3-r0_mips32el.ipk
+Source: libtdb_1.4.3.bb
+Description: The tdb library
+OE: libtdb
+HomePage: http://tdb.samba.org/
+License: LGPL-3.0+ & GPL-3.0+
 Priority: optional
 
 Package: transmission-client
