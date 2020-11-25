@@ -470,8 +470,8 @@ Recommends: blindscan-s2, firmware-dvb-usb-technisat-skystar, kernel-module-dvb-
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9fabf2a1f593ca0cd22c03749b1b3134
-SHA256sum: b493783273fddf337a7c5be1507da8b22eeab1bcac2375a7291521a1c03e5baa
+MD5Sum: e20e5686f0026af6d8b486e8c4864f1d
+SHA256sum: 80bb5d770fff4be52b13e165d70bc884b03df49e41475ef1a7cff35c7480f918
 Size: 696
 Filename: enigma2-plugin-drivers-dvb-usb-technisat-skystar_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-dvb-usb-technisat-skystar.bb
@@ -579,8 +579,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: eb0bce7fb41576f25a7f10be7c934025
-SHA256sum: 133704ec36cb1f274ad851254568e4d6f32a00b84bad3a75136d79449dbbeaac
+MD5Sum: 45417fdda8c491d1dd59e9baaeb1482e
+SHA256sum: 3a837c4ba9c46e426c652a3cfdfa9ee6fa2c047e996680ad87a0a8a76b68ffc3
 Size: 686
 Filename: enigma2-plugin-drivers-network-usb-mt7601u-dbg_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-mt7601u.bb
@@ -595,8 +595,8 @@ Depends: enigma2-plugin-drivers-network-usb-mt7601u (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ee0823d0a7d55e14f71491c0f1370e4c
-SHA256sum: 853713122c65a92c6ac6f1055edfd6d9659a057ff6d80acc6bda9f52c3380725
+MD5Sum: 346d117a63d3b98318a8782eeaf2f45d
+SHA256sum: 68d2ee7cbd17b1e5f4ea8755a041b142571eb042aef1dd35c315b9e917eec5f6
 Size: 716
 Filename: enigma2-plugin-drivers-network-usb-mt7601u-dev_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-mt7601u.bb
@@ -611,8 +611,8 @@ Recommends: firmware-mt7601u, mt7601u
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0d1e5ffc7fda51faa3b7159d1f047af3
-SHA256sum: b08ba4fc804a36f5bdb350be61147a7bcb6e6a57300a38681540e108d539ffbf
+MD5Sum: 98be88327f50071e118a0c5c271c54ff
+SHA256sum: 170e593c0d76838cbeacfcaf90307441be84ee9b0ce5e27dde2a72f4a27af47f
 Size: 636
 Filename: enigma2-plugin-drivers-network-usb-mt7601u_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-mt7601u.bb
@@ -626,8 +626,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5680123d07b8fb392713898d87dee002
-SHA256sum: ae5997f4bf03aa18372f7a2df48c1b92ee94c360b5570c536659285bf96a7f6a
+MD5Sum: de48e53ee41de877731b4aae96fa5344
+SHA256sum: 25c0f7e11babdb02d0684f4f80786aad7b4003af44990a4cd9a89850bbce5f1b
 Size: 686
 Filename: enigma2-plugin-drivers-network-usb-mt7610u-dbg_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-mt7610u.bb
@@ -642,8 +642,8 @@ Depends: enigma2-plugin-drivers-network-usb-mt7610u (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5eeae7982145ebb95b3cb81a232d60ca
-SHA256sum: 491a9303c8e745cce255ee3b15fc925fec95eadde1db8a37f9af86d411327558
+MD5Sum: 108df9024eb909b49f59dd1e90f0e270
+SHA256sum: 0061c587f0d8000417609a454d7aada2cdae7b08fa7788aba493b7399919a6a7
 Size: 716
 Filename: enigma2-plugin-drivers-network-usb-mt7610u-dev_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-mt7610u.bb
@@ -658,8 +658,8 @@ Recommends: mt7610u
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 790e07de45c3f82232b848577fb1dc48
-SHA256sum: d58b8a037f5834ef546776c64a56f69b850a29204ef6e11e0eb4b121f5305d6b
+MD5Sum: 939a168a6e9cc54fdaf553a8fd5244dd
+SHA256sum: fcefda8b66c9d8ffa46fac719088ba9ce81d1097827c7d6ab07eb8e4e54fecbd
 Size: 628
 Filename: enigma2-plugin-drivers-network-usb-mt7610u_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-mt7610u.bb
@@ -673,9 +673,9 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 21bd17b535ba65143d9e1706619c7a82
-SHA256sum: 9e3669bc148ef4642d88e742bb25d72ed22f16a14b0121bfd992792f85d0fce5
-Size: 736
+MD5Sum: 54690837f08f194ff523900b00878b82
+SHA256sum: 1234dcb5989fcbe6035bf80eae8ff916ed6a8bfdf584d6fe2841d82cc48a3fb5
+Size: 734
 Filename: enigma2-plugin-drivers-network-usb-r8188eu-dbg_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-r8188eu.bb
 Description: Single-Chip IEEE 802.11b/g/n 2T2R WLAN Controller with USB 2.0 Interface - Debugging files
@@ -689,8 +689,8 @@ Depends: enigma2-plugin-drivers-network-usb-r8188eu (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 04e54cff73a8a76f940dfc80367932a9
-SHA256sum: 80f0d964501d7de547f4ab7df5ba0716a5c0869e3248e590bb8ea7a184cc0967
+MD5Sum: bf50105002af6160ecf3d2bf2750edad
+SHA256sum: ad36367e549f0c889f0f952ca7f6bc0b4bd9d22f4a265462a3bc6e50b6b29db6
 Size: 764
 Filename: enigma2-plugin-drivers-network-usb-r8188eu-dev_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-r8188eu.bb
@@ -705,9 +705,9 @@ Recommends: firmware-rtl8188eu, rtl8188eu
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: db5772aedc8f3911a0e94d619635b6f4
-SHA256sum: 1cea503307dda1571e79f996f6c307ee3a1801b00e0cc5e7831469f9597e9cbb
-Size: 692
+MD5Sum: 2ded35a11882e23159f37468159b0b7e
+SHA256sum: 8172b3da263166e0e57463716fc62ecff8c516cdd0a501ceb997fac73516526a
+Size: 690
 Filename: enigma2-plugin-drivers-network-usb-r8188eu_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-r8188eu.bb
 Description: Single-Chip IEEE 802.11b/g/n 2T2R WLAN Controller with USB 2.0 Interface
@@ -767,9 +767,9 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 335ed7c982212d0121ab56372335722a
-SHA256sum: 0dfa32bebd3bacdce2b83e0da191a9dd11b5d606f84c32deeeb64388a514e599
-Size: 704
+MD5Sum: 503c019f47404b55e4a6c33de02a78af
+SHA256sum: 59b067241dcd89b639ebb0090bd8597be74a120f486e8350af840cd2927cafdc
+Size: 702
 Filename: enigma2-plugin-drivers-network-usb-r8723a-dbg_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-r8723a.bb
 Description: WiFi devices for Realtek RTL8723a chipsets. - Debugging files
@@ -783,9 +783,9 @@ Depends: enigma2-plugin-drivers-network-usb-r8723a (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d7e0dd32ee0001afd1ac2137eb3546a7
-SHA256sum: 8e2d12020b64229288c13e77d9a4f5f91774451d78c0ecbe24e6238ab8fb6433
-Size: 736
+MD5Sum: dc598d16018bda2ec22a0114045fa01e
+SHA256sum: f1be829c2e26fb22a5e3c9e8e76db26dc2c8dea0124e2b2ce95ce6d674094e6e
+Size: 734
 Filename: enigma2-plugin-drivers-network-usb-r8723a-dev_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-r8723a.bb
 Description: WiFi devices for Realtek RTL8723a chipsets. - Development files
@@ -799,8 +799,8 @@ Recommends: firmware-rtl8723a, rtl8723a
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 156d9cf6443d16f461a4e02d418b82ab
-SHA256sum: 00c30945ec1d4bd50a6c3f5e7a553ad52d01131781ac074b3bd50c6b11d94b89
+MD5Sum: 97104c52430cdc225c328f64a3c63647
+SHA256sum: dc2f3b62fb5fcc7de23b0e9fbc25efc6f00b833437275cb15fb5abfd2021657c
 Size: 666
 Filename: enigma2-plugin-drivers-network-usb-r8723a_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-r8723a.bb
@@ -908,9 +908,9 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5fc28682e5d4e4a608464b0cc0a96a37
-SHA256sum: fbb7d05f24cfd4747cd234cf66c233c7f4466611e37a2a6226509985032e8643
-Size: 726
+MD5Sum: 8ee41fccf679f526dc454ff9a6c65e89
+SHA256sum: fbae0e0acddf4a9f85137242cbb957450bb9b29e4817b58c6f74b505a4044b4e
+Size: 724
 Filename: enigma2-plugin-drivers-network-usb-rt3070-dbg_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rt3070.bb
 Description: Driver for Ralink RT8070/3070/3370/5370/5372 USB 802.11abgn WiFi sticks - Debugging files
@@ -924,8 +924,8 @@ Depends: enigma2-plugin-drivers-network-usb-rt3070 (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 98ea122d4d63a690a51a86ad4d3e2135
-SHA256sum: 7e557cf9568b9716d88047e23e230fd31a76e9a860fb5eedd1ac974beabca713
+MD5Sum: f043732bd927709ff7055b3fe4be6efc
+SHA256sum: 7b14b96516bbea27b9af5e20f7ea538c19cba5338d69d486d4a437c7f4034ecb
 Size: 756
 Filename: enigma2-plugin-drivers-network-usb-rt3070-dev_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rt3070.bb
@@ -940,8 +940,8 @@ Recommends: firmware-rt3070, rt3070
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a7619c447f42ffc8716b7a8b053f70a4
-SHA256sum: ff6f7c6f96d971fac8942f71faa480a053eb2d0fb5488e71b4c5ebc8ff3511e9
+MD5Sum: 83d079783203968e12c3d5812a8c6945
+SHA256sum: 410b8be1487fca140d1acf5b752b37259cf92174d864ea8e8fbec96ec4f35543
 Size: 682
 Filename: enigma2-plugin-drivers-network-usb-rt3070_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rt3070.bb
@@ -955,8 +955,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9c0543dbe34b0993d104606664bd2827
-SHA256sum: 71d7440af11d25a02f989f1376cd2d78918fc5eea670e838856f2fa7009e284f
+MD5Sum: 921e78f67c19654803eda6d49097dfc1
+SHA256sum: 96d049f910a39cb8ef8237dd82f8625a7310e82cbbf40207adbddc956372fdac
 Size: 712
 Filename: enigma2-plugin-drivers-network-usb-rt3573-dbg_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rt3573.bb
@@ -971,8 +971,8 @@ Depends: enigma2-plugin-drivers-network-usb-rt3573 (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2cb00adc826e88a2df50797d2c9c026e
-SHA256sum: ce11e07d087ac9c5bfeaf51e59c46400cab10d792dd904a2dcb65ea7d6f372ee
+MD5Sum: 1de21780119862772b5e0fe5eff1b678
+SHA256sum: 3886fd8074e9a8b525421f53a3fd398e391153cd308b84e71dd0b56c1e6805bd
 Size: 740
 Filename: enigma2-plugin-drivers-network-usb-rt3573-dev_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rt3573.bb
@@ -987,8 +987,8 @@ Recommends: rt3573
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b13e474c296bc8054d021128153b0405
-SHA256sum: 08b30de06b1c669c1c30ab177ce5a4407eb428fdaa688e42ad900f4091a5394a
+MD5Sum: bb104040e3c25a067c6c1ec2c2a1d345
+SHA256sum: d4598c056cab83fc4bf04c7a37a8e972e42fe3734a09dded11a48bbb38b1f128
 Size: 652
 Filename: enigma2-plugin-drivers-network-usb-rt3573_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rt3573.bb
@@ -1002,8 +1002,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 279ec0c48911af4939241c25f1e376aa
-SHA256sum: ccf851509a9cfe0d787a53e9b7d890264597d7f2946632d081a4a10d6ee211d8
+MD5Sum: 21d566afd7c59bbbcb559e372874845a
+SHA256sum: 3715c26064c69cce6c8da01abd0bd95df20b8445d9fb88b2f057d67daa875caf
 Size: 714
 Filename: enigma2-plugin-drivers-network-usb-rt5572-dbg_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rt5572.bb
@@ -1018,8 +1018,8 @@ Depends: enigma2-plugin-drivers-network-usb-rt5572 (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 019eb0ff037a1b25f90862ec9c302016
-SHA256sum: 2fc61f8168d70084a9207fbd1bde996f728b20b0da0660b2f14422f5d55401a1
+MD5Sum: 29e3e807ab951e434db5295ca8d00408
+SHA256sum: bd4657ec5ebe334e07b92fef4ddbceb53a94f8ab06d39c26dcd0b35fe18a0e80
 Size: 742
 Filename: enigma2-plugin-drivers-network-usb-rt5572-dev_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rt5572.bb
@@ -1034,9 +1034,9 @@ Recommends: rt5572
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: bebf13042421a459422f83cc114a446b
-SHA256sum: 8d7059b31fca45f3dd2c216a088a9aa0c6df760bad92eeff66996501a90c0887
-Size: 658
+MD5Sum: ad07af6e66c7df6be801fef45bcdbe17
+SHA256sum: bc4a7c0e93bbb68a693a32e6fd2e47b62a568c4ed5cf6472a25fd6ea3453341c
+Size: 660
 Filename: enigma2-plugin-drivers-network-usb-rt5572_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rt5572.bb
 Description: 802.11a/b/g/n 2T2R 2.4/5 GHz USB Single Chip
@@ -1096,9 +1096,9 @@ Version: 1.0-r2
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7a6138f8fb94e1988125676ed7b4131f
-SHA256sum: 41b489c2df176b1982c20654adbac110daade3dcbab5059779e838af3705e418
-Size: 704
+MD5Sum: 98f4ddce54acbf7b382f896700a5fca9
+SHA256sum: 9f5d98cebf26f9d015a4606e57c05461838a5d137f1fe1014a305060d4cca210
+Size: 702
 Filename: enigma2-plugin-drivers-network-usb-rt8723bs-dbg_1.0-r2_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rt8723bs.bb
 Description: WiFi devices for Realtek 8723bs chipsets. - Debugging files
@@ -1112,8 +1112,8 @@ Depends: enigma2-plugin-drivers-network-usb-rt8723bs (= 1.0-r2)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1d7fd1001781f476a44df1f793fb44e0
-SHA256sum: 873a0a6b4cb39f380dd69b1f876ea53fcf1c1899ff5d8e5a2cce28045d2cf8c3
+MD5Sum: 916c54b76cdc142b1693de3bd7d16a55
+SHA256sum: 56560695558f8848415dbc3474cc2f5aa069dd3904bbf8eb5e060ed8b2d17b2b
 Size: 734
 Filename: enigma2-plugin-drivers-network-usb-rt8723bs-dev_1.0-r2_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rt8723bs.bb
@@ -1128,8 +1128,8 @@ Recommends: rtl8723bs
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6be2e5a0e871c748302a66b63f24e6d0
-SHA256sum: 55763c283ed02d48b7bee25de13f9c48fdbe207d5c7f8c9535c150f1f5063e02
+MD5Sum: cc4eb44c56bbcbec951883795adeeeca
+SHA256sum: db6df1027dd204b730d4ebadffbf41af9dce9520783e5633ca72aea41e0a852c
 Size: 650
 Filename: enigma2-plugin-drivers-network-usb-rt8723bs_1.0-r2_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rt8723bs.bb
@@ -1190,8 +1190,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4783f846043463fc55d9e53560279775
-SHA256sum: 56888e561b29939cd8c89b77a0e7efeb8af329b61666dcbc3842eaa49aaa75f3
+MD5Sum: 2684e0974d08c2b7c280a7b0c6048cb0
+SHA256sum: e1187201466d5301fe33a36e119d9de652bfafa9c2c8e2f022963c4f97fd0f9a
 Size: 702
 Filename: enigma2-plugin-drivers-network-usb-rtl8192cu-dbg_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8192cu.bb
@@ -1206,8 +1206,8 @@ Depends: enigma2-plugin-drivers-network-usb-rtl8192cu (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ca90050a13ab0ffb929268265d5243c1
-SHA256sum: cceb14cd006c3a5d16111ebfbbe2a284738a52bd9ebb6082b0bb51a64d4424fb
+MD5Sum: 3f4cd1406cac819cdd0eb9b666daafbb
+SHA256sum: bc90f204238b8a9074e70f9d103193dd7a558ad01198c97311ccfa449fd3fbe6
 Size: 730
 Filename: enigma2-plugin-drivers-network-usb-rtl8192cu-dev_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8192cu.bb
@@ -1222,8 +1222,8 @@ Recommends: firmware-rtl8192cu, firmware-rtl8192cufw, rtl8192cu
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: aed45a42f394e86ba17aed8806939253
-SHA256sum: 8b4d250dad7a7357c6f42ef65558e4a094e40b8113783239c4f186cd14d18100
+MD5Sum: 043161d49cd12ecd3004ae810176da20
+SHA256sum: 43f0473cb58a3ea3023071aa5fcc390445f0d08238a9e9c4b3a643836c881ba5
 Size: 660
 Filename: enigma2-plugin-drivers-network-usb-rtl8192cu_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8192cu.bb
@@ -1237,8 +1237,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c1359a398f482e1540f6aca569622ba6
-SHA256sum: 1edf0f65a7544d48021976e877aebe337893ee2d1fc64de2c8bf81f2d90337e0
+MD5Sum: dd02f9837b71ba30a656c6878022b5c6
+SHA256sum: 38c8c7652354e84ab86835ed6963026fd1a916e8130f70fa8d71e21e0f01b1ac
 Size: 736
 Filename: enigma2-plugin-drivers-network-usb-rtl8192eu-dbg_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8192eu.bb
@@ -1253,9 +1253,9 @@ Depends: enigma2-plugin-drivers-network-usb-rtl8192eu (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4bbecd53039b94534d5c4cd6a971d02d
-SHA256sum: bfc3cb91fbcacb9068468946cb81b00a3a6a360992d7a37650600355fc101ea2
-Size: 768
+MD5Sum: b1fb4db1aeeb32f2a225bef40d1cb198
+SHA256sum: 01186163bcdbb0bfb954eb0907bfa43600aeecf49461c565fed22f5fe59dae15
+Size: 766
 Filename: enigma2-plugin-drivers-network-usb-rtl8192eu-dev_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8192eu.bb
 Description: Single-Chip IEEE 802.11b/g/n 2T2R WLAN Controller with USB 2.0 Interface - Development files
@@ -1269,8 +1269,8 @@ Recommends: firmware-rtl8192eu, rtl8192eu
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5ed32445646c943bca841215eaeb0065
-SHA256sum: ec24c5266a687247cfc313cbcdd4ed4199a9584ff7a2a11b9dc7ef3f3e519faa
+MD5Sum: bf45e3669c54ea6bc1a3372dce1af318
+SHA256sum: e1d39dd82ac82409abb0f8712ad9aa8574835178614c404b40bbfb881401ad45
 Size: 692
 Filename: enigma2-plugin-drivers-network-usb-rtl8192eu_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8192eu.bb
@@ -1284,8 +1284,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 034630ffd234aec02cc7f8c4486e05f3
-SHA256sum: c094b98e4ae5672c2f0a43075a3b4732382cca52ff212b7cd2c20f2aeb351d81
+MD5Sum: ff2419c10de07727fe06de1c9723eba8
+SHA256sum: a075959483ad9f7378e9e6f4d23114d930016a49c3c1e048815acb311cfb01fa
 Size: 706
 Filename: enigma2-plugin-drivers-network-usb-rtl8814au-dbg_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8814au.bb
@@ -1300,9 +1300,9 @@ Depends: enigma2-plugin-drivers-network-usb-rtl8814au (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 629ae4bea5ad1e6c75e151843026ad0c
-SHA256sum: 0a7f5567177ef5bf13789f00b684a8d43e08ea54b6efbb2c09fdfdd63075dae1
-Size: 738
+MD5Sum: dfbefff1cce2372c380cbc6671d60420
+SHA256sum: b3396b2b0baf23a5068ad1f2ba62550d215f3f72fdc0fa78b6452b146fd39957
+Size: 736
 Filename: enigma2-plugin-drivers-network-usb-rtl8814au-dev_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8814au.bb
 Description: WiFi devices for Realtek 8814AU chipsets. - Development files
@@ -1316,8 +1316,8 @@ Recommends: rtl8814au
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0d7653d1188597269f20b1465ca6ee10
-SHA256sum: c31c2714d8aa2421c2131503c8d1111115fd171b6c6e4c25d3dbe8049a76c435
+MD5Sum: 23b4b337ac7bffbafc91d775241e3e2a
+SHA256sum: 2ebb470a24b02903cc1994c335a38954b85c9d284bbf5020df1978f0b13dd812
 Size: 652
 Filename: enigma2-plugin-drivers-network-usb-rtl8814au_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8814au.bb
@@ -1331,8 +1331,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 28173d6ec2c6608c6594f1e40b89211f
-SHA256sum: 071da223f1681897af127678e1b122847bbe6e6e615aad80a052f2acdea827b4
+MD5Sum: 4c55bc9f9e187d5b7ec1ddb788b37c7f
+SHA256sum: 0ad879e0e9360a10bbd4bdb9406a763fa33bffbba4167c672a45926f270428bb
 Size: 708
 Filename: enigma2-plugin-drivers-network-usb-rtl8821cu-dbg_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8821cu.bb
@@ -1347,8 +1347,8 @@ Depends: enigma2-plugin-drivers-network-usb-rtl8821cu (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8113145e706c5fe5c4f9cbdcd1b9b822
-SHA256sum: 2161e246509536701f0e8d17468a4db1b3d43d254431a3b0910421ecc9d1b36f
+MD5Sum: 49bfa29b42e1fc0e0584a1419819d52d
+SHA256sum: ad8a20f42a5874f96d2a4a50875209a97d5cc1b483ad86418a663778cce68d1a
 Size: 740
 Filename: enigma2-plugin-drivers-network-usb-rtl8821cu-dev_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8821cu.bb
@@ -1363,8 +1363,8 @@ Recommends: rt8821cu
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d94efbeb63744754cc81aa29a9ba2dff
-SHA256sum: 039b5e3e2dfdb1b3e109a9cf4ec31b53b3760d4d8dedd1fb9cdd28b69b15c5bc
+MD5Sum: 538966dd54594acfae6d5d638eae65c0
+SHA256sum: 98d1b75432d08ccbb1f84e4bf439f096d163e25d9744e78932d47a3ceec79042
 Size: 654
 Filename: enigma2-plugin-drivers-network-usb-rtl8821cu_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8821cu.bb
@@ -1378,8 +1378,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f349bc08af17bb4f65733b470e6c08c5
-SHA256sum: e7bdcb44f7c56d0746d761989f2895c3c8237d43c06cc7b5c6f9bea6f09d7c2c
+MD5Sum: af61a5d6a7c7048d32653c94dc464f8e
+SHA256sum: f671edac9362bc5ecbe202e6f2a29b36799970b48f338f407d5ab742bae5fc8f
 Size: 706
 Filename: enigma2-plugin-drivers-network-usb-rtl8822bu-dbg_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8822bu.bb
@@ -1394,8 +1394,8 @@ Depends: enigma2-plugin-drivers-network-usb-rtl8822bu (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8303b28a0e8bdb2b652b5b14562fc294
-SHA256sum: ba8f0816de7faa92bcfb012fed17c81b348b376c2aaa179ea78e9d153d57e014
+MD5Sum: 7e9eb06e31cdcacbf9cae5bb58309380
+SHA256sum: 0f6ad2bb360a026dc5bdaa7ad8eafb90ae828c8728223e6e48356e3d2e1d3389
 Size: 740
 Filename: enigma2-plugin-drivers-network-usb-rtl8822bu-dev_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8822bu.bb
@@ -1410,9 +1410,9 @@ Recommends: rtl8822bu
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b52256bd4bf7384386c3ee47a2175837
-SHA256sum: bcdea0981d4a091e2c8b37d73da3cb2faae0b7d7b71a0df630327ac132fe0661
-Size: 652
+MD5Sum: a8c620764b3a424da776be26058ff150
+SHA256sum: abc4bdb93841e4513a8587757e00371d59efad1d46e7780a6dfb8becf6253363
+Size: 658
 Filename: enigma2-plugin-drivers-network-usb-rtl8822bu_1.0-r0_all.ipk
 Source: enigma2-plugin-drivers-network-usb-rtl8822bu.bb
 Description: WiFi devices for Realtek 88x2BU chipsets.
@@ -1488,8 +1488,8 @@ Version: 1.1+git3641+8e06bcc-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7c1bd5b84e02a1dbffaa7b00e0239f30
-SHA256sum: 952834b548345edddb6dd04d08a9715eda077e3750f77df19e22110f5ec58f5b
+MD5Sum: aff8ff44521a4666b6edb12234d42eef
+SHA256sum: e20aa9e8fa7aa29ac3fcbd1eaebd28b9eb78540757fc182843da42bbf0fe6016
 Size: 706
 Filename: enigma2-plugin-extensions-e2iplayer-dbg_1.1+git3641+8e06bcc-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
@@ -1505,9 +1505,9 @@ Recommends: cmdwrapper-dev, duktape-dev, exteplayer3-dev, f4mdump-dev, ffmpeg-de
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 33a420aa808c04d6eee4b8694e547651
-SHA256sum: c9e6f52b32088732c032ce89a199fe1b4d50b25af15a8bf400503f7ffb97bcbc
-Size: 886
+MD5Sum: 09419815b4f1755bb7e1872a2f66d008
+SHA256sum: d7cc5540d2e0a3d1e6289b2cd05614708d1e0bcec8a01a0d986e866ee12f59bb
+Size: 884
 Filename: enigma2-plugin-extensions-e2iplayer-dev_1.1+git3641+8e06bcc-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2iPlayer for Enigma2 - Development files
@@ -1523,9 +1523,9 @@ Conflicts: enigma2-plugin-extensions-e2istream
 Section: multimedia
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3034e3b834c24ea3e95d88a9bfb2f562
-SHA256sum: d6542bf892c07c8a8214d8365ae3cef925d331e16e7ca6a40767caeafe53544e
-Size: 3614032
+MD5Sum: 906efc7b9c444adbc69692bf00eceeb5
+SHA256sum: 03d99d8f5fa1e296019f476753118130cdfb88803aa38ab41864a80a5a5ebd9b
+Size: 3613252
 Filename: enigma2-plugin-extensions-e2iplayer_1.1+git3641+8e06bcc-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2iPlayer for Enigma2
@@ -1540,9 +1540,9 @@ Conflicts: enigma2-plugin-extensions-xmltvimport-rytec
 Section: base
 Architecture: all
 Maintainer: Rytec forum @ forums.openpli.org
-MD5Sum: d601c9a001dd4b71556d87883d815955
-SHA256sum: 327cf57756e75d65e579300f7aa830e880858c8639a249cd91fa4898872e8175
-Size: 4208
+MD5Sum: 92f41685a7520b3eba1143fa29f9dca8
+SHA256sum: 0dba6d25185884979fc377d25840814194cecfa37c16a0210b221a2f7ee9af4a
+Size: 4206
 Filename: enigma2-plugin-extensions-epgimport-rytec_20200504-r0_all.ipk
 Source: enigma2-plugin-extensions-epgimport-rytec.bb
 Description: Rytec's XMLTV sources and channels for the EPGImporter
@@ -1555,8 +1555,8 @@ Version: 1.1.4+git2+065e310-r0
 Section: devel
 Architecture: all
 Maintainer: murxer <support@boxpirates.to>
-MD5Sum: fbe9362a6e13ef6f366263b2ff316750
-SHA256sum: b8a7fcbae65d9b5c239671ee0ec32849987d215418a7a045aa9f555acfb2b74a
+MD5Sum: 77ad7f04ec1f5b691e437b47003b1ffa
+SHA256sum: 3ab1c88eb0df637a5e0b9b28921f8b3467c330211baf147af9928f44646afe5d
 Size: 708
 Filename: enigma2-plugin-extensions-vpnmanager-dbg_1.1.4+git2+065e310-r0_all.ipk
 Source: enigma2-plugin-extensions-vpnmanager.bb
@@ -1573,9 +1573,9 @@ Recommends: openresolv-dev, openvpn-dev, python-json-dev, python-requests-dev
 Section: devel
 Architecture: all
 Maintainer: murxer <support@boxpirates.to>
-MD5Sum: b039a16430b130ef038b1b727aafe5fc
-SHA256sum: 8637f1448ee1dfe5440d6456ea5ec7476664a7bb1b7046774d99da8a7ed9caad
-Size: 782
+MD5Sum: 5054788e0686a86bd82961325e6987d4
+SHA256sum: fc693719f3165e27c8a0bc608622288b5dda98d02158c742911de7617a2b7539
+Size: 780
 Filename: enigma2-plugin-extensions-vpnmanager-dev_1.1.4+git2+065e310-r0_all.ipk
 Source: enigma2-plugin-extensions-vpnmanager.bb
 Description: OpenVpn Verbindungen verwalten - Development files
@@ -1591,9 +1591,9 @@ Conflicts: enigma2-plugin-extensions-dreamosat-downloader, enigma2-plugin-extens
 Section: base
 Architecture: all
 Maintainer: murxer <support@boxpirates.to>
-MD5Sum: 3b2aac4e7fb955b9ff9bbb26c25b9239
-SHA256sum: 78131acab776c278d7e7703001f94aaa004d0c5d171600793c739570a3a49420
-Size: 97820
+MD5Sum: 780961cc5516c5be943e70aa10ef0575
+SHA256sum: e87b7035672567a36dae0994898b3486dd75181191b287295c6c75ae820ad285
+Size: 97822
 Filename: enigma2-plugin-extensions-vpnmanager_1.1.4+git2+065e310-r0_all.ipk
 Source: enigma2-plugin-extensions-vpnmanager.bb
 Description: OpenVpn Verbindungen verwalten
@@ -1656,8 +1656,8 @@ Version: git32+2da7481-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 74ea677aacbdb250d164c901186d69f1
-SHA256sum: 0569bb9d9eac6a2c5ef2cd8ba7f4b5d7d3923c8dea05e8934d261448fc98119a
+MD5Sum: be26f60a44aab51372f9d9c30f6f099c
+SHA256sum: d961dae38b85bfb1560c9da8c89336f542510b50997347d82397417d688569a7
 Size: 726
 Filename: enigma2-plugin-extensions-xstreamity-dbg_git32+2da7481-r0_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
@@ -1674,8 +1674,8 @@ Recommends: python-argparse-dev, python-image-dev, python-imaging-dev, python-mu
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 31949663c23ca173d92c4bcd863e63f7
-SHA256sum: 696a2d25a9e7e973eb6b07591ab56c7f31a78cf848535a747c50edf8251464d6
+MD5Sum: 2874fd0bd4aa288fa727d2d04d862e43
+SHA256sum: 514cff444a6d791fa7ff0d4371bfa2ace203ed9b4af3467e4d62c3c3f647f9f8
 Size: 810
 Filename: enigma2-plugin-extensions-xstreamity-dev_git32+2da7481-r0_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
@@ -1691,9 +1691,9 @@ Depends: python-argparse, python-image, python-imaging, python-multiprocessing, 
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 9a52dbd83ebca2ceb8ec804e678325a0
-SHA256sum: b0a709d7bcccfe81d4543040a9be922e5ebe0a850c555fab3021a46e77c8f2f8
-Size: 421168
+MD5Sum: 1c7cfcc85e7a3209fc12de1b81548750
+SHA256sum: fb6ca333d89b0184a4681109d964a9479f940eee74480cc3ddd3139cc23e82f4
+Size: 421170
 Filename: enigma2-plugin-extensions-xstreamity_git32+2da7481-r0_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: enigma2-plugin-extensions-xstreamity version gitAUTOINC+2da74817cb-r0
@@ -3152,8 +3152,8 @@ Version: 1.0+git27+8df8aba-r0
 Section: devel
 Architecture: all
 Maintainer: OBH
-MD5Sum: 42b75f48a356f76747d2629a1d0a3c87
-SHA256sum: 5e3cb42ccfc8337b23e17722164d0a3f7d5d518e0ceb478af207f34fdf575a41
+MD5Sum: aaf6602c6b0ab0b971d7573ef7088565
+SHA256sum: 19c881847b3dd98d775ea99dddbe8d06bb491fb45313e84b3fea5be1876be993
 Size: 656
 Filename: enigma2-plugin-skins-mx-black-dbg_1.0+git27+8df8aba-r0_all.ipk
 Source: enigma2-plugin-skins-mx-black.bb
@@ -3169,8 +3169,8 @@ Recommends: enigma2-plugin-extensions-weatherplugin-dev, enigma2-plugin-systempl
 Section: devel
 Architecture: all
 Maintainer: OBH
-MD5Sum: 1106428a793ecd73fc5582a84c096532
-SHA256sum: 58d4799a1b62c28bb7e99b7803395bcb9cdfc184c71bbcdd096c7c54f4b91472
+MD5Sum: b9bda01dd959e76ad5c0e4e924969392
+SHA256sum: 502119c119a0d84dee517508e997dd7cc638e255b4483fe5a3e324f630181529
 Size: 736
 Filename: enigma2-plugin-skins-mx-black-dev_1.0+git27+8df8aba-r0_all.ipk
 Source: enigma2-plugin-skins-mx-black.bb
@@ -3185,8 +3185,8 @@ Depends: enigma2-plugin-extensions-weatherplugin, enigma2-plugin-systemplugins-b
 Section: base
 Architecture: all
 Maintainer: OBH
-MD5Sum: 05e928d6953714838d39901401453e33
-SHA256sum: 6e212e765cd8b4c1c59295f263f095d7d1fb7a9cc109660fd417bc8fbd48c125
+MD5Sum: 2f101ad762c1b34f6abe9f91afe3cde7
+SHA256sum: f052a3615f196399a57e33ff95112873dc4b3125a88cecfdc3d4e52a49c45dfa
 Size: 614358
 Filename: enigma2-plugin-skins-mx-black_1.0+git27+8df8aba-r0_all.ipk
 Source: enigma2-plugin-skins-mx-black.bb
