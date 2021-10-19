@@ -65,9 +65,9 @@ Recommends: glibc-dbg, libgcc-dbg, libstdc++-dbg
 Section: devel
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6b9f2a5f9cf3cf6049ec323317f27f92
-SHA256sum: a9788d6b863f77659ef51978c0af2b23bdf2a00b28d78f6e2ed2e151e83a5c70
-Size: 62836
+MD5Sum: 4162e8fd5a7e45e0b50112ecf33d5ebd
+SHA256sum: ab9179493356bf1354bd3da7d0adf3790918e7cb37471afe9ca9e635b9339e9b
+Size: 62876
 Filename: bitratecalc-dbg_2.0+git9+9746ced-r0_dm800se.ipk
 Source: bitratecalc.bb
 Description: Library that implements bitrate calculations from enigma2 - Debugging files
@@ -83,8 +83,8 @@ Recommends: enigma2-dev, glibc-dev, libgcc-dev, libstdc++-dev
 Section: devel
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ffeb1fb3e54b04e225539b908ff09925
-SHA256sum: 1300e74427dcf28e017e403c841640234638d7beceb021e54d1ed9985cf3c919
+MD5Sum: c5a24fc6b80570f74baef947e2410dd3
+SHA256sum: 1765e2afd4801fce6690b171acd21a6a8848d4e70d462e266868b55c7439da3a
 Size: 786
 Filename: bitratecalc-dev_2.0+git9+9746ced-r0_dm800se.ipk
 Source: bitratecalc.bb
@@ -100,9 +100,9 @@ Depends: libc6 (>= 2.32), libgcc1 (>= 10.2.0), libstdc++6 (>= 10.2.0)
 Section: base
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 414cf6f1dab8739c9dc7f7858559bc00
-SHA256sum: f284f8537af7e7de3f6b897d69069b2dc746117277685b472704cc79505b941f
-Size: 5800
+MD5Sum: f7263def8b15323094cdcad1d2438010
+SHA256sum: 125c7c5e15ae953875ef62defacb0b2185c1ebf2c1de52a4828bfeeda6bfde24
+Size: 5806
 Filename: bitratecalc_2.0+git9+9746ced-r0_dm800se.ipk
 Source: bitratecalc.bb
 Description: Library that implements bitrate calculations from enigma2
@@ -231,9 +231,9 @@ Recommends: glibc-dbg
 Section: devel
 Architecture: dm800se
 Maintainer: Openpli Developers
-MD5Sum: 5e656196f3a2162ee1c825021593d9f2
-SHA256sum: 07964fde0b41123cbd78a7b96e5ea5870597122391fe84d4b0f6e90335f58a0f
-Size: 14164
+MD5Sum: 8f20ab919b4ded042cc52e8fdadb7977
+SHA256sum: edd286fe28ba0833b9091f70a287d282b9da205bcf58ffe936f6a5c695850982
+Size: 14168
 Filename: dm800se-branding-dbg_git42+4acb6b3-r0_dm800se.ipk
 Source: dm800se-branding.bb
 Description: dm800se-branding version gitAUTOINC+4acb6b360c-r0 - Debugging files
@@ -248,8 +248,8 @@ Recommends: glibc-dev, python-dev
 Section: devel
 Architecture: dm800se
 Maintainer: Openpli Developers
-MD5Sum: c746dbffafc64f172c1bce61bf0a0e51
-SHA256sum: 14dcaed3d9a81133152a6251a9a5bbd76cfaf1ee2def65d9bdfdef52f3dd1c3a
+MD5Sum: a39009ed63da735b8645baf6e3bf63b6
+SHA256sum: d05df37a8681759cda854f36706ec131251cacf4de1338416f04bc1189ed1e77
 Size: 724
 Filename: dm800se-branding-dev_git42+4acb6b3-r0_dm800se.ipk
 Source: dm800se-branding.bb
@@ -264,9 +264,9 @@ Depends: libc6 (>= 2.32)
 Section: base
 Architecture: dm800se
 Maintainer: Openpli Developers
-MD5Sum: 112f482b692c32eeb99a62a7926ca80c
-SHA256sum: 2d28011c4054b1ee8f193a582d47efc913633c269c83d7729274f415a2d367d9
-Size: 5482
+MD5Sum: 449dcb9471ff196b2f6584b8d57a4ffe
+SHA256sum: 1d36c52115151c1c874cd27ec38d7e42424df6c2cd4f0540b586bc451ba5e3a3
+Size: 5484
 Filename: dm800se-branding_git42+4acb6b3-r0_dm800se.ipk
 Source: dm800se-branding.bb
 Description: dm800se-branding version gitAUTOINC+4acb6b360c-r0
@@ -297,9 +297,9 @@ Depends: dreambox-secondstage-dm800se, kernel-3.2-dm800se, kernel-module-stv0299
 Section: base
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e37a84b99dac253ca901d01a49f13baa
-SHA256sum: dc87289f1972208065d840e284300000710480d6754e4de0487dc6b967fb5498
-Size: 2170244
+MD5Sum: 3ec50ce68567e9fe685de821158741bc
+SHA256sum: fe3ae443b96edcfb3d799a538753a018a68be780694116fcebc0b92d9081cc48
+Size: 2170242
 Filename: dreambox-dvb-modules-dm800se_3.2-20151201-r0_dm800se.ipk
 Source: dreambox-dvb-modules-dm800se_3.2-20151201.bb
 Description: Hardware drivers for Dreambox
@@ -312,9 +312,9 @@ Version: 84-r0
 Section: base
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9c8ce62c497465688d2423a7819d4159
-SHA256sum: 8664699b2865d9447160b6dd6389cdea3949d1ae30b7eb62d790eb3aadce0946
-Size: 187100
+MD5Sum: c4fce7ce11eaf658ca15f99554b3caed
+SHA256sum: 2e47a8723830d0bad851574d7404111039276eb566fec71222b11f73891533c2
+Size: 187104
 Filename: dreambox-secondstage-dm800se_84-r0_dm800se.ipk
 Source: dreambox-secondstage-dm800se_84.bb
 Description: Dreambox second stage bootloader
@@ -907,15 +907,15 @@ License: GPLv2 & LGPLv2 & BSD & MIT
 Priority: optional
 
 Package: enigma2-dbg
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Recommends: freetype-dbg, fribidi-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, libavahi-client-dbg, libavahi-common-dbg, libcrypto-dbg, libdreamdvd-dbg, libdvbsi++-dbg, libgcc-dbg, libgomp-dbg, libjpeg-turbo-dbg, libpng-dbg, libpython2-dbg, libsigc++-2.0-dbg, libssl-dbg, libstdc++-dbg, libtuxtxt-dbg, libudfread-dbg, libxcrypt-dbg, libxml2-dbg, tuxtxt-enigma2-dbg
 Section: devel
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f079392e758f447c8801c59ed047dae8
-SHA256sum: 5cf1d9c5ce563bbe66e879746ae4c2e892b7cadbd2cf11c6f69548696b4d1bdd
-Size: 866
-Filename: enigma2-dbg_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 009a1326aa508be3dde09f084d69ce28
+SHA256sum: e956f1dac2e71235d6731bf37ab5ba514b72f30362534576cff4100363b9b9aa
+Size: 864
+Filename: enigma2-dbg_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Debugging files
 OE: enigma2
@@ -923,16 +923,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-dev
-Version: 2.7+git20175+78b14cc-r0
-Depends: enigma2 (= 2.7+git20175+78b14cc-r0)
+Version: 2.7+git20182+a9a7817-r0
+Depends: enigma2 (= 2.7+git20182+a9a7817-r0)
 Recommends: aio-grab-dev, alsa-conf-dev, avahi-dev, cdrkit-dev, dm800se-branding-dev, dvd+rw-tools-dev, dvdauthor-dev, enigma2-fonts-dev, ethtool-dev, font-valis-enigma-dev, freetype-dev, fribidi-dev, giflib-dev, glib-2.0-dev, glibc-dev, glibc-gconv-iso8859-15-dev, hotplug-e2-helper-dev, jpeg-dev, libavahi-client-dev, libavahi-common-dev, libcrypto-dev, libdreamdvd-dev, libdvbsi++-dev, libgcc-dev, libgomp-dev, libjpeg-turbo-dev, libmad-dev, libpng-dev, libpython2-dev, libsigc++-2.0-dev, libssl-dev, libstdc++-dev, libtuxtxt-dev, libudfread-dev, libxcrypt-dev, libxml2-dev, mjpegtools-dev, openssl-dev, python-codecs-dev, python-core-dev, python-crypt-dev, python-fcntl-dev, python-imaging-dev, python-lang-dev, python-logging-dev, python-mmap-dev, python-netclient-dev, python-netifaces-dev, python-netserver-dev, python-numbers-dev, python-pickle-dev, python-process-dev, python-pyusb-dev, python-re-dev, python-service-identity-dev, python-shell-dev, python-six-dev, python-threading-dev, python-twisted-core-dev, python-twisted-dev, python-twisted-web-dev, python-wifi-dev, python-xml-dev, python-zlib-dev, python-zopeinterface-dev, replex-dev, tuxtxt-enigma2-dev, virtual/blindscan-dvbc-dev, wireless-tools-dev, wpa-supplicant-dev
 Section: devel
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 496aacf39aa132cfcdb92d4587d7343a
-SHA256sum: 0f5f1a0e3f58ccb0ee165074c5ad83375d01dbf452f027308444d55195c70aba
-Size: 125438
-Filename: enigma2-dev_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: e1d93aead866b1e39524028a0c11b576
+SHA256sum: 57a9ba551da42747a10b05fddf480ac0076b8171e7ba3b60b79fa905fd03ae3c
+Size: 125492
+Filename: enigma2-dev_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Development files
 OE: enigma2
@@ -944,9 +944,9 @@ Version: 2020.10.17-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: eff1b12bfcd3971e3d9a0d7ce8f961f1
-SHA256sum: b71c2ec164dc62592dd365ca77b9ef578a94459975f2df6852a648260a2a6acb
-Size: 805904
+MD5Sum: 0f44e990d43ebbc83c7443b764f01a62
+SHA256sum: f34e1f2402ec74ac76a0daa4c29e1e2d79c8072cacae1d21dbe56177d72e6937
+Size: 805988
 Filename: enigma2-fonts_2020.10.17-r0_dm800se.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
@@ -955,14 +955,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-meta
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b9afaaf3785bb51e96628387247eff5e
-SHA256sum: 154c2ffaf4426cfae9609c0b2236fa38011c2cc8da59a98738d1360a65e1fdc9
-Size: 4050
-Filename: enigma2-meta_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: d8dbc83ad0725a65be33b06c253f60d5
+SHA256sum: 88dd7cd645e6147f65b5e1ef108f9b4f8fa19d27fdfb6d9fe9e6963da3c22153
+Size: 4038
+Filename: enigma2-meta_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
 OE: enigma2
@@ -970,14 +970,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-cutlisteditor-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: cd9387bddbbe911f7337964caea66e5e
-SHA256sum: 5cbfba9fd661807253690c8eddce880d901e48cbbdff0fb4e13ad655acd9c7da
-Size: 5276
-Filename: enigma2-plugin-extensions-cutlisteditor-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: f3ccf39a02aff6b3d0e7dc9b469d9fbd
+SHA256sum: 21ddf1508c8a365318dc705012c84e0c4e46cd5fc1b10d2c55795dafa81ba70c
+Size: 5272
+Filename: enigma2-plugin-extensions-cutlisteditor-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-cutlisteditor (sources)
 OE: enigma2
@@ -985,15 +985,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-cutlisteditor
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: aio-grab
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1c877231c908eba4b68c856007c14af6
-SHA256sum: 33ebf7d575a52c20007d1d65f0f24fa55ac7e79b662c5362d256481bff5aea5f
+MD5Sum: 873acf93739d796ad5cd97b31263e7e0
+SHA256sum: 96e8d774a8bb4639ce3059aa033835c776daa6e11ecc7f9fa052468f11d3e0ce
 Size: 7640
-Filename: enigma2-plugin-extensions-cutlisteditor_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-extensions-cutlisteditor_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-cutlisteditor
 OE: enigma2
@@ -1001,14 +1001,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdburn-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a22bbfd9369bac34ead1fcfe20b8bc43
-SHA256sum: 36d419834f978ea1d094499ee23e9f37460ad5e7a08f92adc3719ecbf33e32a2
-Size: 21670
-Filename: enigma2-plugin-extensions-dvdburn-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 657dfe01cd8a3288d1bc041ddd72d79d
+SHA256sum: 695fff12cec3da28a7cee51576614aea2036419b27e3033779acf6b1f1cbe291
+Size: 21664
+Filename: enigma2-plugin-extensions-dvdburn-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-dvdburn (sources)
 OE: enigma2
@@ -1016,16 +1016,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdburn
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: cdrkit, dvd+rw-tools, dvdauthor, mjpegtools, python-imaging, replex
 Recommends: kernel-module-pktcdvd
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2f07d3b2b686b0ae4675eb2f926b947d
-SHA256sum: f33d04e4a39e9adc0fc5cd22de4b421a5d182559f788d60138851bf414da6fb2
-Size: 796356
-Filename: enigma2-plugin-extensions-dvdburn_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 84508b17ff4c1d33204b0e7ee3d3d6ac
+SHA256sum: dc7f53b32018039474d0beeed9a4ec0d071f195e7cd8c1d747d688842152b0d0
+Size: 796372
+Filename: enigma2-plugin-extensions-dvdburn_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-dvdburn
 OE: enigma2
@@ -1033,14 +1033,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdplayer-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b1ab1b4dca786d274dab5782c402aae8
-SHA256sum: c544b704707201a1cdacab7beab48ae0bd4a1b04fc59910aa61c8dd21c7ad30f
+MD5Sum: 83b61296fc08de9062a834a92da0c61f
+SHA256sum: 3d3f442b979257fd970ee20465b9a116db97c905a80d804a1c8ad3185ea72404
 Size: 1886
-Filename: enigma2-plugin-extensions-dvdplayer-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-extensions-dvdplayer-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-dvdplayer (sources)
 OE: enigma2
@@ -1048,15 +1048,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdplayer
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Recommends: kernel-module-udf
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5438d39dbb9dedd1e816be96b0faf2f6
-SHA256sum: ae397514a7933fd079990657e348b8954124a0c35add8ed585b5d6393713122c
-Size: 2620
-Filename: enigma2-plugin-extensions-dvdplayer_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 319d828b78972f8ac9ead038a89ee603
+SHA256sum: 43ba7e2a97da650997cff564d3814fffd65b885bcc2e99298eb10543e6bfc9bc
+Size: 2616
+Filename: enigma2-plugin-extensions-dvdplayer_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-dvdplayer
 OE: enigma2
@@ -1079,14 +1079,14 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-graphmultiepg-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 41bfd8bc7cd342ea12e125363a1ee839
-SHA256sum: d4cb2fa77e774d9704c11efb2fb9c6321b6f41554b8f27288ddd8ea7b419fd34
-Size: 14684
-Filename: enigma2-plugin-extensions-graphmultiepg-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: fadadaea896bbcdee936582178db54f2
+SHA256sum: 51902b5a9202b1bc91595785ccc88c3c01e6bca9f64eb30d1a71889d02e3436a
+Size: 14680
+Filename: enigma2-plugin-extensions-graphmultiepg-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-graphmultiepg (sources)
 OE: enigma2
@@ -1094,14 +1094,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-graphmultiepg
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c34a9d09e20da371b7413cddbfec1742
-SHA256sum: 898fa8366b52bbb4f75bb1cfc2b1c6ff69ffbb4298019989f0208fa9c5802cae
-Size: 21966
-Filename: enigma2-plugin-extensions-graphmultiepg_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 44a03d0b7159c1a87337ebaf1ce468f2
+SHA256sum: 3523934c17a128b4718180dcb64e5bdb7d073f490a3b5372204b31871d13a352
+Size: 21974
+Filename: enigma2-plugin-extensions-graphmultiepg_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-graphmultiepg
 OE: enigma2
@@ -1109,14 +1109,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediaplayer-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 51025518557df4cf653e8db3c0d98730
-SHA256sum: cde9f416218a3090798877fcbf9451cf4a3979e8896262597834590131aaff05
-Size: 11070
-Filename: enigma2-plugin-extensions-mediaplayer-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 044190be51d743ca3b3175399a92ec8c
+SHA256sum: 6b87a749afe0fa625e04214cf2eb1b6c5b4c3107d69dba49ce91034cdfb455b4
+Size: 11074
+Filename: enigma2-plugin-extensions-mediaplayer-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-mediaplayer (sources)
 OE: enigma2
@@ -1124,14 +1124,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediaplayer
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5e210de1f05a848f81c24389b01c9c2a
-SHA256sum: 2c9e42a9b46a3594364b42394d71b125ae4f659eeedd7ce03277524f1ec40304
-Size: 20390
-Filename: enigma2-plugin-extensions-mediaplayer_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 25d5245d1b9dea4c7cc9ae8d595e4df6
+SHA256sum: 69208262ad8ca30195fe3fd07497d321f0d3a927bba6c8653b31cd62392fac49
+Size: 20374
+Filename: enigma2-plugin-extensions-mediaplayer_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-mediaplayer
 OE: enigma2
@@ -1139,14 +1139,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediascanner-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9b2790309b34085c6ace350a6ae2812e
-SHA256sum: e5bf46449bc0870490af85ec1b7358f4721f57dd6753cd859232e400f7932a5c
-Size: 1974
-Filename: enigma2-plugin-extensions-mediascanner-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 1fd92192cf9d0b52d914adc044964dc2
+SHA256sum: 11eb708f21f96bcce6c04f143af1f72678f0c2663103b558b0b077823a606740
+Size: 1970
+Filename: enigma2-plugin-extensions-mediascanner-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-mediascanner (sources)
 OE: enigma2
@@ -1154,14 +1154,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediascanner
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e599dd2930b5336f31025fce0d17cbc8
-SHA256sum: 410423e8f5c898929b645b5123b3c973a7b210dadfe7d3892e0b143f08cd5e9f
-Size: 5318
-Filename: enigma2-plugin-extensions-mediascanner_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: b94cfe51332078a982d2a11c9d4c1c1d
+SHA256sum: 37a6762486ce25aff24d4b96fbc1a754418edc2e000ad18eeba02702592cdde1
+Size: 5310
+Filename: enigma2-plugin-extensions-mediascanner_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-mediascanner
 OE: enigma2
@@ -1169,14 +1169,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-openwebif-dbg
-Version: git4176+f5ed124-r0
+Version: git4178+61b5f0a-r0
 Section: devel
 Architecture: dm800se
 Maintainer: Openpli Developers
-MD5Sum: 85226b77161aff61e7844f61ac421425
-SHA256sum: 01d04215968cb119a30c959ed6e02d4bef7a7b511237b191750c768c9ab04fa3
-Size: 678
-Filename: enigma2-plugin-extensions-openwebif-dbg_git4176+f5ed124-r0_dm800se.ipk
+MD5Sum: ea1d6ee8e7adc239be24cb691a37998e
+SHA256sum: 439d8664555c0f47cbde3a06e0968a72e2b7149a6a3cd795b84f38c73c8748d4
+Size: 680
+Filename: enigma2-plugin-extensions-openwebif-dbg_git4178+61b5f0a-r0_dm800se.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: Control your receiver with a browser - Debugging files
 OE: enigma2-plugin-extensions-openwebif
@@ -1184,16 +1184,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-openwebif-dev
-Version: git4176+f5ed124-r0
-Depends: enigma2-plugin-extensions-openwebif (= git4176+f5ed124-r0)
+Version: git4178+61b5f0a-r0
+Depends: enigma2-plugin-extensions-openwebif (= git4178+61b5f0a-r0)
 Recommends: aio-grab-dev, python-cheetah-dev, python-compression-dev, python-core-dev, python-dev, python-ipaddress-dev, python-json-dev, python-misc-dev, python-numbers-dev, python-pprint-dev, python-pyopenssl-dev, python-shell-dev, python-six-dev, python-twisted-web-dev, python-unixadmin-dev
 Section: devel
 Architecture: dm800se
 Maintainer: Openpli Developers
-MD5Sum: a24817713f10195aef7ca16564e7b3b3
-SHA256sum: 6d732496b0bf44cbe73023ea17dc8be2c875c91f208ef6219303749fb381fa02
-Size: 812
-Filename: enigma2-plugin-extensions-openwebif-dev_git4176+f5ed124-r0_dm800se.ipk
+MD5Sum: c79e5dc75ec3dec2be59deee39c44b15
+SHA256sum: cd1f528ce8558ec7ec496b8cd8fddd351fdfd458ec52026ef27e0c81b84a491a
+Size: 814
+Filename: enigma2-plugin-extensions-openwebif-dev_git4178+61b5f0a-r0_dm800se.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: Control your receiver with a browser - Development files
 OE: enigma2-plugin-extensions-openwebif
@@ -1201,15 +1201,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-openwebif-src
-Version: git4176+f5ed124-r0
+Version: git4178+61b5f0a-r0
 Depends: enigma2-plugin-extensions-openwebif
 Section: devel
 Architecture: dm800se
 Maintainer: Openpli Developers
-MD5Sum: eb2edaf61b06d5851dd5feccb1dab2bc
-SHA256sum: 14345aa5805002ede70d8c605c1403518c257fd70e28f862db1d8509bba18bf2
-Size: 239420
-Filename: enigma2-plugin-extensions-openwebif-src_git4176+f5ed124-r0_dm800se.ipk
+MD5Sum: fe4d0561f7c3df82b1477c7b99028e48
+SHA256sum: 25ac74c27d148abb8a6cf4723da18fd36653169a4904d3814e16c7be8b8af71d
+Size: 239506
+Filename: enigma2-plugin-extensions-openwebif-src_git4178+61b5f0a-r0_dm800se.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: Control your receiver with a browser - Source files
 OE: enigma2-plugin-extensions-openwebif
@@ -1217,15 +1217,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-openwebif-themes
-Version: git4176+f5ed124-r0
+Version: git4178+61b5f0a-r0
 Depends: enigma2-plugin-extensions-openwebif
 Section: base
 Architecture: dm800se
 Maintainer: Openpli Developers
-MD5Sum: 957e9520ac70c6f361d782ec8c4b3b4a
-SHA256sum: 13a0f9ee2d80d744e59d7cfc1345192516f7d5ed7ce5dffd92f182c046bc5576
-Size: 319036
-Filename: enigma2-plugin-extensions-openwebif-themes_git4176+f5ed124-r0_dm800se.ipk
+MD5Sum: efe65e9f79f8795fb870af1685762e1c
+SHA256sum: 0d0232cdc39eb8f11d28b25dd08728fdb4750b77f5035321fd127ea9d8ffc5b1
+Size: 319032
+Filename: enigma2-plugin-extensions-openwebif-themes_git4178+61b5f0a-r0_dm800se.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: Control your receiver with a browser
 OE: enigma2-plugin-extensions-openwebif
@@ -1233,15 +1233,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-openwebif-vxg
-Version: git4176+f5ed124-r0
+Version: git4178+61b5f0a-r0
 Depends: enigma2-plugin-extensions-openwebif
 Section: base
 Architecture: dm800se
 Maintainer: Openpli Developers
-MD5Sum: cdba971a6676ead3a68b206a083d1347
-SHA256sum: ca2c8722624d12a08deab01e8c4e2fc77cf42557d385f1bb4e141bc5f6ee1e1c
-Size: 1232404
-Filename: enigma2-plugin-extensions-openwebif-vxg_git4176+f5ed124-r0_dm800se.ipk
+MD5Sum: f2578cc087ed90af6dd2fc3b44ba5398
+SHA256sum: 0e7548ff97302c10832dce9e7aebec22f7fefa6ef42b92fe8b9002f39ed82179
+Size: 1232228
+Filename: enigma2-plugin-extensions-openwebif-vxg_git4178+61b5f0a-r0_dm800se.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: Control your receiver with a browser
 OE: enigma2-plugin-extensions-openwebif
@@ -1249,15 +1249,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-openwebif-webtv
-Version: git4176+f5ed124-r0
+Version: git4178+61b5f0a-r0
 Depends: enigma2-plugin-extensions-openwebif
 Section: base
 Architecture: dm800se
 Maintainer: Openpli Developers
-MD5Sum: 6560ce5dfbb6163e490dab47c3ae25ff
-SHA256sum: 00fc455cfc696cc778c6349ea0f91d8b84fd9eb7f6f8999bfa0e84f873d74585
-Size: 4082
-Filename: enigma2-plugin-extensions-openwebif-webtv_git4176+f5ed124-r0_dm800se.ipk
+MD5Sum: 01743806ca332d1289245d1ee2f1d399
+SHA256sum: cd2d8928fd9c43cd5ce102cd2d8c42a829f848a28825c9ab019c5bb5a1c29ba0
+Size: 4078
+Filename: enigma2-plugin-extensions-openwebif-webtv_git4178+61b5f0a-r0_dm800se.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: Control your receiver with a browser
 OE: enigma2-plugin-extensions-openwebif
@@ -1265,15 +1265,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-openwebif
-Version: git4176+f5ed124-r0
+Version: git4178+61b5f0a-r0
 Depends: aio-grab, python-cheetah, python-compression, python-core, python-ipaddress, python-json, python-misc, python-numbers, python-pprint, python-pyopenssl, python-shell, python-six, python-twisted-web, python-unixadmin
 Section: base
 Architecture: dm800se
 Maintainer: Openpli Developers
-MD5Sum: b3b846904a031c4db54a904260bc0bb2
-SHA256sum: 00898a120dc26950e34e6b8aecc4e5b174f791c0f2e8905eb5155474fb2ae369
-Size: 1422258
-Filename: enigma2-plugin-extensions-openwebif_git4176+f5ed124-r0_dm800se.ipk
+MD5Sum: ee0db6bb93a02e9225055a037ddd924d
+SHA256sum: 6409093f62854bb22ba38271d91a48c0a6939421e2a77fbe3f1da357e1df9dda
+Size: 1423072
+Filename: enigma2-plugin-extensions-openwebif_git4178+61b5f0a-r0_dm800se.ipk
 Source: enigma2-plugin-extensions-openwebif.bb
 Description: Control your receiver with a browser
 OE: enigma2-plugin-extensions-openwebif
@@ -1281,14 +1281,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-pictureplayer-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d1cb76dcf205b63e2669ed43f30be3b4
-SHA256sum: a18aa122d17fd5181e3cef85967000e1b5d00fd803903a901a2644eccaeb92a8
-Size: 6346
-Filename: enigma2-plugin-extensions-pictureplayer-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: e99789552f020163d2f79272d7ea5c33
+SHA256sum: f15897f18ccdc492e9f77f1ae62de2d07700570c4bcf9577f7f03298db18d6e2
+Size: 6342
+Filename: enigma2-plugin-extensions-pictureplayer-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-pictureplayer (sources)
 OE: enigma2
@@ -1296,14 +1296,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-pictureplayer
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e57ae68cfb96bd9bc3209ea91a9d9a1f
-SHA256sum: 215ff4260bab800bc3638dfd558a5b22df158dcee94fb0dcf33d75c0c4d1793c
-Size: 12738
-Filename: enigma2-plugin-extensions-pictureplayer_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: cc0a8aa3f90998bf198153c26bfa723c
+SHA256sum: c764aaf380a50c446e299ca56a23999387a1bc80c7c38f2aab0ca05579634c49
+Size: 12744
+Filename: enigma2-plugin-extensions-pictureplayer_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-pictureplayer
 OE: enigma2
@@ -1441,15 +1441,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi-dbg
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Recommends: freetype-dbg, fribidi-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, libavahi-client-dbg, libavahi-common-dbg, libcrypto-dbg, libdreamdvd-dbg, libdvbsi++-dbg, libgcc-dbg, libgomp-dbg, libjpeg-turbo-dbg, libpng-dbg, libpython2-dbg, libsigc++-2.0-dbg, libssl-dbg, libstdc++-dbg, libtuxtxt-dbg, libudfread-dbg, libxcrypt-dbg, libxml2-dbg, tuxtxt-enigma2-dbg
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fbc580db58436deccb6e07cfa85a47d1
-SHA256sum: dee760d6bfd57ce5761fe5402dc91c216496fa78dfefc08f7bd7aaf9b77fbf7e
-Size: 8899090
-Filename: enigma2-plugin-extensions-socketmmi-dbg_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: bccf0a169c4da4768e7ef2cdff046cf6
+SHA256sum: c065909744a7b5167f7f5cfa0946e1a0b43affcd962c12811260e6792de4f014
+Size: 8897750
+Filename: enigma2-plugin-extensions-socketmmi-dbg_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (debug)
 OE: enigma2
@@ -1457,14 +1457,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a5ea0123b71c95707298d6a1e8ea0ffd
-SHA256sum: 175de9f3b430c24fe771515fc292e72bd3af06355ec784ff94735ba202390efb
+MD5Sum: 6fbfa96617a62ff891b84e79e014656d
+SHA256sum: 9aea4ae7d3154be7072fdf1eb1ec36a422c9d9861dbe42eba7066c76bb7e27a1
 Size: 1492
-Filename: enigma2-plugin-extensions-socketmmi-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-extensions-socketmmi-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (sources)
 OE: enigma2
@@ -1472,14 +1472,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi-staticdev
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fe242ca4dd6dd6dacf52e7dcd73ed4bc
-SHA256sum: 6309dc4b87b0e9a5dd0a28cc54fa05bcf4575b27bba7f1944c5745e66eba346a
-Size: 81510
-Filename: enigma2-plugin-extensions-socketmmi-staticdev_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 40900c395923120f8d9f79a55f3d669c
+SHA256sum: a527b13728f31bf20a76561256376479d7374d7d7a484b2dcd85de0bce1d4337
+Size: 81876
+Filename: enigma2-plugin-extensions-socketmmi-staticdev_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (static development)
 OE: enigma2
@@ -1487,15 +1487,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-socketmmi
-Version: 2.7+git20175+78b14cc-r0
-Depends: libc6 (>= 2.32), libgcc1 (>= 10.2.0), libstdc++6 (>= 10.2.0), libudfread0 (>= 1.1.2+git108+c2c561b), libxml2 (>= 2.9.10)
+Version: 2.7+git20182+a9a7817-r0
+Depends: libc6 (>= 2.32), libgcc1 (>= 10.2.0), libstdc++6 (>= 10.2.0), libudfread0 (>= 1.1.2+git108+b3e6936), libxml2 (>= 2.9.10)
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 42b19b1fbf2e3780e51b3b16f3302eb4
-SHA256sum: 661812adc9c6cbbad05dcd0f41fc8df802f07760f71dd1d74a1935aed6e1b9d0
-Size: 10354
-Filename: enigma2-plugin-extensions-socketmmi_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 92eed6f35b180c6a99ac8ef71ea52ba7
+SHA256sum: 7d4b553ba3043a831791408d46698b532544ee722f25afb4db25601aa5fd60ec
+Size: 10350
+Filename: enigma2-plugin-extensions-socketmmi_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi
 OE: enigma2
@@ -1503,14 +1503,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-font-wqy-microhei
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: eba9846d2f7b0a5048c91f553854e1f9
-SHA256sum: 94615c520ac0a406a66f813e29d08c61d767f77a4562cc21f8abf82375350476
-Size: 1547814
-Filename: enigma2-plugin-font-wqy-microhei_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 9ff8c6953743c0c95ec14534bbf27a9f
+SHA256sum: d87a14a860d41ef55059563f85722331ad0c6a2c8c1680b26d8bea593d364fed
+Size: 1543810
+Filename: enigma2-plugin-font-wqy-microhei_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: wqy-microhei font supports Chinese EPG
 OE: enigma2
@@ -1518,15 +1518,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-ar
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-ar-ae
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1a0a846ac037267e2d2dae5a914c9b91
-SHA256sum: 51fe8cb2dc39f16c411f1fc9754ffcf3afda1b2eda16a9220a2cb6f6122f7e6c
-Size: 56338
-Filename: enigma2-plugin-language-ar_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 5774c94b578dbaf29b30a2f6b4e0a1be
+SHA256sum: 71804b19ae1edfefc6997b50cc9c7a81d6f328509954223b0786b9b1a6c0c962
+Size: 56344
+Filename: enigma2-plugin-language-ar_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Arabic
 OE: enigma2
@@ -1534,15 +1535,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-bg
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-bg-bg
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0ad5390f667208cf26a96e138bcdb1c6
-SHA256sum: 138e883d9479a57fc01dcc34473672006d823ec268bb3fd244906d1b2b86a58b
-Size: 90720
-Filename: enigma2-plugin-language-bg_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 86ac35cb614927342b876870d969dd0d
+SHA256sum: 334cb45aac497e0ae0d3e29c5272b7bc2cb145753d745b92ea751f6c0ecbc088
+Size: 90770
+Filename: enigma2-plugin-language-bg_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Bulgarian
 OE: enigma2
@@ -1550,15 +1552,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-ca
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-ca-ad
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: bdb595891fecf8841fe33877c045a13f
-SHA256sum: 72fb53b11407ea73e497742ee2ee29db7d07299e1e1901fc9198f9e01507cff5
-Size: 88134
-Filename: enigma2-plugin-language-ca_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 59ef948f1e86beeea6f6e33a45a13be6
+SHA256sum: a55a3f1261eba8f5802127b07023353697abce1aa8734f10c6fc676379ef12c0
+Size: 88174
+Filename: enigma2-plugin-language-ca_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Catalan
 OE: enigma2
@@ -1566,15 +1569,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-cs
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-cs-cz
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e2591f8aec5b35eb1621e5d67b753470
-SHA256sum: 35ac31f527be3362a3244bca32882665fd51a422564be60dd26837a1d936abc9
-Size: 87768
-Filename: enigma2-plugin-language-cs_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: e2ddcd134c940528e15173715b49578d
+SHA256sum: 38de137c4844a92c9aa42ef58788c27d6abdcdd42e4659eed0c6a060de576266
+Size: 87798
+Filename: enigma2-plugin-language-cs_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Czech
 OE: enigma2
@@ -1582,15 +1586,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-da
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-da-dk
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1faf389e9c83f1f0e2caa834cbd9c3d1
-SHA256sum: f53bb40ec223e410b7e3f0c1da45405b5b65885f8bc1aadfc8674985d0e2da6b
-Size: 57674
-Filename: enigma2-plugin-language-da_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 04e503d56691402b6e5236b7a3265342
+SHA256sum: a31baa9af41c69a0ab2d1ebb42491645b8a7bd34af9bc14d323d42b68eefec4a
+Size: 57690
+Filename: enigma2-plugin-language-da_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Danish
 OE: enigma2
@@ -1598,15 +1603,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-de
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-de-de
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e1be8e674dc6871e044e305eac2b2841
-SHA256sum: f5500a6c1709425857b5f3db94bf01d12a92e4b27ca72c39223afbc4b184e01d
-Size: 87222
-Filename: enigma2-plugin-language-de_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: b7fd061fc64a8565b34693add308b32f
+SHA256sum: f8412b39f7df183bd97b5a700707f4cbac6a7a1ea7b1c05fceafb50bdeae7048
+Size: 87216
+Filename: enigma2-plugin-language-de_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: German
 OE: enigma2
@@ -1614,15 +1620,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-el
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-el-gr
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 590178123b117bef731914753c88b6d7
-SHA256sum: 0e53467e843bbccba33aabd868e09c841a46a8edf13f1f948de8e325a8b191a3
-Size: 95174
-Filename: enigma2-plugin-language-el_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 0333870e6d17d2f493f99ca817ab3b80
+SHA256sum: e31c01802e40e5b380672acbd7ba1bdecbede0832944fbd5fb435d4712005c86
+Size: 95200
+Filename: enigma2-plugin-language-el_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Greek
 OE: enigma2
@@ -1630,15 +1637,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-en
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-en-en
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fb401fe35e393b9bb2a6d795dc3e96d9
-SHA256sum: 4a9aa2242f29e03b0812527e234939deb5c61d085390ddb19bb7f96f6981549d
-Size: 28668
-Filename: enigma2-plugin-language-en_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: b05cbd211a62192903778b41b165295b
+SHA256sum: 207115698f2e17485d198d3746e601d8efff377784bcd65890a4431dd556871a
+Size: 28694
+Filename: enigma2-plugin-language-en_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: British English
 OE: enigma2
@@ -1646,15 +1654,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-es
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-es-es
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b1dc8e13f48a7132cda4838961b1fd24
-SHA256sum: ba6f9f5439a00aa0cecdd23627766edd02549de15750ab953ba7cc86d361a139
-Size: 87298
-Filename: enigma2-plugin-language-es_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 21ec4a91a19bd96f8c2c6c59d76128df
+SHA256sum: f83f49be5da3283ff72b122988a34163d60950be1052b7cd39b4d8662c8a6f21
+Size: 87330
+Filename: enigma2-plugin-language-es_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Spanish
 OE: enigma2
@@ -1662,15 +1671,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-et
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-et-ee
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d38d9e3dc1f20b5b1967b4bc9501c64b
-SHA256sum: a4eb32d9f5d201735f7d15bce9bf53f1c03386c680e79882d4fe8ed0ef7b4287
-Size: 73700
-Filename: enigma2-plugin-language-et_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: a0354b1777404a2aec0002dea7a82149
+SHA256sum: 5eb8695506164fdd7988d7b88601b0ab227f76b51d5983bdf0eaef2ef8a512df
+Size: 73718
+Filename: enigma2-plugin-language-et_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Estonian
 OE: enigma2
@@ -1678,15 +1688,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-fa
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-fa-ir
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 01e6850a14622d76d2c6f8b9c9b6e1d8
-SHA256sum: 2f589edd94a03b5739c6d375b6e18d7525b0e86e659718ab8c8d0d544d0b204b
-Size: 22918
-Filename: enigma2-plugin-language-fa_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 13b6e59f70e3d8c2e0c5aa84b8cc6ddf
+SHA256sum: dde260e67f44582847126ad5c26c9d7f6cee5cfb1f63604ab8b366b4adff2202
+Size: 22926
+Filename: enigma2-plugin-language-fa_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Persian
 OE: enigma2
@@ -1694,15 +1705,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-fi
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-fi-fi
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d96540fe5d3a56652716ecbf175bd5ba
-SHA256sum: 2eb787213f0d3f5c8e24a348d1c15535f70f24c7f20116a5937871f8680ad47e
-Size: 69776
-Filename: enigma2-plugin-language-fi_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: cc04fb9dfc21e51cb58e2bc1022b3bb7
+SHA256sum: 1a196963d775549c6bbeedd880152b9028ddd7ed423545834098ac0860986d4c
+Size: 69814
+Filename: enigma2-plugin-language-fi_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Finnish
 OE: enigma2
@@ -1710,15 +1722,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-fr
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-fr-fr
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a79ccd546cf078f091da6c59be737f10
-SHA256sum: 09403407099af4befd908c208b53392f55b73faad46c1c7e8e10725368c85c0f
-Size: 88798
-Filename: enigma2-plugin-language-fr_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: c5e513f46fbd8e3ae24dd85995f70236
+SHA256sum: 62d38979111689fdf8bb4364edf24c64f4e3abfcf0a8cc7d18ee49ede899c647
+Size: 88806
+Filename: enigma2-plugin-language-fr_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: French
 OE: enigma2
@@ -1726,15 +1739,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-fy
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-fy-nl
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 83e09410b3bf3210fdb36d281e13920a
-SHA256sum: aa1c8bc5a7beb5c16fdd76c27e54b67ca644b45c94d2081112984bc12dcdda6f
-Size: 16254
-Filename: enigma2-plugin-language-fy_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 64de7a957fabfe1a466b4f9b04082144
+SHA256sum: 72d7d26922e40d6d84972db8c79056c455ba888e29b424d76357ed10b0661695
+Size: 16262
+Filename: enigma2-plugin-language-fy_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Frisian
 OE: enigma2
@@ -1742,31 +1756,33 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-gl
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-gl-es
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ab28869809fad25e5c5852b6a852c6ac
-SHA256sum: 8b6db9cac2747ad2eb2ca40335c60773ccce83c91d892642474a028640ac5020
-Size: 85918
-Filename: enigma2-plugin-language-gl_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 49e93cf3fea83f7ca0b6d1b14a6f894e
+SHA256sum: cad0b9198e0ea490e9b7aaf58a8c4807763c621424a4377e9edd9da04e35f2bb
+Size: 87162
+Filename: enigma2-plugin-language-gl_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
-Description: gl
+Description: Galicia
 OE: enigma2
 License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-he
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-he-il
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b0302301f4a1e8150b2340fddecb2491
-SHA256sum: ef220fa0cc905f894555d44d2c5e764a9e39732578953c662cdacdef66284aa0
-Size: 16664
-Filename: enigma2-plugin-language-he_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 57e5a07ffcf8c0168df7def9cb7fe7c7
+SHA256sum: c0619677b653d58cca5e76699b50f5d24a63d06d91a3449482e5802fed1733ab
+Size: 16678
+Filename: enigma2-plugin-language-he_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Hebrew
 OE: enigma2
@@ -1774,15 +1790,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-hr
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-hr-hr
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 25a47557c1b4b08c221bdcfe4c2a1b6a
-SHA256sum: 41ef6cc7b3be609b72cbe8cb20cf3546f5aa9147d86af52c238f2f868eb8e010
-Size: 88118
-Filename: enigma2-plugin-language-hr_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 8f9ae7e92afe1b90fd2adfc34b5bdf0b
+SHA256sum: b6bcbb05f5d45534eb60e669d876f96961e193edce8f98cbaabe7663cb086478
+Size: 88130
+Filename: enigma2-plugin-language-hr_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Croatian
 OE: enigma2
@@ -1790,15 +1807,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-hu
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-hu-hu
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ed1cc77e35924320968327f8c8847e55
-SHA256sum: fa4a53f93d78b5b0b5ecfe50dfc8bca9fed1b54416bd0d63502946cfa9b3c329
-Size: 88400
-Filename: enigma2-plugin-language-hu_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 526e5894f4b28a6d9dfc2ba84567f134
+SHA256sum: 03e0ab737b3658a2e84999fd5da601ae66c1978ea711ae3da844f9d42f9d780a
+Size: 88436
+Filename: enigma2-plugin-language-hu_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Hungarian
 OE: enigma2
@@ -1806,15 +1824,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-id
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-id-id
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0c0f38384a4e0da35c93c021c713edd4
-SHA256sum: bc5dba43806361c7d1103ad1f24d71ed8f8f93eb1104dd7896b55d3a0502d974
-Size: 74398
-Filename: enigma2-plugin-language-id_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 74051daab650721ab626a53ca942910b
+SHA256sum: a027ea94038d2a731296bd432854a277ec701936b57d5785cbf19dfd83154a16
+Size: 74428
+Filename: enigma2-plugin-language-id_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Indonesian
 OE: enigma2
@@ -1822,15 +1841,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-is
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-is-is
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 11a828b532dad43fe93fe56a86bd9657
-SHA256sum: 60696bf4551e7e15d08e9c25dd2a3b5966b51166bdc3930a439546ea4b11d77a
-Size: 22516
-Filename: enigma2-plugin-language-is_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 8ef1f1f742594d56af40448c8bcacc54
+SHA256sum: bb5e2990e49882766984049b6d5cadd1f89b469d88e5ad6ba3f40f202f856f27
+Size: 22532
+Filename: enigma2-plugin-language-is_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Icelandic
 OE: enigma2
@@ -1838,15 +1858,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-it
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-it-it
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9db2ea4617babca88d863200c2dc8c46
-SHA256sum: 43f8a87417e64ba53de3b2718d6be53081676d3418ea5b23d31f6b80cf34c059
-Size: 80658
-Filename: enigma2-plugin-language-it_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 27d75997d62bdc830ce19b41554b6a61
+SHA256sum: bc114e32dc2f3ce6295359e09f2aced8cdbfab0bd61fb4e2575910b52df4fcbd
+Size: 80668
+Filename: enigma2-plugin-language-it_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Italian
 OE: enigma2
@@ -1854,15 +1875,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-ku
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-ku-tr
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1269bed557b5ac53a23c38663d591d4a
-SHA256sum: 1e04c76e91908b923d2e46a396bb1a0dfe6719c558352aecf3bf66505a17bbb8
-Size: 29436
-Filename: enigma2-plugin-language-ku_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 8434d779da5e7e4bdade49693ca93414
+SHA256sum: 8bcd52d98e230291550aeee5392d2ce7e232c23c664639302d1c0c6d89e550f4
+Size: 29460
+Filename: enigma2-plugin-language-ku_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Kurdish
 OE: enigma2
@@ -1870,15 +1892,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-lt
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-lt-lt
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 938a9e46b74f15501d5c6c45b1d2af15
-SHA256sum: 0f84d4bbecb5fdd814713982a24dd1912a76985510de1bfe5dcc67e68c50c949
-Size: 89998
-Filename: enigma2-plugin-language-lt_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 63459457ed85b9eb88d3ba6ed9ea0107
+SHA256sum: a086e41ffea5bd1626d819e6a3b99ad05d9eec3a258305c49f6ebfebbf65c368
+Size: 90020
+Filename: enigma2-plugin-language-lt_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Lithuanian
 OE: enigma2
@@ -1886,15 +1909,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-lv
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-lv-lv
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 51403f1ddb75244154a819598423fe36
-SHA256sum: a62d720cfab790828e834faacc99ca7990825faaeae31a3f4ff0d4cc037e262b
-Size: 85364
-Filename: enigma2-plugin-language-lv_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: a36ddef6b54262fd22a2ae4c4c4b1f85
+SHA256sum: 41a9b4a86f2c088cec2ad48f53f3b08ea16d4d55ecddea6bf20a5c88312c47a7
+Size: 85386
+Filename: enigma2-plugin-language-lv_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Latvian
 OE: enigma2
@@ -1902,31 +1926,33 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-mk
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-mk-mk
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 441229f93b80735c4beea0897e3ceb09
-SHA256sum: a436e66337e54cb5b80f5de89b1bf5e70706f7f4ee00394c93e12e636fc2d2fa
-Size: 92896
-Filename: enigma2-plugin-language-mk_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 598b2847687b2255f581393839203d1f
+SHA256sum: cb9063f6e8d25e5befaf21543e09638dba5742a21910b1b517722752df093e64
+Size: 92928
+Filename: enigma2-plugin-language-mk_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
-Description: mk
+Description: Macedonian
 OE: enigma2
 License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-nb
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-nb-no
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e123786c147677909cff0ef584d87c7a
-SHA256sum: 5847d51f8e03994e069dd1d62211f7ce573e440612438e3dcefd3a0a458483e0
-Size: 84090
-Filename: enigma2-plugin-language-nb_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 6ff92aace03c93d9d534b346ecd5fd2c
+SHA256sum: 348fb4281ae1dcc2e803f4a186793bc7fb0495c52e139e93fc4f3aa8ded38659
+Size: 84104
+Filename: enigma2-plugin-language-nb_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Norwegian Bokm
 OE: enigma2
@@ -1934,15 +1960,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-nl
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-nl-nl
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d54f074085a61ee5d59f9c15d743eb44
-SHA256sum: a40336d9f0f1fe12a67a2ac5cad687efc6288c6965d85fe7de8811f784ee63b7
-Size: 90922
-Filename: enigma2-plugin-language-nl_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: aba492f07126c2f7294816129a4adae1
+SHA256sum: 02ca7fa0dfd1b7e56a17a6efe9867247df9f83bdfe7fe4c5f8890959be577a61
+Size: 90968
+Filename: enigma2-plugin-language-nl_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Dutch
 OE: enigma2
@@ -1950,15 +1977,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-nn
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-nn-no
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f3341c32faab80f8aa951b23287df4d6
-SHA256sum: f2881f13d304308c6ca13747ab34189966ff2c996b8763a0dbc0f70af190414d
-Size: 44484
-Filename: enigma2-plugin-language-nn_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 08808cba89d2dfa31050d930a2b032b2
+SHA256sum: 5ae68dbab9305fe6ec7da38810980055755d2b57887f62f3bea438162b915d81
+Size: 44506
+Filename: enigma2-plugin-language-nn_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Norwegian Nynorsk
 OE: enigma2
@@ -1966,15 +1994,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-pl
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-pl-pl
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e2d09d36d210deb1521bb21fcfd74e6a
-SHA256sum: cf5ea3f122de8024f1cd05801e7f3056cb548cbba62a1eca64f69d0f3cf720da
-Size: 84014
-Filename: enigma2-plugin-language-pl_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 5fbdea4b59d09a96044bbbb0197fc729
+SHA256sum: fda9a7deb38023b310218f2cc57902f8a6392bc7b359c66245f3cb778b043eaa
+Size: 84032
+Filename: enigma2-plugin-language-pl_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Polish
 OE: enigma2
@@ -1982,15 +2011,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-pt-br
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-pt-br
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b652d9b3dd775f277f36a7886e4ea77e
-SHA256sum: 91edd7113b0fd41d820db9a40822f2fe7cb5cc923bf086bb2bdda84165c2c45b
-Size: 44218
-Filename: enigma2-plugin-language-pt-br_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 52fd2c30a7e6e234f53c31081b30f3d5
+SHA256sum: 369216bfcec2abb603430e11691cd235c8c9f51926ee618e6ffb6696d5625d18
+Size: 44244
+Filename: enigma2-plugin-language-pt-br_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Portuguese-Brazil
 OE: enigma2
@@ -1998,15 +2028,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-pt
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-pt-pt
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 980618f242920b40a4d8fa753eb1e1a8
-SHA256sum: 5c2b953b28ad8f096e77ba9dc130f94146e81fe7394633e3daf5b4fa21161922
-Size: 41578
-Filename: enigma2-plugin-language-pt_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: de2ff0e683661adc6eff810f3c9b23e5
+SHA256sum: 647a3ad07bd5ea55ace6214ad372e68abee8cfd51e11c7add84de19a54e9c050
+Size: 41684
+Filename: enigma2-plugin-language-pt_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Portuguese-Portugal
 OE: enigma2
@@ -2014,15 +2045,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-ro
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-ro-ro
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8bc8f10c37e5841393d7061713bf7a24
-SHA256sum: 1115951d94bbda1125799134afb445674ae660bac768c8b9785508b1db7f333e
-Size: 17480
-Filename: enigma2-plugin-language-ro_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: c0fe8363220422e2a10cbdbaafe03f0e
+SHA256sum: d968f7290ea6ebb9f2d60173ec78f809057364064486b9be87613f3c00d45a59
+Size: 17528
+Filename: enigma2-plugin-language-ro_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Romanian
 OE: enigma2
@@ -2030,15 +2062,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-ru
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-ru-ru
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7eceed385af392e22bf0416e575a24ca
-SHA256sum: 69a5e068e2f97227af9ab2f23a2f0f828f37a5aef23271de1f2a9ca5af2dff54
-Size: 93298
-Filename: enigma2-plugin-language-ru_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 7684d296e8b4a7cbfa48a0d61ee07ba7
+SHA256sum: 56c6b298b2bab63d4ba7f860b7f132150a0fc46a527783f1c4a9ad66f716ba82
+Size: 93304
+Filename: enigma2-plugin-language-ru_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Russian
 OE: enigma2
@@ -2046,15 +2079,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-sk
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-sk-sk
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 92807414b0f083424256dbde07302821
-SHA256sum: 3078aaf76a7e1b49f445273c38c32ab4f3356169842af712fcc99a9560cc815f
-Size: 89414
-Filename: enigma2-plugin-language-sk_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 34371dc6a7c11ee9e0bf802606c1257c
+SHA256sum: 0820c9b491022262917b9fd75e49ebc6cda7e5a0630a8f793d1fefc717e4fbff
+Size: 89438
+Filename: enigma2-plugin-language-sk_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Slovak
 OE: enigma2
@@ -2062,15 +2096,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-sl
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-sl-si
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3132bdf8ce80250ecf718628606ecfaf
-SHA256sum: 912758477031bca77b8ca987e4f911da01f9bed538aa94c8c89309041c5d5190
-Size: 50756
-Filename: enigma2-plugin-language-sl_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 91bb863f299e66033760e796b0246aa7
+SHA256sum: ee6a355f31cd31534c4dd715840114912acf8591781304393b391fd4857dad1a
+Size: 50664
+Filename: enigma2-plugin-language-sl_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Slovenian
 OE: enigma2
@@ -2078,15 +2113,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-sr
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-sr-rs
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2e59ef857675820cb299b9705a826778
-SHA256sum: e26c1e6b23fc1f4ff2befede6ebe90e2ee0bb80301f1fe3426908f5b4b1f63ca
-Size: 22784
-Filename: enigma2-plugin-language-sr_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: ae5acda6be292dfbc41d36c2af46a269
+SHA256sum: e6cb022fc125fdb074ff4526d14ac21aaaf20dd1595b2bc9886edb292c602904
+Size: 22798
+Filename: enigma2-plugin-language-sr_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Serbian
 OE: enigma2
@@ -2094,15 +2130,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-sv
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-sv-se
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a8db6698ce7d926ae98b76862d6493ec
-SHA256sum: 469d228afd029e77ab6019234158e9db71e7d1666c320fa6a7b865a501dc9708
-Size: 59134
-Filename: enigma2-plugin-language-sv_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 2dc13ea638e5ea9dee7058aa0d092bfc
+SHA256sum: 4c8ecce6e8f84421f5a2f41e48eac148a658af2f91b203554b99b2003de7e2f8
+Size: 59162
+Filename: enigma2-plugin-language-sv_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Swedish
 OE: enigma2
@@ -2110,15 +2147,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-th
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-th-th
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d9e29ac0c69c20abd7a3d331f65db877
-SHA256sum: 12bcc6eae481bef0ce7cb24e7131ded0d2ddd768b75f770930e1271a821b20de
-Size: 21012
-Filename: enigma2-plugin-language-th_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: d9d24adf8ee42e130559974b09913fcf
+SHA256sum: dfd7b198695540d15a7f7d58223e63d68fc23d15415651841024c5e83bf43242
+Size: 21028
+Filename: enigma2-plugin-language-th_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Thailand-Thai
 OE: enigma2
@@ -2126,15 +2164,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-tr
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-tr-tr
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b8568b90cfc003f947e1750969ec6553
-SHA256sum: 5b05ee6c15f62ac97ef94f123ead00b38d8571e4bbb33f76d3646d47e7474498
-Size: 56998
-Filename: enigma2-plugin-language-tr_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 5bfec2da05809329e107dabc2e0b95bd
+SHA256sum: 67cb06907b3e7d5e5af3f01ec20d3fa78fcee07f7fd402bf293fc8a417376d61
+Size: 57038
+Filename: enigma2-plugin-language-tr_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Turkish
 OE: enigma2
@@ -2142,15 +2181,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-uk
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-uk-ua
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4f10fecb29bff5278c025f87019fdf6b
-SHA256sum: c31b22be462de9e93d70db0b615f0fd07259898e08aa690670228a5daf9e94fd
-Size: 95264
-Filename: enigma2-plugin-language-uk_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 97c19971b2022ba08fb6bd5b11a70840
+SHA256sum: 28da20b248fc24f4984ae559caf44c89c805a8330bb9b3df107f99c2e991ff9d
+Size: 95270
+Filename: enigma2-plugin-language-uk_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Ukrainian
 OE: enigma2
@@ -2158,15 +2198,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-vi
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-vi-vn
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ce684673977c8f82e73d0a005736e0a3
-SHA256sum: 088be019198f4feb4174a49febdf228937bbcff530fcf3b87da029536038d022
-Size: 87108
-Filename: enigma2-plugin-language-vi_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 89022205e3b44085df61515c3a62cafd
+SHA256sum: ee6792bf106eeea9c745609938d437e5ae7b85a3bf71076b856c092658f0f4e8
+Size: 87126
+Filename: enigma2-plugin-language-vi_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Vietnamese
 OE: enigma2
@@ -2174,15 +2215,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-zh-cn
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-zh-cn
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1f6727cfa9300375b0d05bf1bb86a8c7
-SHA256sum: f990f838b51b6d51fabef41d840e01f3c591c4a5b0eedd06e36443193e4a7e17
-Size: 84686
-Filename: enigma2-plugin-language-zh-cn_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: c0c5a7ec7a625c5a9e7be23af8f45b08
+SHA256sum: 899ade27cc27ab420add2e8311d23a7114d7b51a98634bf4361d836f01b6cc8b
+Size: 84684
+Filename: enigma2-plugin-language-zh-cn_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Chinese-China
 OE: enigma2
@@ -2190,15 +2232,16 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-language-zh-hk
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: enigma2
+Recommends: enigma2-plugin-glibclocale-zh-hk
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0b18b157083aa1e930fb7bf4a449bc5b
-SHA256sum: 76ad93c247ed6d3aeb4aeab15557c8009ae031be1da2e78be5d44bdc9c8cf0ea
-Size: 20804
-Filename: enigma2-plugin-language-zh-hk_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 134982f7e032b39f4e160d30acba6e16
+SHA256sum: 2e0c5c403479916a35b84a8fd89ad78b6ea1da961599f0e0410269003c4b4176
+Size: 20798
+Filename: enigma2-plugin-language-zh-hk_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: Chinese-Hong Kong
 OE: enigma2
@@ -2559,14 +2602,14 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-cablescan-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9278285282d710b1e9755f5f88097978
-SHA256sum: 6bfd192268b5009d9d18208a8781c0db5aaa81c1bdeefc21f747c537b29b0b9a
-Size: 3896
-Filename: enigma2-plugin-systemplugins-cablescan-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: f0c615083563cf5bdeee3db74dbd4e88
+SHA256sum: ec5781b19086ad54b85e2d758a2ba8cd082281b01c2e1b3fdd5857d254b7f254
+Size: 3892
+Filename: enigma2-plugin-systemplugins-cablescan-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-cablescan (sources)
 OE: enigma2
@@ -2574,14 +2617,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-cablescan
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f388c4a45a8a387977584ae63ba4a003
-SHA256sum: ad4c2bccd3930306d3a5fb6e9640ff2d1e80db3069599badcd0c0dea9a6cc508
-Size: 5778
-Filename: enigma2-plugin-systemplugins-cablescan_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: d5bea42597c1233f06a6c7a776c8a385
+SHA256sum: e464352aa8603d7f165ff639ed05ca9f8959f6cee8170820f64ae8b9a24c0be8
+Size: 5770
+Filename: enigma2-plugin-systemplugins-cablescan_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-cablescan
 OE: enigma2
@@ -2589,14 +2632,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-commoninterfaceassignment-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0ab8aaa2f6ab51e15346a5bbe2bff98f
-SHA256sum: 660653206d479feed67d009c6513920f6697110861dd7a078c3bd33ebc4bad81
-Size: 6200
-Filename: enigma2-plugin-systemplugins-commoninterfaceassignment-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 4aaffd221b2707bda587428f32afea95
+SHA256sum: 7c2dbe5cd2d38e51726fcfbdbbc4f40c06d94063e20487e4055c4a1aff0fd889
+Size: 6196
+Filename: enigma2-plugin-systemplugins-commoninterfaceassignment-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-commoninterfaceassignment (sources)
 OE: enigma2
@@ -2604,14 +2647,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-commoninterfaceassignment
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 121a55b843b23548ad36d01ade17cea9
-SHA256sum: 216add446432b7292a267105df26eeff2a42696523916a354efc6940fb8f3110
+MD5Sum: 9d1dadc5594bb3219c31a1543c5f6b08
+SHA256sum: 4d1584ca603e81659741c788a4172dcd6eba6d83bb7dd39f54af6cea36fa2e7a
 Size: 9520
-Filename: enigma2-plugin-systemplugins-commoninterfaceassignment_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-systemplugins-commoninterfaceassignment_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-commoninterfaceassignment
 OE: enigma2
@@ -2619,14 +2662,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-defaultservicesscanner-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 413c5df3fc3724bac284426166593d1d
-SHA256sum: afe4e61a9d1e0278130cf2b0d7d0f2203e5a6975b049b47904b236be192b57d8
-Size: 2566
-Filename: enigma2-plugin-systemplugins-defaultservicesscanner-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: b3d6671828ba37e235b3d684bdde011c
+SHA256sum: 87edd65b71f613eb25757289ee52690a37e5efe417cee894cc4f1d6f3132d6fd
+Size: 2564
+Filename: enigma2-plugin-systemplugins-defaultservicesscanner-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-defaultservicesscanner (sources)
 OE: enigma2
@@ -2634,14 +2677,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-defaultservicesscanner
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0391402e30dc27f0c12dfc696c42d4d8
-SHA256sum: e3ddb6e653896ac88f7dfbd8898c20930b2bc6241a6313a32101075b6ae64fbd
-Size: 3360
-Filename: enigma2-plugin-systemplugins-defaultservicesscanner_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: a6392b018f2d46e859201259ccf703ce
+SHA256sum: 3da84470b0252621a75a5f77b9352f62e830d72e312d4f4e6df100ceaeb9e281
+Size: 3354
+Filename: enigma2-plugin-systemplugins-defaultservicesscanner_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-defaultservicesscanner
 OE: enigma2
@@ -2649,14 +2692,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-diseqctester-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3f3fcabae1f88271415703f7f0efdbd3
-SHA256sum: 1b397b09b5c16fb63be51c41c62299bd848039763ddbeab2a077f8a3194016f8
+MD5Sum: abff20da847c3fe185f472a0981615df
+SHA256sum: d0742e57126a8776a6ee29514c6b8792bd71a7a6cc2a2dbadd15c8a5a98f489e
 Size: 6106
-Filename: enigma2-plugin-systemplugins-diseqctester-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-systemplugins-diseqctester-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-diseqctester (sources)
 OE: enigma2
@@ -2664,14 +2707,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-diseqctester
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 756a991142d7b2c6a8c28e4cb85fd48c
-SHA256sum: ddaa0720fa7eb9c659a724d9c79297409b24e4eebedc04aa7e54d6582e8a889e
+MD5Sum: defc5183a85fb41e5f57fb5c5410113f
+SHA256sum: 9131c222280d40c56e78e7102f3ec71599960add9aa45cd144dc7f1c98af875a
 Size: 8500
-Filename: enigma2-plugin-systemplugins-diseqctester_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-systemplugins-diseqctester_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-diseqctester
 OE: enigma2
@@ -2684,8 +2727,8 @@ Recommends: exteplayer3, ffmpeg
 Section: base
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3fb6aa2f7af5d21ed6bca7c4be2510aa
-SHA256sum: f49b8e92e08e21a264b5d44443c2db913317e83d7d37b89c800fd00842661e0e
+MD5Sum: 80395dc741ce041fc0edf8968d59a855
+SHA256sum: 712a2cb420ffccf73b82cd37d4dc639ae9b3a1d2fca31ef98b49c4dd403067c2
 Size: 656
 Filename: enigma2-plugin-systemplugins-exteplayer3_1.0-r0_dm800se.ipk
 Source: enigma2-plugin-systemplugins-exteplayer3.bb
@@ -2695,14 +2738,14 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-fastscan-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fb2fc68e9ab95170680795da3073795a
-SHA256sum: a169c49f907372f7e5c2e9e8357b61b58f9f13ca493e7059c65ba3fee1840983
+MD5Sum: f1eadbbb821cc1fa0a84cc63d6d41270
+SHA256sum: 68204c4837c2163e755f3cc5f2a37d8636bedab9e2c4acb3ed2a38074edd4e51
 Size: 4878
-Filename: enigma2-plugin-systemplugins-fastscan-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-systemplugins-fastscan-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-fastscan (sources)
 OE: enigma2
@@ -2710,14 +2753,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-fastscan
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 202a1010fcf60bdff7cb3e40c4089f83
-SHA256sum: 3a25321cb8a26176c14d38e73360a9ff16c7d0a8c0414b4307ad50f8de60dbda
-Size: 7380
-Filename: enigma2-plugin-systemplugins-fastscan_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 925d4a05e13777df4ca060e672a09f39
+SHA256sum: 067a16a1c26a420e8f20955ac7ce274bcc4085a1973633223e591c4530460593
+Size: 7372
+Filename: enigma2-plugin-systemplugins-fastscan_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-fastscan
 OE: enigma2
@@ -2725,14 +2768,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hdmicec-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a232e1d684a7286dae48af1c13dbbb73
-SHA256sum: 8c9bdff64fa1b7eb90ded2f49f7a89d6afe47029562a29e47e8469ed534007da
-Size: 3192
-Filename: enigma2-plugin-systemplugins-hdmicec-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 846772095497c62837529ed0b7147aa4
+SHA256sum: 727a20bdde89dbc050d39987f2d3f5c1d57850d199220c08a3d0ebbac20c965b
+Size: 3188
+Filename: enigma2-plugin-systemplugins-hdmicec-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-hdmicec (sources)
 OE: enigma2
@@ -2740,14 +2783,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hdmicec
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: cf64c55df3ea621867ebaff127bcd4a5
-SHA256sum: 6f402ea48940a2f95501a1a8acd86342c7d69ff37e65e24e8eb40eb319bfedc8
-Size: 4362
-Filename: enigma2-plugin-systemplugins-hdmicec_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: d98b419849f150606fb9f60c49478a68
+SHA256sum: b279947b74dcd14d50679f00579db047c3f0475a5269b9eb81140f4623c230e4
+Size: 4352
+Filename: enigma2-plugin-systemplugins-hdmicec_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-hdmicec
 OE: enigma2
@@ -2755,14 +2798,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hotplug-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2e290d29f123488f62bcb76dbef62477
-SHA256sum: 005168863e4d84c8aceada58e1f9237f4ecc3907b4d8dbe32cfd7d37f21ce9e9
+MD5Sum: d0f80d17258f74b18f91056f79a88a4d
+SHA256sum: 5c6be1b7f65b158fd5cd07133572038b06351581a495802afc34d79a449bb59c
 Size: 1974
-Filename: enigma2-plugin-systemplugins-hotplug-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-systemplugins-hotplug-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-hotplug (sources)
 OE: enigma2
@@ -2770,15 +2813,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-hotplug
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: hotplug-e2-helper
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c7401095b549224ae855884f542ad782
-SHA256sum: 36a9c7c511e98d5159c75c214a98ecfbcdbc45ea188a37551f32cda81aece756
-Size: 2512
-Filename: enigma2-plugin-systemplugins-hotplug_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: b9e407b56a5baba2199ee1ba6b12a998
+SHA256sum: e4859186c06ba77f086206afc1e5af3195596d0d8def90bcea1901e409fe70df
+Size: 2504
+Filename: enigma2-plugin-systemplugins-hotplug_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-hotplug
 OE: enigma2
@@ -2786,14 +2829,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-networkwizard-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a85e92d5bf35086a8d130596aa021365
-SHA256sum: 907c5ee7c7cae5c4475e39715b435980aecf4f00a08caf481684a446caabc91d
-Size: 4228
-Filename: enigma2-plugin-systemplugins-networkwizard-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 0ecd7e64b282441ef54a90eef325a279
+SHA256sum: d8d65e8df10c9c47b76b85422d1340f26d1176ad740ada6597398c354c4f10d0
+Size: 4230
+Filename: enigma2-plugin-systemplugins-networkwizard-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-networkwizard (sources)
 OE: enigma2
@@ -2801,14 +2844,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-networkwizard
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 21a7aadd6e2cc799e2888b97623e2be2
-SHA256sum: 519a1bf134a093bebdd31d765d422fd46a583a70ffb1925a82aa63d13a16aedb
-Size: 7290
-Filename: enigma2-plugin-systemplugins-networkwizard_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 05477988d27458c370b6fc24aed0f0e2
+SHA256sum: a7b19226ff59771aa1ba5befc0e2c916f2ca4f67e26c43614d60a155eb31e4b8
+Size: 7282
+Filename: enigma2-plugin-systemplugins-networkwizard_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-networkwizard
 OE: enigma2
@@ -2816,14 +2859,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osd3dsetup-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e90cfdf7a1b6796f71e860166396d410
-SHA256sum: f125ec26b27f6b37aa866239234a24b918ce54aa384fbfef93618133f983f072
+MD5Sum: 4c40fbc5f359c88318722355f3d9df6a
+SHA256sum: b00e0fea3a68f357b5bebb385010c1ca92a50c03a52fcf6e133090bd1534ee63
 Size: 2450
-Filename: enigma2-plugin-systemplugins-osd3dsetup-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-systemplugins-osd3dsetup-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-osd3dsetup (sources)
 OE: enigma2
@@ -2831,14 +2874,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osd3dsetup
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 365cee8abe902aa19b2f6a6aa6bad94c
-SHA256sum: 65d2536bafadbfb1ac6aa098c80f9b9ef8152f9e2ed2e26784f47fce9b2fe8a6
-Size: 3446
-Filename: enigma2-plugin-systemplugins-osd3dsetup_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 9223cd57d52019cddcc7a484666b9c8c
+SHA256sum: 4935f629473ef0a99ec83dca4226535d65ed7bfe87c6ffd22253c7e88c457760
+Size: 3444
+Filename: enigma2-plugin-systemplugins-osd3dsetup_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-osd3dsetup
 OE: enigma2
@@ -2846,14 +2889,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osdpositionsetup-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 53c4e18b37236aa7f3dba9001ed139cc
-SHA256sum: 415f51dd7ec55850763860a002c590a2320087f3ec15c21985985d9507dee545
+MD5Sum: 0fd779469a1d8ae2d52c67588b80697a
+SHA256sum: 7c3278b95f6d6cdd2698573ef8d916e49159b9cfb7a0c4918664876de51efeaf
 Size: 3828
-Filename: enigma2-plugin-systemplugins-osdpositionsetup-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-systemplugins-osdpositionsetup-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-osdpositionsetup (sources)
 OE: enigma2
@@ -2861,14 +2904,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-osdpositionsetup
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b37ef56a5e01d5e6d145dfc2566011a3
-SHA256sum: 5dc2560ffd3718f95b5dd76557e38d57079880e785d013a241e44cc6145f30a2
-Size: 5162
-Filename: enigma2-plugin-systemplugins-osdpositionsetup_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: bc610ae50c07dd29f84e514d53d8aa65
+SHA256sum: 115af95945077573d7e453556ebcfc3c363749a7bd3e305fb93045141939da48
+Size: 5154
+Filename: enigma2-plugin-systemplugins-osdpositionsetup_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-osdpositionsetup
 OE: enigma2
@@ -2876,14 +2919,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-positionersetup-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e9e04112a2b54818dcc5da6559ea8738
-SHA256sum: 8c41c2a5a1671a0b06c683767624605c071a2946a763860e74f243fb8736cbaf
-Size: 15214
-Filename: enigma2-plugin-systemplugins-positionersetup-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 63b787b28d8b247e9afaf87ae5f30891
+SHA256sum: 2adb7c2b1245d09761f9fdbd51f079c6bde03beb87f23300caf52668917d0a9a
+Size: 15212
+Filename: enigma2-plugin-systemplugins-positionersetup-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-positionersetup (sources)
 OE: enigma2
@@ -2891,14 +2934,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-positionersetup
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0a4d1643ccadf5797de87ea17348a821
-SHA256sum: b91fd6cde108878a0d32c0e41dcc7bf3871e7de324b9d00ea0d7f5eb68e9451b
-Size: 22484
-Filename: enigma2-plugin-systemplugins-positionersetup_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 8eb0c880d4b7d58d21f59f39314b51fc
+SHA256sum: 717e5ef83a49f76c1ad4a6b35c404493f8e348ed75a948f43a18cfd76b6ac3a0
+Size: 22476
+Filename: enigma2-plugin-systemplugins-positionersetup_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-positionersetup
 OE: enigma2
@@ -2906,14 +2949,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7273a3dbeab913a08f9cd17729f3a87e
-SHA256sum: a93e19a83a3e452ddeaaa2629963878b933d959d137d67d8e387ac24a9db4bdc
+MD5Sum: 16b3297c59b796598d425b2b56a1fc1d
+SHA256sum: 7d064b3a8790575d8b7a5a6c43cb221a654172a0bfdb5ac2678f6f8eb9f6ef25
 Size: 2106
-Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-satelliteequipmentcontrol (sources)
 OE: enigma2
@@ -2921,14 +2964,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satelliteequipmentcontrol
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 38e062060d06f33b7f715f89276647aa
-SHA256sum: 49b2a47be87908d18f62431a162761a5fc4b3366ca84afe76b5c3bafaeb0595f
-Size: 2854
-Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: c63c993a5f026738cee80bfd00d18ebe
+SHA256sum: d8b81450a8840fa6a2c3047cd721b82744ae1a5cffc2c4d4f8836f51dcb940c6
+Size: 2852
+Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-satelliteequipmentcontrol
 OE: enigma2
@@ -2936,14 +2979,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satfinder-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 86d58d9e1ef0b52181309fe9694aff73
-SHA256sum: 461c6858e88cb5122934cab81a57d5a415eb94cdd8b3eee885c7367fe576ae84
+MD5Sum: 96a27972aade2ab5e23c71ac6ec8cd12
+SHA256sum: b1837d15d281baf732afde729dbe48a976069de5aa065634afc705af0c55a4a3
 Size: 6102
-Filename: enigma2-plugin-systemplugins-satfinder-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-systemplugins-satfinder-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-satfinder (sources)
 OE: enigma2
@@ -2951,14 +2994,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satfinder
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 427255386084fccdcd5c681e26d3bd83
-SHA256sum: 5080d98cec85d256f4c1b43a2687700ef118ac73a6caf02c9cd736a060fee5e3
+MD5Sum: 12d692ee7766cdfb35cc745e2b862515
+SHA256sum: 38f69e36148abec1afb1ef51e51090890cc82edfde5e4a1a717fe4d263d92a25
 Size: 7974
-Filename: enigma2-plugin-systemplugins-satfinder_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-systemplugins-satfinder_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-satfinder
 OE: enigma2
@@ -2971,9 +3014,9 @@ Recommends: glibc-dbg, libcrypto-dbg, libgcc-dbg, libssl-dbg, libstdc++-dbg, uch
 Section: devel
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f9de40d675967113277066c0f1770401
-SHA256sum: cc9b881e8f50394ada25ce0df2870737b1cbfc1a93d25071325bde209ff5d2de
-Size: 938422
+MD5Sum: 9338e14c12fcfc1278962ae5766cddf1
+SHA256sum: d693662f886bd4323b68a606da9534bf0ad961c3a07726c9023f3d160e900b86
+Size: 938578
 Filename: enigma2-plugin-systemplugins-serviceapp-dbg_git188+1da3437-r0_dm800se.ipk
 Source: enigma2-plugin-systemplugins-serviceapp_0.5.bb
 Description: serviceapp service for enigma2 - Debugging files
@@ -2988,9 +3031,9 @@ Recommends: enigma2-dev, glibc-dev, libcrypto-dev, libgcc-dev, libssl-dev, libst
 Section: devel
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3fa506f7ac56d61f3cb8a9015108a238
-SHA256sum: 51eb1b1b7a9cecf016ddbb8196e21a9a95c3c99a5ababb2913323ae5487314d8
-Size: 5596
+MD5Sum: 54933f5417fc7d5b464355391aa9859a
+SHA256sum: 0dc9aeeb6feeaeebea955c40c128b07fc5a46b5694c35b1ebb9416ba9bf952d2
+Size: 5594
 Filename: enigma2-plugin-systemplugins-serviceapp-dev_git188+1da3437-r0_dm800se.ipk
 Source: enigma2-plugin-systemplugins-serviceapp_0.5.bb
 Description: serviceapp service for enigma2 - Development files
@@ -3005,9 +3048,9 @@ Recommends: gstplayer
 Section: base
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: af874abd92bac716a24f133b34c8da36
-SHA256sum: 274f1ab180062be7e8b6a5793022321ba13fb3396bfe7d91855c7b12e2f77e26
-Size: 94924
+MD5Sum: 0747d0b82ba36a8ef0a5f7dd946ea3df
+SHA256sum: 921a3c89f9724d9121f957fc4831615567672e7f6039a94d37798219376f8281
+Size: 94988
 Filename: enigma2-plugin-systemplugins-serviceapp_git188+1da3437-r0_dm800se.ipk
 Source: enigma2-plugin-systemplugins-serviceapp_0.5.bb
 Description: serviceapp service for enigma2
@@ -3021,9 +3064,9 @@ Recommends: glib-2.0-dbg, glibc-dbg, gstreamer1.0-dbg, libgcc-dbg, libgstaudio-1
 Section: devel
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7a878143c47f990c76245932ad693c9b
-SHA256sum: 229b649e6c77aa69b72c27f931f6bdfd8b046cb68327c681400302cdf301aee7
-Size: 379262
+MD5Sum: a575ba5d71f46108932305125f068901
+SHA256sum: cbe1b949e105d9841c7f48ee108ca10ac782ee1802273ab45fe2a3295155e68a
+Size: 379456
 Filename: enigma2-plugin-systemplugins-servicemp3-dbg_git34+ef97659-r0_dm800se.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
 Description: enigma2-plugin-systemplugins-servicemp3 version gitAUTOINC+ef97659cab-r0 - Debugging files
@@ -3038,9 +3081,9 @@ Recommends: enigma2-dev, glib-2.0-dev, glibc-dev, gstreamer1.0-dev, gstreamer1.0
 Section: devel
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 15e567b4f86fbd1f6a0e0019b1f03f6e
-SHA256sum: 4ee4f8528fbcdf9f5844eb159862fc04e180c6902a32977fae781c208ba10132
-Size: 1146
+MD5Sum: 1b376b531b5798844199dc53402aa2dc
+SHA256sum: ee4b249914cf4d13133da50a507f4ba2a09c23ceb2e88da8240914f1d485423e
+Size: 1148
 Filename: enigma2-plugin-systemplugins-servicemp3-dev_git34+ef97659-r0_dm800se.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
 Description: enigma2-plugin-systemplugins-servicemp3 version gitAUTOINC+ef97659cab-r0 - Development files
@@ -3056,9 +3099,9 @@ Recommends: glib-networking, gstreamer1.0-plugin-subsink, gstreamer1.0-plugins-b
 Section: base
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c518c03b47e537c186a3487c25e164f3
-SHA256sum: 9e4d61cf637da392bb9bd16f29313719a9e16e850e751bddca6b60b93fe4ec04
-Size: 44482
+MD5Sum: c82dfc7a31ca15e649d2e6f46d1168e6
+SHA256sum: fdbeaf5bea0fc538a363562eb95f4300277cb0a03918ec2dc4142389d9a84432
+Size: 44480
 Filename: enigma2-plugin-systemplugins-servicemp3_git34+ef97659-r0_dm800se.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
 Description: enigma2-plugin-systemplugins-servicemp3 version gitAUTOINC+ef97659cab-r0
@@ -3067,14 +3110,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-softwaremanager-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 34d2f4961924816f95b00553d6980f40
-SHA256sum: 3eca75d3589bff0447506008500630c1313b035723e97c40d8e29032ed28ab70
-Size: 16108
-Filename: enigma2-plugin-systemplugins-softwaremanager-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 9d712f9019bd83c4752d2e747468d2af
+SHA256sum: efa35f7aceea444277d68679fb8a632f1ecbdcf9f535f2557917be78340202d9
+Size: 16110
+Filename: enigma2-plugin-systemplugins-softwaremanager-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-softwaremanager (sources)
 OE: enigma2
@@ -3082,15 +3125,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-softwaremanager
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: python-twisted-web
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1a3cbaf998d75f576b560345c214c534
-SHA256sum: 83e843f834905c40613d5d4238c29c48acab1f12d387f9fbeb2e99f807788d21
-Size: 42242
-Filename: enigma2-plugin-systemplugins-softwaremanager_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 860aa5667ef225a7bb6c35b006502d2e
+SHA256sum: ab1a3da4c70fc7ce2d16d8ebfe57a766f70070f942dea3bcf9ec12de8495c6f3
+Size: 42248
+Filename: enigma2-plugin-systemplugins-softwaremanager_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-softwaremanager
 OE: enigma2
@@ -3098,14 +3141,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoclippingsetup-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b6ea92b63207919304035565b4cae434
-SHA256sum: 4a8259c5f50a46b7073ff0797c637f9291098f12dfa277629c00ea546a68d42a
-Size: 2220
-Filename: enigma2-plugin-systemplugins-videoclippingsetup-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: e85743644e213acff738506de3c73265
+SHA256sum: 102d566df8800c395b23a913b9e1a156aaae04542d80c647cc24dcd57c9d56b3
+Size: 2216
+Filename: enigma2-plugin-systemplugins-videoclippingsetup-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-videoclippingsetup (sources)
 OE: enigma2
@@ -3113,14 +3156,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoclippingsetup
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5585a416133ecb7c5b14a84c725a2193
-SHA256sum: 0b4f583cd4bb8aa7190852fe40f6ce2b4130f0848407fd7af280fd9dc07b0c7f
-Size: 2950
-Filename: enigma2-plugin-systemplugins-videoclippingsetup_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: fa5f74006eecaa6bd4eea0b0f8c43368
+SHA256sum: 3515ab28c5958e9bd40fdb2b3ce96547fb5cff9788ad7a916e65dabc200ae2b4
+Size: 2948
+Filename: enigma2-plugin-systemplugins-videoclippingsetup_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-videoclippingsetup
 OE: enigma2
@@ -3128,14 +3171,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoenhancement-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 963efb90fd085b45f6799a10f490a179
-SHA256sum: 104cc8295eb201c4e73707e568cd6b1b8e2b37c1b140bdd73a78e8193743b2cf
-Size: 5410
-Filename: enigma2-plugin-systemplugins-videoenhancement-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: c1784eb5a2f0812be4314e4c4b8dbeb6
+SHA256sum: c43ec4389dad74ce6ff651247e0555e9182e663c766922ffe24970e3c739b8d8
+Size: 5412
+Filename: enigma2-plugin-systemplugins-videoenhancement-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-videoenhancement (sources)
 OE: enigma2
@@ -3143,14 +3186,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videoenhancement
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e6fbc7be353a9c1d49c0dddf325f35c3
-SHA256sum: 9b2f6a3a80e8a14345c5aef6e0ce26f6bfce1d5c1dad3c62b3b0c9d398fe5054
-Size: 8114
-Filename: enigma2-plugin-systemplugins-videoenhancement_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 1e3f125e75d6b090eabe005dd0f2f8fd
+SHA256sum: 392bb898f06c15b4904babc27962f2261493a6064b5584c34b8f972d23cf4be6
+Size: 8108
+Filename: enigma2-plugin-systemplugins-videoenhancement_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-videoenhancement
 OE: enigma2
@@ -3158,14 +3201,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videomode-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0b7223534110ac2b44851a0ab952d029
-SHA256sum: ff05cb49321f807a8be2aaf10a0690eabc91bbff077a8ade9cecc9cf4b8755ab
+MD5Sum: 2e6858072ad1a5b059254b17b5b0d909
+SHA256sum: 12f9baedfeedcb678810ab61a7c13dac310fa82ef00c91675cff0ff32401a53b
 Size: 8322
-Filename: enigma2-plugin-systemplugins-videomode-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+Filename: enigma2-plugin-systemplugins-videomode-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-videomode (sources)
 OE: enigma2
@@ -3173,14 +3216,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videomode
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 65b95c7e4922dca26f0a93ad70fdd701
-SHA256sum: d97a0d09e0a70a03f6b768705a5e24a943230f105bc967b358b7bf3a6e7dfafb
-Size: 57336
-Filename: enigma2-plugin-systemplugins-videomode_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 6a7e1638c415300a5411cc2c6a845535
+SHA256sum: eda3996a4bb3d04f1f6de3acdf147c31ea42d757fae69d3ac2db033da1703a1c
+Size: 57346
+Filename: enigma2-plugin-systemplugins-videomode_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-videomode
 OE: enigma2
@@ -3188,14 +3231,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videotune-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 638f3a3b56351cfb8a4d831d11786d54
-SHA256sum: c7f48c7240aed3c5c08ee89788d70619cdffe9e424757595b36c3532245f09db
-Size: 4454
-Filename: enigma2-plugin-systemplugins-videotune-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: e4bd46843938a5b0b3c5ca37bb5deb6f
+SHA256sum: 6bb529d47f06800ee6ddde029c1bf3d7f99dcac99407c00f7ee38a5f76caa44d
+Size: 4458
+Filename: enigma2-plugin-systemplugins-videotune-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-videotune (sources)
 OE: enigma2
@@ -3203,14 +3246,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-videotune
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1664b27f0053373175ad4a4cc254b49d
-SHA256sum: 6f39b19600d935420870eab014caa4e465f66d6d2d915bacc30cff4715dfb5a0
-Size: 64932
-Filename: enigma2-plugin-systemplugins-videotune_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: ea75b4f16d4a1b027c0092fe8ae55fb0
+SHA256sum: a8116ddb6367c3dc9f92b8b0bf5904b40895619c0f1ed0760a2ef87731278c78
+Size: 64930
+Filename: enigma2-plugin-systemplugins-videotune_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-videotune
 OE: enigma2
@@ -3218,14 +3261,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-wirelesslan-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e398227e8dc9296b716db2b6c950bf68
-SHA256sum: 2eb01b39d40c844327f24bc5b856dce8faa513ddc4abeedd555dba43dd8d24e5
-Size: 7534
-Filename: enigma2-plugin-systemplugins-wirelesslan-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 18028945182f351f8cfb0220ed89da1c
+SHA256sum: d919eff5702ae0603d8b7a15b64c32224947420c841a4ea02db18b5812bdc227
+Size: 7530
+Filename: enigma2-plugin-systemplugins-wirelesslan-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-wirelesslan (sources)
 OE: enigma2
@@ -3233,15 +3276,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-wirelesslan
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Depends: python-wifi, wireless-tools, wpa-supplicant
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b1efef6a06e37b81935a782a2a4201ab
-SHA256sum: c8cd8314e5070953bfd48084f2af6092da27866016ee795bfabccdfe95b76bac
-Size: 11036
-Filename: enigma2-plugin-systemplugins-wirelesslan_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: fa83553f567b33de275f41b215c478e6
+SHA256sum: e94179577b89f1ef143e4b549ee115e8f0aee9df3d317754a4560b31f75ce4be
+Size: 11028
+Filename: enigma2-plugin-systemplugins-wirelesslan_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: systemplugins-wirelesslan
 OE: enigma2
@@ -3249,14 +3292,14 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-src
-Version: 2.7+git20175+78b14cc-r0
+Version: 2.7+git20182+a9a7817-r0
 Section: devel
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0c9491f740f7fccf0211ed0a5120ef41
-SHA256sum: 8d9c1c1daf56e76a5ade5913ec48fd1d143387e7893cddabc211f5b67877be33
-Size: 405034
-Filename: enigma2-src_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 1248a8575c57852be15e932ea8e97c3a
+SHA256sum: 21d0be76712f22dc9e714f200741ff50b86cbb2f19272abba0a5bd78da1ccff5
+Size: 405364
+Filename: enigma2-src_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Source files
 OE: enigma2
@@ -3264,15 +3307,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-staticdev
-Version: 2.7+git20175+78b14cc-r0
-Depends: enigma2-dev (= 2.7+git20175+78b14cc-r0)
+Version: 2.7+git20182+a9a7817-r0
+Depends: enigma2-dev (= 2.7+git20182+a9a7817-r0)
 Section: devel
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4e7a6dd832b768a2c4f0ad07d9e0c57f
-SHA256sum: ddd797c2adb01c82fba022ffe6b84ca19b49cdfbf8e64bdb0578d391d7d02b70
-Size: 6932
-Filename: enigma2-staticdev_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 6b03696b5bc39a1ddbc5b72162ef7fdb
+SHA256sum: 2fe007faa23fa5db324461af3225cd7c3da3b9402ca88a0169a11923c78c92d8
+Size: 6956
+Filename: enigma2-staticdev_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Development files (Static Libraries)
 OE: enigma2
@@ -3280,18 +3323,18 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2
-Version: 2.7+git20175+78b14cc-r0
-Depends: alsa-conf, dm800se-branding, enigma2-fonts, ethtool, font-valis-enigma, glibc-gconv-iso8859-15, libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libc6 (>= 2.32), libcrypt2 (>= 4.4.17), libcrypto1.1 (>= 1.1.1k), libdreamdvd0 (>= 1.0+git217+02a0e7c), libdvbsi++1 (>= 0.3.9), libfreetype6 (>= 2.10.2), libfribidi0 (>= 1.0.10), libgcc1 (>= 10.2.0), libgif7 (>= 5.1.4), libglib-2.0-0 (>= 2.64.5), libgomp1 (>= 10.2.0), libjpeg62 (>= 2.0.5), libpng16-16 (>= 1.6.37), libpython2.7-1.0 (>= 2.7.18), libsigc-2.0-0 (>= 2.10.3), libssl1.1 (>= 1.1.1k), libstdc++6 (>= 10.2.0), libtuxtxt0 (>= 2.0+git82+1402795), libtuxtxt32bpp0 (>= 2.0+git82+1402795), libudfread0 (>= 1.1.2+git108+c2c561b), libxml2 (>= 2.9.10), python-codecs, python-core, python-crypt, python-fcntl, python-lang, python-logging, python-mmap, python-netclient, python-netifaces, python-netserver, python-numbers, python-pickle, python-process, python-pyusb, python-re, python-service-identity, python-shell, python-six, python-threading, python-twisted-core, python-twisted-web, python-xml, python-zlib, python-zopeinterface, virtual/blindscan-dvbc
+Version: 2.7+git20182+a9a7817-r0
+Depends: alsa-conf, dm800se-branding, enigma2-fonts, ethtool, font-valis-enigma, glibc-gconv-iso8859-15, libavahi-client3 (>= 0.8), libavahi-common3 (>= 0.8), libc6 (>= 2.32), libcrypt2 (>= 4.4.17), libcrypto1.1 (>= 1.1.1k), libdreamdvd0 (>= 1.0+git217+02a0e7c), libdvbsi++1 (>= 0.3.9), libfreetype6 (>= 2.10.2), libfribidi0 (>= 1.0.10), libgcc1 (>= 10.2.0), libgif7 (>= 5.1.4), libglib-2.0-0 (>= 2.64.5), libgomp1 (>= 10.2.0), libjpeg62 (>= 2.0.5), libpng16-16 (>= 1.6.37), libpython2.7-1.0 (>= 2.7.18), libsigc-2.0-0 (>= 2.10.3), libssl1.1 (>= 1.1.1k), libstdc++6 (>= 10.2.0), libtuxtxt0 (>= 2.0+git82+1402795), libtuxtxt32bpp0 (>= 2.0+git82+1402795), libudfread0 (>= 1.1.2+git108+b3e6936), libxml2 (>= 2.9.10), python-codecs, python-core, python-crypt, python-fcntl, python-lang, python-logging, python-mmap, python-netclient, python-netifaces, python-netserver, python-numbers, python-pickle, python-process, python-pyusb, python-re, python-service-identity, python-shell, python-six, python-threading, python-twisted-core, python-twisted-web, python-xml, python-zlib, python-zopeinterface, virtual/blindscan-dvbc
 Replaces: enigma2-plugin-pli-softcamsetup, enigma2-plugin-systemplugins-skinselector
 Conflicts: enigma2-plugin-pli-softcamsetup, enigma2-plugin-systemplugins-skinselector
 Recommends: glibc-gconv-utf-16, hotplug-e2-helper, libdvdcss, python-sendfile, virtual/enigma2-mediaservice
 Section: base
 Architecture: dm800se
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ab2424d03280c92bcff16fdf4824aeba
-SHA256sum: b304d75f3e5ca7ed83fc0f4924418f58b9d5c2450f7339007c424ddf45822c96
-Size: 2327784
-Filename: enigma2_2.7+git20175+78b14cc-r0_dm800se.ipk
+MD5Sum: 99b11622755424462e2fb482f41457f1
+SHA256sum: 1b10d055d8bebc0219329b48a5ca711f29c813ce804555d7074333cb780d9224
+Size: 2328514
+Filename: enigma2_2.7+git20182+a9a7817-r0_dm800se.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
 OE: enigma2
@@ -15266,13 +15309,13 @@ Priority: optional
 
 Package: packagegroup-core-boot-dbg
 Version: 1.0-r17
-Recommends: base-files-dbg, base-passwd-dbg, busybox-dbg, dm-bootsplash-dbg, dreambox-dvb-modules-dm800se-dbg, eudev-dbg, init-ifupdown-dbg, initscripts-dbg, libpagecache-dbg, libpassthrough-dbg, modutils-initscripts-dbg, netbase-dbg, sysvinit-dbg, update-alternatives-opkg-dbg
+Recommends: base-files-dbg, base-passwd-dbg, busybox-dbg, busybox-mdev-dbg, dm-bootsplash-dbg, dreambox-dvb-modules-dm800se-dbg, init-ifupdown-dbg, initscripts-dbg, libpagecache-dbg, libpassthrough-dbg, modutils-initscripts-dbg, netbase-dbg, sysvinit-dbg, update-alternatives-opkg-dbg
 Section: devel
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c267943a2a2c966f9f8591816ecfc280
-SHA256sum: 9ab89247477a94777479be67dc700e2b8da9acb96065edb201543b1df926a79a
-Size: 830
+MD5Sum: b7ad286364a87879e0a222164c3a6990
+SHA256sum: 53890427474ba92b776f5733c90d5e0ccee1fde941a98e433edcfee8cbd02483
+Size: 828
 Filename: packagegroup-core-boot-dbg_1.0-r17_dm800se.ipk
 Source: packagegroup-core-boot.bb
 Description: Minimal boot requirements - Debugging files
@@ -15283,12 +15326,12 @@ Priority: optional
 Package: packagegroup-core-boot-dev
 Version: 1.0-r17
 Depends: packagegroup-core-boot (= 1.0-r17)
-Recommends: base-files-dev, base-passwd-dev, busybox-dev, dm-bootsplash-dev, dreambox-dvb-modules-dm800se-dev, eudev-dev, init-ifupdown-dev, initscripts-dev, libpagecache-dev, libpassthrough-dev, modutils-initscripts-dev, netbase-dev, sysvinit-dev, update-alternatives-opkg-dev
+Recommends: base-files-dev, base-passwd-dev, busybox-dev, busybox-mdev-dev, dm-bootsplash-dev, dreambox-dvb-modules-dm800se-dev, init-ifupdown-dev, initscripts-dev, libpagecache-dev, libpassthrough-dev, modutils-initscripts-dev, netbase-dev, sysvinit-dev, update-alternatives-opkg-dev
 Section: devel
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f3340a113873745bd560825d6716f746
-SHA256sum: 5081f3399037d0f889945d77e2bc6db7b1d25cb6d38a9b21d7bfd90e893dca64
+MD5Sum: bdb30cc0890197f87b5a10c4b4a12e0f
+SHA256sum: be24ce5df2551680e423a7705ce8ea140c49fbea61697d91804f2056f21c3fb5
 Size: 854
 Filename: packagegroup-core-boot-dev_1.0-r17_dm800se.ipk
 Source: packagegroup-core-boot.bb
@@ -15299,14 +15342,14 @@ Priority: optional
 
 Package: packagegroup-core-boot
 Version: 1.0-r17
-Depends: base-files, base-passwd, busybox, dm-bootsplash, dreambox-dvb-modules-dm800se, eudev, init-ifupdown, initscripts, libpagecache, libpassthrough, modutils-initscripts, netbase, sysvinit, update-alternatives-opkg
+Depends: base-files, base-passwd, busybox, busybox-mdev, dm-bootsplash, dreambox-dvb-modules-dm800se, init-ifupdown, initscripts, libpagecache, libpassthrough, modutils-initscripts, netbase, sysvinit, update-alternatives-opkg
 Recommends: busybox-syslog
 Section: base
 Architecture: dm800se
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 620848129852135eb13a1993d04b9689
-SHA256sum: 186d5312849a8633673c6567f4dbe7ce27d6397932308b9010cc23e9e90c7899
-Size: 774
+MD5Sum: 3fc23e19c7b8dd11969bc5162f7c9b75
+SHA256sum: 9771ac1bd99975baff94671d550725a72553116bc91e6b41a266fec6db1a8657
+Size: 772
 Filename: packagegroup-core-boot_1.0-r17_dm800se.ipk
 Source: packagegroup-core-boot.bb
 Description: Minimal boot requirements
