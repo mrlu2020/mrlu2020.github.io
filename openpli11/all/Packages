@@ -1531,14 +1531,14 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer-dbg
-Version: 1+git3730+78e66d7-r0
+Version: 1+git3732+3abec18-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 54c5e8efdc937ea0d0f51faec566fdc9
-SHA256sum: cf5357a83b8252625ab41ff540d7e4e4a69cb12662e98913245c9b3c2b65bf28
-Size: 720
-Filename: enigma2-plugin-extensions-e2iplayer-dbg_1+git3730+78e66d7-r0_all.ipk
+MD5Sum: 9838666b6bd173e98f1a174c5b20046f
+SHA256sum: 16d07ef7d247e88a126eedba5ffa2486bc06e07be5b93924030cc2cc3ee38ec4
+Size: 718
+Filename: enigma2-plugin-extensions-e2iplayer-dbg_1+git3732+3abec18-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Debugging files
 OE: enigma2-plugin-extensions-e2iplayer
@@ -1547,16 +1547,16 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer-dev
-Version: 1+git3730+78e66d7-r0
-Depends: enigma2-plugin-extensions-e2iplayer (= 1+git3730+78e66d7-r0)
+Version: 1+git3732+3abec18-r0
+Depends: enigma2-plugin-extensions-e2iplayer (= 1+git3732+3abec18-r0)
 Recommends: cmdwrapper-dev, duktape-dev, exteplayer3-dev, f4mdump-dev, ffmpeg-dev, gst-ifdsrc-dev, gstplayer-dev, hlsdl-dev, iptvsubparser-dev, lsdir-dev, python-core-dev, python-dev, python-e2icjson-dev, python-pycurl-dev, rtmpdump-dev, uchardet-dev, wget-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0c79b34bfa3b456475fb86ff9edb6a15
-SHA256sum: 4d3ff498746f75c67a86113e32aeec7aa6fa44928d82a79a85491838b625e0b1
-Size: 862
-Filename: enigma2-plugin-extensions-e2iplayer-dev_1+git3730+78e66d7-r0_all.ipk
+MD5Sum: 8902a00bf49d1978d006a610fc11a12b
+SHA256sum: 343ec857fc808433c6dee93ed4deca75ee1581b27858760e780ea3dfba31e953
+Size: 860
+Filename: enigma2-plugin-extensions-e2iplayer-dev_1+git3732+3abec18-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Development files
 OE: enigma2-plugin-extensions-e2iplayer
@@ -1565,14 +1565,14 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer-src
-Version: 1+git3730+78e66d7-r0
+Version: 1+git3732+3abec18-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 939f4d90f407b5faab725cc8c79dea47
-SHA256sum: 56bc6ff1244751239e2a42e5f3d59a65492324ef1a63fd88ebeae579e479743d
-Size: 804964
-Filename: enigma2-plugin-extensions-e2iplayer-src_1+git3730+78e66d7-r0_all.ipk
+MD5Sum: 093e08b3d5baad4e3ca24f08a60f2d60
+SHA256sum: 5bd14c24e64365716be65ec0495d6f996198032b75c95e320fe4e4ebfe167f74
+Size: 804906
+Filename: enigma2-plugin-extensions-e2iplayer-src_1+git3732+3abec18-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Source files
 OE: enigma2-plugin-extensions-e2iplayer
@@ -1581,15 +1581,15 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer
-Version: 1+git3730+78e66d7-r0
+Version: 1+git3732+3abec18-r0
 Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplayer, hlsdl, iptvsubparser, lsdir, python-core, python-e2icjson, python-pycurl, rtmpdump, uchardet, wget
 Section: multimedia
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: dbfdb2bc8a0091ea2f84760770f77093
-SHA256sum: 818dfdd0cc49520eea81d25f253573cd1fb52867caef56861eb8b2b0039ff079
-Size: 5720700
-Filename: enigma2-plugin-extensions-e2iplayer_1+git3730+78e66d7-r0_all.ipk
+MD5Sum: 3e3f4664c21dc13721e752d8a7668f30
+SHA256sum: 8b1fe2ec0d216986d840e8858036a4bb5112e8be4470dfa4a0f9ab71d5824b5d
+Size: 5721322
+Filename: enigma2-plugin-extensions-e2iplayer_1+git3732+3abec18-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2
 OE: enigma2-plugin-extensions-e2iplayer
